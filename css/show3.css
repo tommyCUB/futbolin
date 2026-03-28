@@ -1,0 +1,85 @@
+/* CSS Document */
+
+#divTerreno3{
+  position:relative;
+  width:1440px;
+  height:1080px;  
+  background:url(../images/terreno.jpg) no-repeat;
+  background-size:100% 100%;
+}
+
+.player3
+{
+   position:absolute;
+   width:40px;
+   height:100px;
+   left:0px;
+   top:0px;	
+   
+}
+
+.leftOne
+{
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
+
+.row
+{
+	padding: 0px;
+	
+}
+
+#golTeam1, #golTeam2
+{
+	font-size: 20px;	
+	color: beige;	
+}
+
+.col-lg-4,.col-md-4,.col-sm-4
+{
+	padding: 1px;
+	
+}
+
+#ball3{
+  background:url(../images/ball.gif) no-repeat;
+  background-size:100% 100%;
+  width:20px;
+  height: 20px; 
+  left:0px;
+  top:0px;
+  position:absolute;
+  z-index: 10000;
+}
+
+
+
+ 
+
+#btnToggle{
+	top: 20px;
+	right: 20px;
+}
+ 
+
+#pizarra .d-flex
+{
+	padding:0px;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+.imgVolteada
+{
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+
+

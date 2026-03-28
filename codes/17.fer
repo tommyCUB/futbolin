@@ -1,0 +1,17 @@
+cerca= myCloserToPoint(ballx,bally);
+distancia=100;
+
+for(i=1;i<12;i++)
+{ 
+  if(distance(mine(i,x),mine(i,y),ball(x),ball(y))<=25)
+       shoot(i,0); 
+  else
+  { 
+    if(i==cerca)
+       goto(i,ballx,bally);
+    else   
+     goto(i,distancia-initialX,bally);   
+    
+   }
+ 
+}

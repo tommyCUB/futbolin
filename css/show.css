@@ -1,0 +1,134 @@
+/* CSS Document */
+
+#divTerreno{
+  position:absolute;
+  width:720px;
+  height:540px;  
+  background:url(../images/terreno.jpg) no-repeat;
+  background-size:100% 100%;
+  text-align:center;
+  margin-left:auto;
+  margin-top:auto;
+}
+
+#masterTerreno
+{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  width:720px;
+  height:540px; 
+}
+
+
+.leftOne
+{
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
+
+.player
+{
+   position:absolute;
+   width:20px;
+   height:50px;
+   left:0px;
+   top:0px;	
+   
+}
+
+#golTeam1, #golTeam2
+{
+	font-size: 20px;	
+	color: beige;	
+}
+
+#ball{
+  background:url(../images/ball.gif) no-repeat;
+  background-size:100% 100%;
+  width:10px;
+  height: 10px; 
+  left:0px;
+  top:0px;
+  position:absolute;
+  z-index: 10000;
+}
+
+.col-12 a
+{
+	padding-bottom: 8rem; 
+	color: #363232;	
+}
+
+.col-12 a i
+{
+	width: 50px;
+	font-size: 2rem;
+	padding-bottom: 0.5em;
+	opacity: 0.65;
+}
+
+
+#cajalista
+{
+	height: 100%;     
+	z-index: 10000; 
+	position: absolute;
+	right: 0px;
+	top:0px;
+	opacity: .7;
+	
+	height: 100%; 
+background: #CFCFCF;
+	z-index: 10000; 
+	
+	border: thin #3B3B3B;
+	border-bottom-left-radius: 5px 5px 5px 5px; 
+	position: absolute;
+	right: 0px;
+	top:0px;
+}
+
+#btnToggle{
+	top: 20px;
+	right: 20px;
+}
+
+#lista a
+{
+	padding: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#lista a img,strong
+{
+	padding: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#pizarra .d-flex
+{
+	padding:0px;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+.imgVolteada
+{
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+
+#maqueta
+{
+	
+}

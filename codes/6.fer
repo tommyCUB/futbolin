@@ -1,0 +1,22 @@
+a=myNearestAtBall();
+goto(a,ball(x),ball(y));
+
+goto(5,ball(),mine(5,y));
+goto(6,ball(),mine(6,y)); 
+
+for(i=0;i<11;i++){
+  if(distance(mine(i,x),mine(i,y),ball(x),ball(y))<=15)
+      shoot(i,0); 
+}
+
+arr[10]=234;
+ 
+c= arr[10];
+
+arr[4]=89;
+ 
+
+
+
+
+

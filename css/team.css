@@ -1,0 +1,32 @@
+/* CSS Document */
+
+#carga{
+	border: 5px solid #ccc;
+	border-top-color: #F4266A;
+	border-top-style: groove;
+	height: 30px;
+	width: 30px;
+	border-radius: 100%;
+	position: absolute;
+	
+	-webkit-animation: girar 1.5s infinite;
+	-o-animation: girar 1.5s infinite;
+	animation: girar 1.5s infinite;
+	 
+}
+
+@keyframes girar {
+	from { transform: rotate(0deg);}
+	to { transform: rotate(360deg);}
+}
+
+#divResult{
+	height: auto;
+	padding: 2px;
+	margin: 2px;
+}
+
+.boton:hover{
+	background-color: aliceblue;
+}
+

@@ -1,0 +1,1993 @@
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):GOTO(10,240,180):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+0,400,240,180,True,11,11,0;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):GOTO(10,240,180):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+1,400,240,180,True,11,11,0;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):GOTO(10,240,180):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+2,400,240,180,True,11,11,0;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+3,400,240,180,True,11,11,0;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+4,400,240,180,True,11,11,0;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+5,400,257,176,True,11,11,17;
+%%
+GOTO(0,257,176):GOTO(1,257,176):GOTO(2,257,176):GOTO(3,257,176):GOTO(4,257,176):GOTO(5,257,176):GOTO(6,257,176):GOTO(7,257,176):GOTO(8,257,176):GOTO(9,257,176):SHOOT(10,0):;
+ ballx:17# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+6,400,273,172,False,11,11,51;
+%%
+GOTO(0,273,172):GOTO(1,273,172):GOTO(2,273,172):GOTO(3,273,172):GOTO(4,273,172):GOTO(5,273,172):GOTO(6,273,172):GOTO(7,273,172):GOTO(8,273,172):GOTO(9,273,172):GOTO(10,273,172):;
+ ballx:33# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+7,400,289,168,False,11,11,100;
+%%
+GOTO(0,289,168):GOTO(1,289,168):GOTO(2,289,168):GOTO(3,289,168):GOTO(4,289,168):GOTO(5,289,168):GOTO(6,289,168):GOTO(7,289,168):GOTO(8,289,168):GOTO(9,289,168):GOTO(10,289,168):;
+ ballx:49# bally:-12# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+8,400,303,164,False,11,9,164;
+%%
+GOTO(0,303,164):GOTO(1,303,164):GOTO(2,303,164):GOTO(3,303,164):GOTO(4,303,164):GOTO(5,303,164):GOTO(6,303,164):GOTO(7,303,164):GOTO(8,303,164):GOTO(9,303,164):GOTO(10,303,164):;
+ ballx:63# bally:-16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+9,400,317,161,False,11,9,242;
+%%
+GOTO(0,317,161):GOTO(1,317,161):GOTO(2,317,161):GOTO(3,317,161):GOTO(4,317,161):GOTO(5,317,161):GOTO(6,317,161):GOTO(7,317,161):GOTO(8,317,161):GOTO(9,317,161):GOTO(10,317,161):;
+ ballx:77# bally:-19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+10,400,330,157,False,11,9,332;
+%%
+GOTO(0,330,157):GOTO(1,330,157):GOTO(2,330,157):GOTO(3,330,157):GOTO(4,330,157):GOTO(5,330,157):GOTO(6,330,157):GOTO(7,330,157):GOTO(8,330,157):GOTO(9,330,157):GOTO(10,330,157):;
+ ballx:90# bally:-23# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+11,400,341,154,False,11,9,433;
+%%
+GOTO(0,341,154):GOTO(1,341,154):GOTO(2,341,154):GOTO(3,341,154):GOTO(4,341,154):GOTO(5,341,154):GOTO(6,341,154):GOTO(7,341,154):GOTO(8,341,154):GOTO(9,341,154):GOTO(10,341,154):;
+ ballx:101# bally:-26# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+12,400,352,152,False,11,4,546;
+%%
+GOTO(0,352,152):GOTO(1,352,152):GOTO(2,352,152):GOTO(3,352,152):GOTO(4,352,152):GOTO(5,352,152):GOTO(6,352,152):GOTO(7,352,152):GOTO(8,352,152):GOTO(9,352,152):GOTO(10,352,152):;
+ ballx:112# bally:-28# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+13,400,362,149,False,11,4,668;
+%%
+GOTO(0,362,149):GOTO(1,362,149):GOTO(2,362,149):GOTO(3,362,149):GOTO(4,362,149):GOTO(5,362,149):GOTO(6,362,149):GOTO(7,362,149):GOTO(8,362,149):GOTO(9,362,149):GOTO(10,362,149):;
+ ballx:122# bally:-31# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+14,400,370,147,False,11,4,799;
+%%
+GOTO(0,370,147):GOTO(1,370,147):GOTO(2,370,147):GOTO(3,370,147):GOTO(4,370,147):GOTO(5,370,147):GOTO(6,370,147):GOTO(7,370,147):GOTO(8,370,147):GOTO(9,370,147):GOTO(10,370,147):;
+ ballx:130# bally:-33# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+15,400,378,145,False,11,5,937;
+%%
+GOTO(0,378,145):GOTO(1,378,145):GOTO(2,378,145):GOTO(3,378,145):GOTO(4,378,145):GOTO(5,378,145):GOTO(6,378,145):GOTO(7,378,145):GOTO(8,378,145):GOTO(9,378,145):GOTO(10,378,145):;
+ ballx:138# bally:-35# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+16,400,357,143,False,11,4,1055;
+%%
+GOTO(0,357,143):GOTO(1,357,143):GOTO(2,357,143):GOTO(3,357,143):GOTO(4,357,143):GOTO(5,357,143):GOTO(6,357,143):GOTO(7,357,143):GOTO(8,357,143):GOTO(9,357,143):GOTO(10,357,143):;
+ ballx:117# bally:-37# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+17,400,337,140,False,11,9,1152;
+%%
+GOTO(0,337,140):GOTO(1,337,140):GOTO(2,337,140):GOTO(3,337,140):GOTO(4,337,140):GOTO(5,337,140):GOTO(6,337,140):GOTO(7,337,140):GOTO(8,337,140):GOTO(9,337,140):GOTO(10,337,140):;
+ ballx:97# bally:-40# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+18,400,318,138,True,11,4,1231;
+%%
+GOTO(0,318,138):GOTO(1,318,138):GOTO(2,318,138):GOTO(3,318,138):GOTO(4,318,138):GOTO(5,318,138):GOTO(6,318,138):GOTO(7,318,138):GOTO(8,318,138):GOTO(9,318,138):GOTO(10,318,138):;
+ ballx:78# bally:-42# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+19,400,300,136,True,11,10,1292;
+%%
+GOTO(0,300,136):GOTO(1,300,136):GOTO(2,300,136):GOTO(3,300,136):GOTO(4,300,136):GOTO(5,300,136):GOTO(6,300,136):GOTO(7,300,136):GOTO(8,300,136):GOTO(9,300,136):SHOOT(10,0):;
+ ballx:60# bally:-44# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+20,400,284,134,True,11,10,1336;
+%%
+GOTO(0,284,134):GOTO(1,284,134):GOTO(2,284,134):GOTO(3,284,134):GOTO(4,284,134):GOTO(5,284,134):GOTO(6,284,134):GOTO(7,284,134):GOTO(8,284,134):GOTO(9,284,134):GOTO(10,284,134):;
+ ballx:44# bally:-46# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+21,400,268,133,True,10,11,1365;
+%%
+GOTO(0,268,133):GOTO(1,268,133):GOTO(2,268,133):GOTO(3,268,133):GOTO(4,268,133):GOTO(5,268,133):GOTO(6,268,133):GOTO(7,268,133):GOTO(8,268,133):SHOOT(9,0):GOTO(10,268,133):;
+ ballx:28# bally:-47# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+22,400,253,131,True,10,11,1378;
+%%
+GOTO(0,253,131):GOTO(1,253,131):GOTO(2,253,131):GOTO(3,253,131):GOTO(4,253,131):GOTO(5,253,131):GOTO(6,253,131):GOTO(7,253,131):GOTO(8,253,131):SHOOT(9,0):GOTO(10,253,131):;
+ ballx:13# bally:-49# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+23,400,271,133,True,10,10,1409;
+%%
+GOTO(0,271,133):GOTO(1,271,133):GOTO(2,271,133):GOTO(3,271,133):GOTO(4,271,133):GOTO(5,271,133):GOTO(6,271,133):GOTO(7,271,133):SHOOT(8,0):SHOOT(9,0):GOTO(10,271,133):;
+ ballx:31# bally:-47# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+24,400,288,134,True,11,4,1457;
+%%
+GOTO(0,288,134):GOTO(1,288,134):GOTO(2,288,134):GOTO(3,288,134):GOTO(4,288,134):GOTO(5,288,134):GOTO(6,288,134):GOTO(7,288,134):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:48# bally:-46# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+25,400,304,135,False,11,4,1521;
+%%
+GOTO(0,304,135):GOTO(1,304,135):GOTO(2,304,135):GOTO(3,304,135):GOTO(4,304,135):GOTO(5,304,135):GOTO(6,304,135):GOTO(7,304,135):GOTO(8,304,135):GOTO(9,304,135):SHOOT(10,0):;
+ ballx:64# bally:-45# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+26,400,292,137,False,11,4,1574;
+%%
+GOTO(0,292,137):GOTO(1,292,137):GOTO(2,292,137):GOTO(3,292,137):GOTO(4,292,137):GOTO(5,292,137):GOTO(6,292,137):GOTO(7,292,137):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:52# bally:-43# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+27,400,310,135,False,10,6,1644;
+%%
+GOTO(0,310,135):GOTO(1,310,135):GOTO(2,310,135):GOTO(3,310,135):GOTO(4,310,135):GOTO(5,310,135):GOTO(6,310,135):GOTO(7,310,135):GOTO(8,310,135):GOTO(9,310,135):GOTO(10,310,135):;
+ ballx:70# bally:-45# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+28,400,327,134,False,10,5,1731;
+%%
+GOTO(0,327,134):GOTO(1,327,134):GOTO(2,327,134):GOTO(3,327,134):GOTO(4,327,134):GOTO(5,327,134):GOTO(6,327,134):GOTO(7,327,134):GOTO(8,327,134):GOTO(9,327,134):GOTO(10,327,134):;
+ ballx:87# bally:-46# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+29,400,342,132,False,10,5,1834;
+%%
+GOTO(0,342,132):GOTO(1,342,132):GOTO(2,342,132):GOTO(3,342,132):GOTO(4,342,132):GOTO(5,342,132):GOTO(6,342,132):GOTO(7,342,132):GOTO(8,342,132):GOTO(9,342,132):GOTO(10,342,132):;
+ ballx:102# bally:-48# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+30,400,322,137,False,9,3,1916;
+%%
+GOTO(0,322,137):GOTO(1,322,137):GOTO(2,322,137):GOTO(3,322,137):GOTO(4,322,137):GOTO(5,322,137):GOTO(6,322,137):GOTO(7,322,137):SHOOT(8,0):GOTO(9,322,137):GOTO(10,322,137):;
+ ballx:82# bally:-43# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+31,400,303,142,True,9,10,1980;
+%%
+GOTO(0,303,142):GOTO(1,303,142):GOTO(2,303,142):GOTO(3,303,142):GOTO(4,303,142):GOTO(5,303,142):GOTO(6,303,142):GOTO(7,303,142):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:63# bally:-38# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+32,400,284,146,True,4,10,2024;
+%%
+GOTO(0,284,146):GOTO(1,284,146):GOTO(2,284,146):SHOOT(3,0):GOTO(4,284,146):SHOOT(5,0):GOTO(6,284,146):GOTO(7,284,146):GOTO(8,284,146):GOTO(9,284,146):SHOOT(10,0):;
+ ballx:44# bally:-34# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+33,400,267,151,True,6,10,2052;
+%%
+GOTO(0,267,151):GOTO(1,267,151):SHOOT(2,0):SHOOT(3,0):GOTO(4,267,151):SHOOT(5,0):GOTO(6,267,151):GOTO(7,267,151):GOTO(8,267,151):GOTO(9,267,151):GOTO(10,267,151):;
+ ballx:27# bally:-29# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+34,400,250,155,True,3,10,2062;
+%%
+GOTO(0,250,155):GOTO(1,250,155):SHOOT(2,0):GOTO(3,250,155):GOTO(4,250,155):GOTO(5,250,155):GOTO(6,250,155):GOTO(7,250,155):GOTO(8,250,155):GOTO(9,250,155):GOTO(10,250,155):;
+ ballx:10# bally:-25# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+35,400,236,159,True,3,10,2058;
+%%
+GOTO(0,236,159):GOTO(1,236,159):GOTO(2,236,159):GOTO(3,236,159):GOTO(4,236,159):GOTO(5,236,159):GOTO(6,236,159):GOTO(7,236,159):GOTO(8,236,159):GOTO(9,236,159):GOTO(10,236,159):;
+ ballx:-4# bally:-21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+36,400,221,162,True,2,11,2038;
+%%
+GOTO(0,221,162):GOTO(1,221,162):GOTO(2,221,162):GOTO(3,221,162):GOTO(4,221,162):GOTO(5,221,162):GOTO(6,221,162):GOTO(7,221,162):GOTO(8,221,162):GOTO(9,221,162):GOTO(10,221,162):;
+ ballx:-19# bally:-18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+37,400,208,166,True,2,11,2005;
+%%
+GOTO(0,208,166):GOTO(1,208,166):GOTO(2,208,166):GOTO(3,208,166):GOTO(4,208,166):GOTO(5,208,166):GOTO(6,208,166):GOTO(7,208,166):GOTO(8,208,166):GOTO(9,208,166):GOTO(10,208,166):;
+ ballx:-32# bally:-14# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+38,400,195,169,True,1,11,1960;
+%%
+GOTO(0,195,169):GOTO(1,195,169):GOTO(2,195,169):GOTO(3,195,169):GOTO(4,195,169):GOTO(5,195,169):GOTO(6,195,169):GOTO(7,195,169):GOTO(8,195,169):GOTO(9,195,169):GOTO(10,195,169):;
+ ballx:-45# bally:-11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+39,400,183,172,True,1,11,1903;
+%%
+SHOOT(0,0):GOTO(1,183,172):GOTO(2,183,172):GOTO(3,183,172):GOTO(4,183,172):GOTO(5,183,172):GOTO(6,183,172):GOTO(7,183,172):GOTO(8,183,172):GOTO(9,183,172):GOTO(10,183,172):;
+ ballx:-57# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+40,400,173,174,True,1,11,1835;
+%%
+SHOOT(0,0):GOTO(1,173,174):GOTO(2,173,174):GOTO(3,173,174):GOTO(4,173,174):GOTO(5,173,174):GOTO(6,173,174):GOTO(7,173,174):GOTO(8,173,174):GOTO(9,173,174):GOTO(10,173,174):;
+ ballx:-67# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+41,400,194,173,True,1,11,1788;
+%%
+SHOOT(0,0):GOTO(1,194,173):GOTO(2,194,173):GOTO(3,194,173):SHOOT(4,0):GOTO(5,194,173):GOTO(6,194,173):GOTO(7,194,173):GOTO(8,194,173):GOTO(9,194,173):GOTO(10,194,173):;
+ ballx:-46# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+42,400,214,172,True,7,4,1761;
+%%
+GOTO(0,214,172):GOTO(1,214,172):SHOOT(2,0):SHOOT(3,0):GOTO(4,214,172):GOTO(5,214,172):SHOOT(6,0):GOTO(7,214,172):GOTO(8,214,172):GOTO(9,214,172):GOTO(10,214,172):;
+ ballx:-26# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:6#;
+();
+43,400,233,171,True,4,4,1753;
+%%
+GOTO(0,233,171):GOTO(1,233,171):SHOOT(2,0):SHOOT(3,0):GOTO(4,233,171):SHOOT(5,0):GOTO(6,233,171):GOTO(7,233,171):SHOOT(8,0):GOTO(9,233,171):GOTO(10,233,171):;
+ ballx:-7# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+44,400,250,169,False,10,10,1763;
+%%
+GOTO(0,250,169):GOTO(1,250,169):GOTO(2,250,169):GOTO(3,250,169):GOTO(4,250,169):SHOOT(5,0):GOTO(6,250,169):GOTO(7,250,169):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:10# bally:-11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+45,400,266,168,False,11,6,1790;
+%%
+GOTO(0,266,168):GOTO(1,266,168):GOTO(2,266,168):GOTO(3,266,168):GOTO(4,266,168):GOTO(5,266,168):GOTO(6,266,168):GOTO(7,266,168):GOTO(8,266,168):SHOOT(9,0):SHOOT(10,0):;
+ ballx:26# bally:-12# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+46,400,282,167,False,11,1,1833;
+%%
+GOTO(0,282,167):GOTO(1,282,167):GOTO(2,282,167):GOTO(3,282,167):GOTO(4,282,167):GOTO(5,282,167):GOTO(6,282,167):GOTO(7,282,167):GOTO(8,282,167):GOTO(9,282,167):GOTO(10,282,167):;
+ ballx:42# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+47,400,262,164,False,11,6,1855;
+%%
+GOTO(0,262,164):GOTO(1,262,164):SHOOT(2,0):SHOOT(3,0):GOTO(4,262,164):SHOOT(5,0):GOTO(6,262,164):GOTO(7,262,164):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:22# bally:-16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+48,400,242,161,True,6,9,1858;
+%%
+GOTO(0,242,161):SHOOT(1,0):SHOOT(2,0):SHOOT(3,0):GOTO(4,242,161):SHOOT(5,0):SHOOT(6,0):SHOOT(7,0):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:2# bally:-19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+49,400,224,158,True,2,10,1842;
+%%
+SHOOT(0,0):SHOOT(1,0):GOTO(2,224,158):GOTO(3,224,158):SHOOT(4,0):SHOOT(5,0):SHOOT(6,0):SHOOT(7,0):GOTO(8,224,158):GOTO(9,224,158):GOTO(10,224,158):;
+ ballx:-16# bally:-22# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+50,400,206,155,True,1,9,1808;
+%%
+SHOOT(0,0):GOTO(1,206,155):GOTO(2,206,155):GOTO(3,206,155):GOTO(4,206,155):GOTO(5,206,155):GOTO(6,206,155):GOTO(7,206,155):GOTO(8,206,155):GOTO(9,206,155):GOTO(10,206,155):;
+ ballx:-34# bally:-25# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+51,400,190,152,True,1,9,1757;
+%%
+GOTO(0,190,152):GOTO(1,190,152):GOTO(2,190,152):GOTO(3,190,152):GOTO(4,190,152):GOTO(5,190,152):GOTO(6,190,152):GOTO(7,190,152):GOTO(8,190,152):GOTO(9,190,152):GOTO(10,190,152):;
+ ballx:-50# bally:-28# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+52,400,174,150,True,1,11,1690;
+%%
+GOTO(0,174,150):GOTO(1,174,150):GOTO(2,174,150):GOTO(3,174,150):GOTO(4,174,150):GOTO(5,174,150):GOTO(6,174,150):GOTO(7,174,150):GOTO(8,174,150):GOTO(9,174,150):GOTO(10,174,150):;
+ ballx:-66# bally:-30# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+53,400,159,147,False,1,11,1609;
+%%
+GOTO(0,159,147):GOTO(1,159,147):GOTO(2,159,147):GOTO(3,159,147):GOTO(4,159,147):GOTO(5,159,147):GOTO(6,159,147):GOTO(7,159,147):GOTO(8,159,147):GOTO(9,159,147):GOTO(10,159,147):;
+ ballx:-81# bally:-33# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+54,400,145,145,False,1,11,1513;
+%%
+GOTO(0,145,145):GOTO(1,145,145):GOTO(2,145,145):GOTO(3,145,145):GOTO(4,145,145):GOTO(5,145,145):GOTO(6,145,145):GOTO(7,145,145):GOTO(8,145,145):GOTO(9,145,145):GOTO(10,145,145):;
+ ballx:-95# bally:-35# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+55,400,132,143,False,1,11,1405;
+%%
+GOTO(0,132,143):GOTO(1,132,143):GOTO(2,132,143):GOTO(3,132,143):GOTO(4,132,143):GOTO(5,132,143):GOTO(6,132,143):GOTO(7,132,143):GOTO(8,132,143):GOTO(9,132,143):GOTO(10,132,143):;
+ ballx:-108# bally:-37# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+56,400,121,141,False,1,11,1285;
+%%
+GOTO(0,121,141):GOTO(1,121,141):GOTO(2,121,141):GOTO(3,121,141):GOTO(4,121,141):GOTO(5,121,141):GOTO(6,121,141):GOTO(7,121,141):GOTO(8,121,141):GOTO(9,121,141):GOTO(10,121,141):;
+ ballx:-119# bally:-39# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+57,400,110,139,False,1,11,1155;
+%%
+GOTO(0,110,139):GOTO(1,110,139):GOTO(2,110,139):GOTO(3,110,139):GOTO(4,110,139):GOTO(5,110,139):GOTO(6,110,139):GOTO(7,110,139):GOTO(8,110,139):GOTO(9,110,139):GOTO(10,110,139):;
+ ballx:-130# bally:-41# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+58,400,100,138,False,1,11,1014;
+%%
+GOTO(0,100,138):GOTO(1,100,138):GOTO(2,100,138):GOTO(3,100,138):GOTO(4,100,138):GOTO(5,100,138):GOTO(6,100,138):GOTO(7,100,138):GOTO(8,100,138):GOTO(9,100,138):GOTO(10,100,138):;
+ ballx:-140# bally:-42# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+59,400,91,136,False,1,11,864;
+%%
+GOTO(0,91,136):GOTO(1,91,136):GOTO(2,91,136):GOTO(3,91,136):GOTO(4,91,136):GOTO(5,91,136):GOTO(6,91,136):GOTO(7,91,136):GOTO(8,91,136):GOTO(9,91,136):GOTO(10,91,136):;
+ ballx:-149# bally:-44# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+60,400,83,135,False,1,11,707;
+%%
+GOTO(0,83,135):GOTO(1,83,135):GOTO(2,83,135):GOTO(3,83,135):GOTO(4,83,135):GOTO(5,83,135):GOTO(6,83,135):GOTO(7,83,135):GOTO(8,83,135):GOTO(9,83,135):GOTO(10,83,135):;
+ ballx:-157# bally:-45# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+61,400,76,134,False,9,11,543;
+%%
+GOTO(0,76,134):GOTO(1,76,134):GOTO(2,76,134):GOTO(3,76,134):GOTO(4,76,134):GOTO(5,76,134):GOTO(6,76,134):GOTO(7,76,134):GOTO(8,76,134):GOTO(9,76,134):GOTO(10,76,134):;
+ ballx:-164# bally:-46# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+62,400,70,133,False,9,11,372;
+%%
+GOTO(0,70,133):GOTO(1,70,133):GOTO(2,70,133):GOTO(3,70,133):GOTO(4,70,133):GOTO(5,70,133):GOTO(6,70,133):GOTO(7,70,133):GOTO(8,70,133):GOTO(9,70,133):GOTO(10,70,133):;
+ ballx:-170# bally:-47# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+63,400,65,132,False,9,11,197;
+%%
+GOTO(0,65,132):GOTO(1,65,132):GOTO(2,65,132):GOTO(3,65,132):GOTO(4,65,132):GOTO(5,65,132):GOTO(6,65,132):GOTO(7,65,132):GOTO(8,65,132):GOTO(9,65,132):GOTO(10,65,132):;
+ ballx:-175# bally:-48# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+64,400,61,131,False,9,11,18;
+%%
+GOTO(0,61,131):GOTO(1,61,131):GOTO(2,61,131):GOTO(3,61,131):GOTO(4,61,131):GOTO(5,61,131):GOTO(6,61,131):GOTO(7,61,131):GOTO(8,61,131):GOTO(9,61,131):GOTO(10,61,131):;
+ ballx:-179# bally:-49# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+65,400,58,131,False,9,11,-163;
+%%
+GOTO(0,58,131):GOTO(1,58,131):GOTO(2,58,131):GOTO(3,58,131):GOTO(4,58,131):GOTO(5,58,131):GOTO(6,58,131):GOTO(7,58,131):GOTO(8,58,131):GOTO(9,58,131):GOTO(10,58,131):;
+ ballx:-182# bally:-49# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+66,400,56,130,False,9,11,-347;
+%%
+GOTO(0,56,130):GOTO(1,56,130):GOTO(2,56,130):GOTO(3,56,130):GOTO(4,56,130):GOTO(5,56,130):GOTO(6,56,130):GOTO(7,56,130):GOTO(8,56,130):GOTO(9,56,130):GOTO(10,56,130):;
+ ballx:-184# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+67,400,55,130,False,9,11,-532;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+68,400,55,130,False,9,11,-717;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+69,400,55,130,False,9,11,-902;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+70,400,55,130,False,9,11,-1088;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+71,400,55,130,True,9,9,-1273;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+72,400,55,130,True,9,9,-1458;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+73,400,55,130,True,9,9,-1643;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+74,400,55,130,True,9,9,-1828;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):GOTO(3,55,130):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):GOTO(8,55,130):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+75,400,55,130,True,9,9,-2013;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):SHOOT(3,0):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):SHOOT(8,0):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+76,400,55,130,True,9,9,-2198;
+%%
+GOTO(0,55,130):GOTO(1,55,130):GOTO(2,55,130):SHOOT(3,0):GOTO(4,55,130):GOTO(5,55,130):GOTO(6,55,130):GOTO(7,55,130):SHOOT(8,0):GOTO(9,55,130):GOTO(10,55,130):;
+ ballx:-185# bally:-50# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+77,400,67,132,False,4,9,-2371;
+%%
+GOTO(0,67,132):GOTO(1,67,132):SHOOT(2,0):SHOOT(3,0):GOTO(4,67,132):GOTO(5,67,132):GOTO(6,67,132):GOTO(7,67,132):SHOOT(8,0):GOTO(9,67,132):GOTO(10,67,132):;
+ ballx:-173# bally:-48# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+78,400,58,140,False,4,9,-2553;
+%%
+GOTO(0,58,140):GOTO(1,58,140):SHOOT(2,0):SHOOT(3,0):GOTO(4,58,140):GOTO(5,58,140):GOTO(6,58,140):GOTO(7,58,140):SHOOT(8,0):GOTO(9,58,140):GOTO(10,58,140):;
+ ballx:-182# bally:-40# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+79,400,70,141,True,3,4,-2724;
+%%
+GOTO(0,70,141):GOTO(1,70,141):SHOOT(2,0):SHOOT(3,0):GOTO(4,70,141):GOTO(5,70,141):GOTO(6,70,141):GOTO(7,70,141):SHOOT(8,0):GOTO(9,70,141):GOTO(10,70,141):;
+ ballx:-170# bally:-39# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+80,400,60,147,True,3,4,-2904;
+%%
+GOTO(0,60,147):GOTO(1,60,147):SHOOT(2,0):SHOOT(3,0):GOTO(4,60,147):GOTO(5,60,147):GOTO(6,60,147):GOTO(7,60,147):SHOOT(8,0):GOTO(9,60,147):GOTO(10,60,147):;
+ ballx:-180# bally:-33# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+81,400,50,153,False,4,4,-3094;
+%%
+GOTO(0,50,153):GOTO(1,50,153):SHOOT(2,0):SHOOT(3,0):GOTO(4,50,153):GOTO(5,50,153):GOTO(6,50,153):GOTO(7,50,153):SHOOT(8,0):GOTO(9,50,153):GOTO(10,50,153):;
+ ballx:-190# bally:-27# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+82,400,42,158,False,3,4,-3293;
+%%
+GOTO(0,42,158):GOTO(1,42,158):GOTO(2,42,158):GOTO(3,42,158):GOTO(4,42,158):GOTO(5,42,158):GOTO(6,42,158):GOTO(7,42,158):GOTO(8,42,158):GOTO(9,42,158):GOTO(10,42,158):;
+ ballx:-198# bally:-22# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+83,400,34,163,False,4,4,-3499;
+%%
+GOTO(0,34,163):GOTO(1,34,163):GOTO(2,34,163):GOTO(3,34,163):GOTO(4,34,163):GOTO(5,34,163):GOTO(6,34,163):GOTO(7,34,163):GOTO(8,34,163):GOTO(9,34,163):GOTO(10,34,163):;
+ ballx:-206# bally:-17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+84,400,27,167,False,4,4,-3712;
+%%
+GOTO(0,27,167):GOTO(1,27,167):GOTO(2,27,167):GOTO(3,27,167):GOTO(4,27,167):GOTO(5,27,167):GOTO(6,27,167):GOTO(7,27,167):GOTO(8,27,167):GOTO(9,27,167):GOTO(10,27,167):;
+ ballx:-213# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+85,400,21,170,False,4,4,-3932;
+%%
+GOTO(0,21,170):GOTO(1,21,170):GOTO(2,21,170):GOTO(3,21,170):GOTO(4,21,170):GOTO(5,21,170):GOTO(6,21,170):GOTO(7,21,170):GOTO(8,21,170):GOTO(9,21,170):GOTO(10,21,170):;
+ ballx:-219# bally:-10# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+86,400,16,173,False,4,4,-4156;
+%%
+GOTO(0,16,173):GOTO(1,16,173):GOTO(2,16,173):GOTO(3,16,173):GOTO(4,16,173):GOTO(5,16,173):GOTO(6,16,173):GOTO(7,16,173):GOTO(8,16,173):GOTO(9,16,173):GOTO(10,16,173):;
+ ballx:-224# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+87,400,12,176,False,4,4,-4385;
+%%
+GOTO(0,12,176):GOTO(1,12,176):GOTO(2,12,176):GOTO(3,12,176):GOTO(4,12,176):GOTO(5,12,176):GOTO(6,12,176):GOTO(7,12,176):GOTO(8,12,176):GOTO(9,12,176):GOTO(10,12,176):;
+ ballx:-228# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+88,400,8,178,False,4,4,-4617;
+%%
+GOTO(0,8,178):GOTO(1,8,178):GOTO(2,8,178):GOTO(3,8,178):GOTO(4,8,178):GOTO(5,8,178):GOTO(6,8,178):GOTO(7,8,178):GOTO(8,8,178):GOTO(9,8,178):GOTO(10,8,178):;
+ ballx:-232# bally:-2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+89,400,6,180,False,4,4,-4851;
+%%
+GOTO(0,6,180):GOTO(1,6,180):GOTO(2,6,180):SHOOT(3,0):GOTO(4,6,180):GOTO(5,6,180):GOTO(6,6,180):GOTO(7,6,180):SHOOT(8,0):GOTO(9,6,180):GOTO(10,6,180):;
+ ballx:-234# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+90,400,4,180,False,4,4,-5088;
+%%
+GOTO(0,4,180):GOTO(1,4,180):SHOOT(2,0):SHOOT(3,0):GOTO(4,4,180):GOTO(5,4,180):GOTO(6,4,180):GOTO(7,4,180):SHOOT(8,0):GOTO(9,4,180):GOTO(10,4,180):;
+ ballx:-236# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+91,400,3,180,False,4,4,-5325;
+%%
+GOTO(0,3,180):GOTO(1,3,180):SHOOT(2,0):SHOOT(3,0):GOTO(4,3,180):GOTO(5,3,180):GOTO(6,3,180):GOTO(7,3,180):SHOOT(8,0):GOTO(9,3,180):GOTO(10,3,180):;
+ ballx:-237# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+92,400,15,178,True,3,4,-5551;
+%%
+GOTO(0,15,178):GOTO(1,15,178):SHOOT(2,0):SHOOT(3,0):GOTO(4,15,178):GOTO(5,15,178):GOTO(6,15,178):GOTO(7,15,178):SHOOT(8,0):GOTO(9,15,178):GOTO(10,15,178):;
+ ballx:-225# bally:-2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+93,400,3,177,False,4,9,-5789;
+%%
+GOTO(0,3,177):GOTO(1,3,177):SHOOT(2,0):SHOOT(3,0):GOTO(4,3,177):GOTO(5,3,177):GOTO(6,3,177):GOTO(7,3,177):SHOOT(8,0):GOTO(9,3,177):GOTO(10,3,177):;
+ ballx:-237# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+94,400,15,176,False,4,4,-6015;
+%%
+GOTO(0,15,176):GOTO(1,15,176):SHOOT(2,0):SHOOT(3,0):GOTO(4,15,176):GOTO(5,15,176):GOTO(6,15,176):GOTO(7,15,176):SHOOT(8,0):GOTO(9,15,176):GOTO(10,15,176):;
+ ballx:-225# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+95,400,3,178,False,3,3,-6252;
+%%
+GOTO(0,3,178):GOTO(1,3,178):SHOOT(2,0):SHOOT(3,0):GOTO(4,3,178):GOTO(5,3,178):GOTO(6,3,178):GOTO(7,3,178):SHOOT(8,0):GOTO(9,3,178):GOTO(10,3,178):;
+ ballx:-237# bally:-2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+96,400,15,180,False,4,4,-6478;
+%%
+GOL (0,1,8);
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+98,400,257,176,True,11,11,-6461;
+%%
+GOTO(0,257,176):GOTO(1,257,176):GOTO(2,257,176):GOTO(3,257,176):GOTO(4,257,176):GOTO(5,257,176):GOTO(6,257,176):GOTO(7,257,176):GOTO(8,257,176):GOTO(9,257,176):SHOOT(10,0):;
+ ballx:17# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+99,400,274,173,False,11,11,-6427;
+%%
+GOTO(0,274,173):GOTO(1,274,173):GOTO(2,274,173):GOTO(3,274,173):GOTO(4,274,173):GOTO(5,274,173):GOTO(6,274,173):GOTO(7,274,173):GOTO(8,274,173):GOTO(9,274,173):GOTO(10,274,173):;
+ ballx:34# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+100,400,289,169,False,11,11,-6377;
+%%
+GOTO(0,289,169):GOTO(1,289,169):GOTO(2,289,169):GOTO(3,289,169):GOTO(4,289,169):GOTO(5,289,169):GOTO(6,289,169):GOTO(7,289,169):GOTO(8,289,169):GOTO(9,289,169):GOTO(10,289,169):;
+ ballx:49# bally:-11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+101,400,304,166,False,11,11,-6313;
+%%
+GOTO(0,304,166):GOTO(1,304,166):GOTO(2,304,166):GOTO(3,304,166):GOTO(4,304,166):GOTO(5,304,166):GOTO(6,304,166):GOTO(7,304,166):GOTO(8,304,166):GOTO(9,304,166):GOTO(10,304,166):;
+ ballx:64# bally:-14# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+102,400,317,163,False,11,11,-6235;
+%%
+GOTO(0,317,163):GOTO(1,317,163):GOTO(2,317,163):GOTO(3,317,163):GOTO(4,317,163):GOTO(5,317,163):GOTO(6,317,163):GOTO(7,317,163):GOTO(8,317,163):GOTO(9,317,163):GOTO(10,317,163):;
+ ballx:77# bally:-17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+103,400,330,160,False,11,9,-6144;
+%%
+GOTO(0,330,160):GOTO(1,330,160):GOTO(2,330,160):GOTO(3,330,160):GOTO(4,330,160):GOTO(5,330,160):GOTO(6,330,160):GOTO(7,330,160):GOTO(8,330,160):GOTO(9,330,160):GOTO(10,330,160):;
+ ballx:90# bally:-20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+104,400,342,157,False,11,9,-6042;
+%%
+GOTO(0,342,157):GOTO(1,342,157):GOTO(2,342,157):GOTO(3,342,157):GOTO(4,342,157):GOTO(5,342,157):GOTO(6,342,157):GOTO(7,342,157):GOTO(8,342,157):GOTO(9,342,157):GOTO(10,342,157):;
+ ballx:102# bally:-23# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+105,400,353,154,False,11,9,-5929;
+%%
+GOTO(0,353,154):GOTO(1,353,154):GOTO(2,353,154):GOTO(3,353,154):GOTO(4,353,154):GOTO(5,353,154):GOTO(6,353,154):GOTO(7,353,154):GOTO(8,353,154):GOTO(9,353,154):GOTO(10,353,154):;
+ ballx:113# bally:-26# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+106,400,362,152,False,11,9,-5806;
+%%
+GOTO(0,362,152):GOTO(1,362,152):GOTO(2,362,152):GOTO(3,362,152):GOTO(4,362,152):GOTO(5,362,152):GOTO(6,362,152):GOTO(7,362,152):GOTO(8,362,152):GOTO(9,362,152):GOTO(10,362,152):;
+ ballx:122# bally:-28# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+107,400,371,150,False,11,4,-5674;
+%%
+GOTO(0,371,150):GOTO(1,371,150):GOTO(2,371,150):GOTO(3,371,150):GOTO(4,371,150):GOTO(5,371,150):GOTO(6,371,150):GOTO(7,371,150):GOTO(8,371,150):GOTO(9,371,150):GOTO(10,371,150):;
+ ballx:131# bally:-30# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+108,400,379,148,False,11,4,-5535;
+%%
+GOTO(0,379,148):GOTO(1,379,148):GOTO(2,379,148):GOTO(3,379,148):GOTO(4,379,148):GOTO(5,379,148):GOTO(6,379,148):GOTO(7,379,148):GOTO(8,379,148):GOTO(9,379,148):GOTO(10,379,148):;
+ ballx:139# bally:-32# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+109,400,367,146,False,11,9,-5407;
+%%
+GOTO(0,367,146):GOTO(1,367,146):GOTO(2,367,146):GOTO(3,367,146):GOTO(4,367,146):GOTO(5,367,146):GOTO(6,367,146):GOTO(7,367,146):GOTO(8,367,146):GOTO(9,367,146):GOTO(10,367,146):;
+ ballx:127# bally:-34# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+110,400,355,149,False,11,9,-5291;
+%%
+GOTO(0,355,149):GOTO(1,355,149):GOTO(2,355,149):GOTO(3,355,149):GOTO(4,355,149):GOTO(5,355,149):GOTO(6,355,149):GOTO(7,355,149):GOTO(8,355,149):GOTO(9,355,149):GOTO(10,355,149):;
+ ballx:115# bally:-31# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+111,400,343,147,False,11,4,-5187;
+%%
+GOTO(0,343,147):GOTO(1,343,147):GOTO(2,343,147):GOTO(3,343,147):GOTO(4,343,147):GOTO(5,343,147):GOTO(6,343,147):GOTO(7,343,147):GOTO(8,343,147):GOTO(9,343,147):GOTO(10,343,147):;
+ ballx:103# bally:-33# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+112,400,333,146,False,11,4,-5094;
+%%
+GOTO(0,333,146):GOTO(1,333,146):GOTO(2,333,146):GOTO(3,333,146):GOTO(4,333,146):GOTO(5,333,146):GOTO(6,333,146):GOTO(7,333,146):GOTO(8,333,146):GOTO(9,333,146):GOTO(10,333,146):;
+ ballx:93# bally:-34# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+113,400,323,145,True,11,4,-5011;
+%%
+GOTO(0,323,145):GOTO(1,323,145):GOTO(2,323,145):GOTO(3,323,145):GOTO(4,323,145):GOTO(5,323,145):GOTO(6,323,145):GOTO(7,323,145):GOTO(8,323,145):GOTO(9,323,145):SHOOT(10,0):;
+ ballx:83# bally:-35# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+114,400,314,144,True,11,4,-4937;
+%%
+GOTO(0,314,144):GOTO(1,314,144):GOTO(2,314,144):GOTO(3,314,144):GOTO(4,314,144):GOTO(5,314,144):GOTO(6,314,144):GOTO(7,314,144):GOTO(8,314,144):GOTO(9,314,144):SHOOT(10,0):;
+ ballx:74# bally:-36# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+115,400,306,144,True,11,4,-4871;
+%%
+GOTO(0,306,144):GOTO(1,306,144):GOTO(2,306,144):GOTO(3,306,144):GOTO(4,306,144):GOTO(5,306,144):GOTO(6,306,144):GOTO(7,306,144):GOTO(8,306,144):GOTO(9,306,144):SHOOT(10,0):;
+ ballx:66# bally:-36# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+116,400,299,143,True,11,4,-4812;
+%%
+GOTO(0,299,143):GOTO(1,299,143):GOTO(2,299,143):GOTO(3,299,143):GOTO(4,299,143):GOTO(5,299,143):GOTO(6,299,143):GOTO(7,299,143):GOTO(8,299,143):GOTO(9,299,143):SHOOT(10,0):;
+ ballx:59# bally:-37# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+117,400,293,142,True,11,4,-4758;
+%%
+GOTO(0,293,142):GOTO(1,293,142):GOTO(2,293,142):GOTO(3,293,142):GOTO(4,293,142):GOTO(5,293,142):GOTO(6,293,142):GOTO(7,293,142):GOTO(8,293,142):GOTO(9,293,142):GOTO(10,293,142):;
+ ballx:53# bally:-38# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+118,400,288,142,True,9,4,-4710;
+%%
+GOTO(0,288,142):GOTO(1,288,142):GOTO(2,288,142):GOTO(3,288,142):GOTO(4,288,142):GOTO(5,288,142):GOTO(6,288,142):GOTO(7,288,142):GOTO(8,288,142):GOTO(9,288,142):GOTO(10,288,142):;
+ ballx:48# bally:-38# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+119,400,284,141,True,9,4,-4666;
+%%
+GOTO(0,284,141):GOTO(1,284,141):GOTO(2,284,141):GOTO(3,284,141):GOTO(4,284,141):GOTO(5,284,141):GOTO(6,284,141):GOTO(7,284,141):SHOOT(8,0):GOTO(9,284,141):GOTO(10,284,141):;
+ ballx:44# bally:-39# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+120,400,281,141,True,9,4,-4624;
+%%
+GOTO(0,281,141):GOTO(1,281,141):GOTO(2,281,141):GOTO(3,281,141):GOTO(4,281,141):GOTO(5,281,141):GOTO(6,281,141):GOTO(7,281,141):SHOOT(8,0):SHOOT(9,0):GOTO(10,281,141):;
+ ballx:41# bally:-39# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+121,400,279,141,True,9,4,-4585;
+%%
+GOTO(0,279,141):GOTO(1,279,141):GOTO(2,279,141):GOTO(3,279,141):GOTO(4,279,141):GOTO(5,279,141):GOTO(6,279,141):GOTO(7,279,141):SHOOT(8,0):SHOOT(9,0):GOTO(10,279,141):;
+ ballx:39# bally:-39# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+122,400,297,140,False,11,9,-4528;
+%%
+GOTO(0,297,140):GOTO(1,297,140):GOTO(2,297,140):GOTO(3,297,140):GOTO(4,297,140):GOTO(5,297,140):GOTO(6,297,140):GOTO(7,297,140):SHOOT(8,0):GOTO(9,297,140):SHOOT(10,0):;
+ ballx:57# bally:-40# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+123,400,314,139,False,11,6,-4454;
+%%
+GOTO(0,314,139):GOTO(1,314,139):GOTO(2,314,139):GOTO(3,314,139):GOTO(4,314,139):GOTO(5,314,139):GOTO(6,314,139):GOTO(7,314,139):GOTO(8,314,139):GOTO(9,314,139):SHOOT(10,0):;
+ ballx:74# bally:-41# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+124,400,330,138,False,9,5,-4363;
+%%
+GOTO(0,330,138):GOTO(1,330,138):GOTO(2,330,138):GOTO(3,330,138):GOTO(4,330,138):GOTO(5,330,138):GOTO(6,330,138):GOTO(7,330,138):GOTO(8,330,138):GOTO(9,330,138):GOTO(10,330,138):;
+ ballx:90# bally:-42# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+125,400,345,137,False,9,5,-4258;
+%%
+GOTO(0,345,137):GOTO(1,345,137):GOTO(2,345,137):GOTO(3,345,137):GOTO(4,345,137):GOTO(5,345,137):GOTO(6,345,137):GOTO(7,345,137):GOTO(8,345,137):GOTO(9,345,137):GOTO(10,345,137):;
+ ballx:105# bally:-43# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+126,400,324,133,False,9,5,-4174;
+%%
+GOTO(0,324,133):GOTO(1,324,133):GOTO(2,324,133):GOTO(3,324,133):GOTO(4,324,133):GOTO(5,324,133):GOTO(6,324,133):GOTO(7,324,133):SHOOT(8,0):GOTO(9,324,133):GOTO(10,324,133):;
+ ballx:84# bally:-47# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+127,400,304,129,True,11,4,-4109;
+%%
+GOTO(0,304,129):GOTO(1,304,129):GOTO(2,304,129):GOTO(3,304,129):GOTO(4,304,129):GOTO(5,304,129):GOTO(6,304,129):GOTO(7,304,129):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:64# bally:-51# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+128,400,286,125,True,10,4,-4062;
+%%
+GOTO(0,286,125):GOTO(1,286,125):GOTO(2,286,125):GOTO(3,286,125):GOTO(4,286,125):GOTO(5,286,125):GOTO(6,286,125):GOTO(7,286,125):GOTO(8,286,125):SHOOT(9,0):GOTO(10,286,125):;
+ ballx:46# bally:-55# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+129,400,268,122,True,6,4,-4034;
+%%
+GOTO(0,268,122):GOTO(1,268,122):GOTO(2,268,122):GOTO(3,268,122):GOTO(4,268,122):GOTO(5,268,122):GOTO(6,268,122):GOTO(7,268,122):GOTO(8,268,122):GOTO(9,268,122):GOTO(10,268,122):;
+ ballx:28# bally:-58# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+130,400,251,119,True,3,11,-4022;
+%%
+GOTO(0,251,119):GOTO(1,251,119):SHOOT(2,0):GOTO(3,251,119):GOTO(4,251,119):GOTO(5,251,119):GOTO(6,251,119):GOTO(7,251,119):GOTO(8,251,119):GOTO(9,251,119):GOTO(10,251,119):;
+ ballx:11# bally:-61# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+131,400,237,116,True,8,11,-4025;
+%%
+GOTO(0,237,116):GOTO(1,237,116):GOTO(2,237,116):GOTO(3,237,116):GOTO(4,237,116):GOTO(5,237,116):GOTO(6,237,116):SHOOT(7,0):GOTO(8,237,116):GOTO(9,237,116):GOTO(10,237,116):;
+ ballx:-3# bally:-64# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:7#;
+();
+132,400,255,123,True,3,4,-4010;
+%%
+GOTO(0,255,123):GOTO(1,255,123):SHOOT(2,0):SHOOT(3,0):GOTO(4,255,123):SHOOT(5,0):GOTO(6,255,123):GOTO(7,255,123):GOTO(8,255,123):GOTO(9,255,123):GOTO(10,255,123):;
+ ballx:15# bally:-57# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+133,400,274,131,False,11,4,-3975;
+%%
+GOTO(0,274,131):GOTO(1,274,131):GOTO(2,274,131):SHOOT(3,0):GOTO(4,274,131):SHOOT(5,0):GOTO(6,274,131):GOTO(7,274,131):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:34# bally:-49# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+134,400,292,138,False,10,6,-3923;
+%%
+GOTO(0,292,138):GOTO(1,292,138):GOTO(2,292,138):GOTO(3,292,138):GOTO(4,292,138):GOTO(5,292,138):GOTO(6,292,138):GOTO(7,292,138):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:52# bally:-42# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+135,400,308,144,False,10,5,-3854;
+%%
+GOTO(0,308,144):GOTO(1,308,144):GOTO(2,308,144):GOTO(3,308,144):GOTO(4,308,144):GOTO(5,308,144):GOTO(6,308,144):GOTO(7,308,144):GOTO(8,308,144):GOTO(9,308,144):GOTO(10,308,144):;
+ ballx:68# bally:-36# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+136,400,324,150,False,10,1,-3769;
+%%
+GOTO(0,324,150):GOTO(1,324,150):GOTO(2,324,150):GOTO(3,324,150):GOTO(4,324,150):GOTO(5,324,150):GOTO(6,324,150):GOTO(7,324,150):GOTO(8,324,150):GOTO(9,324,150):GOTO(10,324,150):;
+ ballx:84# bally:-30# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+137,400,339,156,False,9,1,-3670;
+%%
+GOTO(0,339,156):GOTO(1,339,156):GOTO(2,339,156):GOTO(3,339,156):GOTO(4,339,156):GOTO(5,339,156):GOTO(6,339,156):GOTO(7,339,156):GOTO(8,339,156):GOTO(9,339,156):GOTO(10,339,156):;
+ ballx:99# bally:-24# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+138,400,353,162,False,9,2,-3556;
+%%
+GOTO(0,353,162):GOTO(1,353,162):GOTO(2,353,162):GOTO(3,353,162):GOTO(4,353,162):GOTO(5,353,162):GOTO(6,353,162):GOTO(7,353,162):GOTO(8,353,162):GOTO(9,353,162):GOTO(10,353,162):;
+ ballx:113# bally:-18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+139,400,366,167,False,9,2,-3429;
+%%
+GOTO(0,366,167):GOTO(1,366,167):GOTO(2,366,167):GOTO(3,366,167):GOTO(4,366,167):GOTO(5,366,167):GOTO(6,366,167):GOTO(7,366,167):GOTO(8,366,167):GOTO(9,366,167):GOTO(10,366,167):;
+ ballx:126# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+140,400,378,171,False,9,2,-3291;
+%%
+GOTO(0,378,171):GOTO(1,378,171):GOTO(2,378,171):GOTO(3,378,171):GOTO(4,378,171):GOTO(5,378,171):GOTO(6,378,171):GOTO(7,378,171):GOTO(8,378,171):GOTO(9,378,171):GOTO(10,378,171):;
+ ballx:138# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+141,400,389,176,False,9,2,-3141;
+%%
+GOTO(0,389,176):GOTO(1,389,176):GOTO(2,389,176):GOTO(3,389,176):GOTO(4,389,176):GOTO(5,389,176):GOTO(6,389,176):GOTO(7,389,176):GOTO(8,389,176):GOTO(9,389,176):GOTO(10,389,176):;
+ ballx:149# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+142,400,400,180,False,9,2,-2980;
+%%
+GOTO(0,400,180):GOTO(1,400,180):GOTO(2,400,180):GOTO(3,400,180):GOTO(4,400,180):GOTO(5,400,180):GOTO(6,400,180):GOTO(7,400,180):GOTO(8,400,180):GOTO(9,400,180):GOTO(10,400,180):;
+ ballx:160# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+143,400,409,182,False,9,2,-2811;
+%%
+GOTO(0,409,182):GOTO(1,409,182):GOTO(2,409,182):GOTO(3,409,182):GOTO(4,409,182):GOTO(5,409,182):GOTO(6,409,182):GOTO(7,409,182):GOTO(8,409,182):GOTO(9,409,182):GOTO(10,409,182):;
+ ballx:169# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+144,400,417,186,False,9,2,-2633;
+%%
+GOTO(0,417,186):GOTO(1,417,186):GOTO(2,417,186):GOTO(3,417,186):GOTO(4,417,186):GOTO(5,417,186):GOTO(6,417,186):GOTO(7,417,186):GOTO(8,417,186):GOTO(9,417,186):GOTO(10,417,186):;
+ ballx:177# bally:6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+145,400,425,188,False,9,2,-2448;
+%%
+GOTO(0,425,188):GOTO(1,425,188):GOTO(2,425,188):GOTO(3,425,188):GOTO(4,425,188):GOTO(5,425,188):GOTO(6,425,188):GOTO(7,425,188):GOTO(8,425,188):GOTO(9,425,188):GOTO(10,425,188):;
+ ballx:185# bally:8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+146,400,431,191,False,9,2,-2256;
+%%
+GOTO(0,431,191):GOTO(1,431,191):GOTO(2,431,191):GOTO(3,431,191):GOTO(4,431,191):GOTO(5,431,191):GOTO(6,431,191):GOTO(7,431,191):GOTO(8,431,191):GOTO(9,431,191):GOTO(10,431,191):;
+ ballx:191# bally:11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+147,400,437,193,False,9,2,-2058;
+%%
+GOTO(0,437,193):GOTO(1,437,193):GOTO(2,437,193):GOTO(3,437,193):GOTO(4,437,193):GOTO(5,437,193):GOTO(6,437,193):GOTO(7,437,193):GOTO(8,437,193):GOTO(9,437,193):GOTO(10,437,193):;
+ ballx:197# bally:13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+148,400,442,195,False,9,2,-1856;
+%%
+GOTO(0,442,195):GOTO(1,442,195):GOTO(2,442,195):GOTO(3,442,195):GOTO(4,442,195):GOTO(5,442,195):GOTO(6,442,195):GOTO(7,442,195):GOTO(8,442,195):GOTO(9,442,195):GOTO(10,442,195):;
+ ballx:202# bally:15# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+149,400,445,196,False,9,2,-1650;
+%%
+GOTO(0,445,196):GOTO(1,445,196):GOTO(2,445,196):GOTO(3,445,196):GOTO(4,445,196):GOTO(5,445,196):GOTO(6,445,196):GOTO(7,445,196):GOTO(8,445,196):GOTO(9,445,196):GOTO(10,445,196):;
+ ballx:205# bally:16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+150,400,448,198,False,9,2,-1441;
+%%
+GOTO(0,448,198):GOTO(1,448,198):GOTO(2,448,198):GOTO(3,448,198):GOTO(4,448,198):GOTO(5,448,198):GOTO(6,448,198):GOTO(7,448,198):GOTO(8,448,198):GOTO(9,448,198):GOTO(10,448,198):;
+ ballx:208# bally:18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+151,400,450,198,False,9,2,-1231;
+%%
+GOTO(0,450,198):GOTO(1,450,198):GOTO(2,450,198):GOTO(3,450,198):GOTO(4,450,198):GOTO(5,450,198):GOTO(6,450,198):GOTO(7,450,198):GOTO(8,450,198):GOTO(9,450,198):GOTO(10,450,198):;
+ ballx:210# bally:18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+152,400,451,199,False,9,2,-1019;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+153,400,451,199,False,9,2,-808;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+154,400,451,199,False,9,2,-596;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+155,400,451,199,False,9,2,-385;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+156,400,451,199,True,9,9,-173;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+157,400,451,199,True,9,9,37;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+158,400,451,199,True,9,9,249;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):GOTO(8,451,199):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+159,400,451,199,True,9,9,460;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):SHOOT(8,0):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+160,400,451,199,True,9,9,672;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):SHOOT(8,0):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+161,400,451,199,True,9,9,883;
+%%
+GOTO(0,451,199):GOTO(1,451,199):GOTO(2,451,199):GOTO(3,451,199):GOTO(4,451,199):GOTO(5,451,199):GOTO(6,451,199):GOTO(7,451,199):SHOOT(8,0):GOTO(9,451,199):GOTO(10,451,199):;
+ ballx:211# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+162,400,463,198,False,9,9,1107;
+%%
+GOTO(0,463,198):GOTO(1,463,198):GOTO(2,463,198):GOTO(3,463,198):GOTO(4,463,198):GOTO(5,463,198):GOTO(6,463,198):GOTO(7,463,198):SHOOT(8,0):GOTO(9,463,198):GOTO(10,463,198):;
+ ballx:223# bally:18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+163,400,475,196,False,9,4,1342;
+%%
+GOL (1,1,8);
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):GOTO(10,240,180):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+165,400,240,180,False,11,11,1342;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):GOTO(10,240,180):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+166,400,240,180,False,11,11,1342;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):GOTO(10,240,180):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+167,400,240,180,False,11,11,1342;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+168,400,240,180,True,11,11,1342;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+169,400,240,180,True,11,11,1342;
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+170,400,257,181,True,11,11,1360;
+%%
+GOTO(0,257,181):GOTO(1,257,181):GOTO(2,257,181):GOTO(3,257,181):GOTO(4,257,181):GOTO(5,257,181):GOTO(6,257,181):GOTO(7,257,181):GOTO(8,257,181):GOTO(9,257,181):SHOOT(10,0):;
+ ballx:17# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+171,400,274,182,True,11,10,1395;
+%%
+GOTO(0,274,182):GOTO(1,274,182):GOTO(2,274,182):GOTO(3,274,182):GOTO(4,274,182):GOTO(5,274,182):GOTO(6,274,182):GOTO(7,274,182):GOTO(8,274,182):GOTO(9,274,182):GOTO(10,274,182):;
+ ballx:34# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+172,400,290,184,False,11,10,1446;
+%%
+GOTO(0,290,184):GOTO(1,290,184):GOTO(2,290,184):GOTO(3,290,184):GOTO(4,290,184):GOTO(5,290,184):GOTO(6,290,184):GOTO(7,290,184):GOTO(8,290,184):GOTO(9,290,184):GOTO(10,290,184):;
+ ballx:50# bally:4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+173,400,305,185,False,11,10,1511;
+%%
+GOTO(0,305,185):GOTO(1,305,185):GOTO(2,305,185):GOTO(3,305,185):GOTO(4,305,185):GOTO(5,305,185):GOTO(6,305,185):GOTO(7,305,185):GOTO(8,305,185):GOTO(9,305,185):GOTO(10,305,185):;
+ ballx:65# bally:5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+174,400,319,186,False,11,6,1591;
+%%
+GOTO(0,319,186):GOTO(1,319,186):GOTO(2,319,186):GOTO(3,319,186):GOTO(4,319,186):GOTO(5,319,186):GOTO(6,319,186):GOTO(7,319,186):GOTO(8,319,186):GOTO(9,319,186):GOTO(10,319,186):;
+ ballx:79# bally:6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+175,400,332,187,False,11,6,1684;
+%%
+GOTO(0,332,187):GOTO(1,332,187):GOTO(2,332,187):GOTO(3,332,187):GOTO(4,332,187):GOTO(5,332,187):GOTO(6,332,187):GOTO(7,332,187):GOTO(8,332,187):GOTO(9,332,187):GOTO(10,332,187):;
+ ballx:92# bally:7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+176,400,344,188,False,11,6,1788;
+%%
+GOTO(0,344,188):GOTO(1,344,188):GOTO(2,344,188):GOTO(3,344,188):GOTO(4,344,188):GOTO(5,344,188):GOTO(6,344,188):GOTO(7,344,188):GOTO(8,344,188):GOTO(9,344,188):GOTO(10,344,188):;
+ ballx:104# bally:8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+177,400,355,189,False,11,4,1904;
+%%
+GOTO(0,355,189):GOTO(1,355,189):GOTO(2,355,189):GOTO(3,355,189):GOTO(4,355,189):GOTO(5,355,189):GOTO(6,355,189):GOTO(7,355,189):GOTO(8,355,189):GOTO(9,355,189):GOTO(10,355,189):;
+ ballx:115# bally:9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+178,400,343,188,False,11,4,2008;
+%%
+GOTO(0,343,188):GOTO(1,343,188):GOTO(2,343,188):GOTO(3,343,188):GOTO(4,343,188):GOTO(5,343,188):GOTO(6,343,188):GOTO(7,343,188):GOTO(8,343,188):GOTO(9,343,188):GOTO(10,343,188):;
+ ballx:103# bally:8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+179,400,325,187,False,11,6,2094;
+%%
+GOTO(0,325,187):GOTO(1,325,187):GOTO(2,325,187):GOTO(3,325,187):GOTO(4,325,187):GOTO(5,325,187):GOTO(6,325,187):GOTO(7,325,187):GOTO(8,325,187):GOTO(9,325,187):GOTO(10,325,187):;
+ ballx:85# bally:7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+180,400,308,186,False,11,10,2162;
+%%
+GOTO(0,308,186):GOTO(1,308,186):GOTO(2,308,186):GOTO(3,308,186):GOTO(4,308,186):GOTO(5,308,186):GOTO(6,308,186):GOTO(7,308,186):GOTO(8,308,186):GOTO(9,308,186):SHOOT(10,0):;
+ ballx:68# bally:6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+181,400,292,185,True,11,9,2215;
+%%
+GOTO(0,292,185):GOTO(1,292,185):GOTO(2,292,185):GOTO(3,292,185):GOTO(4,292,185):GOTO(5,292,185):GOTO(6,292,185):GOTO(7,292,185):GOTO(8,292,185):GOTO(9,292,185):SHOOT(10,0):;
+ ballx:52# bally:5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+182,400,310,182,False,11,9,2285;
+%%
+GOTO(0,310,182):GOTO(1,310,182):GOTO(2,310,182):GOTO(3,310,182):GOTO(4,310,182):GOTO(5,310,182):GOTO(6,310,182):GOTO(7,310,182):GOTO(8,310,182):GOTO(9,310,182):SHOOT(10,0):;
+ ballx:70# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+183,400,327,180,False,11,4,2373;
+%%
+GOTO(0,327,180):GOTO(1,327,180):GOTO(2,327,180):GOTO(3,327,180):GOTO(4,327,180):GOTO(5,327,180):GOTO(6,327,180):GOTO(7,327,180):GOTO(8,327,180):GOTO(9,327,180):GOTO(10,327,180):;
+ ballx:87# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+184,400,342,177,False,11,3,2475;
+%%
+GOTO(0,342,177):GOTO(1,342,177):GOTO(2,342,177):GOTO(3,342,177):GOTO(4,342,177):GOTO(5,342,177):GOTO(6,342,177):GOTO(7,342,177):GOTO(8,342,177):GOTO(9,342,177):GOTO(10,342,177):;
+ ballx:102# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+185,400,357,174,False,11,5,2593;
+%%
+GOTO(0,357,174):GOTO(1,357,174):GOTO(2,357,174):GOTO(3,357,174):GOTO(4,357,174):GOTO(5,357,174):GOTO(6,357,174):GOTO(7,357,174):GOTO(8,357,174):GOTO(9,357,174):GOTO(10,357,174):;
+ ballx:117# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+186,400,371,171,False,11,5,2724;
+%%
+GOTO(0,371,171):GOTO(1,371,171):GOTO(2,371,171):GOTO(3,371,171):GOTO(4,371,171):GOTO(5,371,171):GOTO(6,371,171):GOTO(7,371,171):GOTO(8,371,171):GOTO(9,371,171):GOTO(10,371,171):;
+ ballx:131# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+187,400,350,169,False,11,3,2835;
+%%
+GOTO(0,350,169):GOTO(1,350,169):GOTO(2,350,169):GOTO(3,350,169):GOTO(4,350,169):GOTO(5,350,169):GOTO(6,350,169):GOTO(7,350,169):GOTO(8,350,169):GOTO(9,350,169):GOTO(10,350,169):;
+ ballx:110# bally:-11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+188,400,330,167,False,11,9,2925;
+%%
+GOTO(0,330,167):GOTO(1,330,167):GOTO(2,330,167):GOTO(3,330,167):GOTO(4,330,167):GOTO(5,330,167):GOTO(6,330,167):GOTO(7,330,167):GOTO(8,330,167):GOTO(9,330,167):SHOOT(10,0):;
+ ballx:90# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+189,400,311,165,True,9,6,2997;
+%%
+GOTO(0,311,165):GOTO(1,311,165):GOTO(2,311,165):GOTO(3,311,165):GOTO(4,311,165):GOTO(5,311,165):GOTO(6,311,165):GOTO(7,311,165):SHOOT(8,0):GOTO(9,311,165):SHOOT(10,0):;
+ ballx:71# bally:-15# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+190,400,293,164,True,10,9,3051;
+%%
+GOTO(0,293,164):GOTO(1,293,164):GOTO(2,293,164):GOTO(3,293,164):GOTO(4,293,164):GOTO(5,293,164):GOTO(6,293,164):GOTO(7,293,164):GOTO(8,293,164):GOTO(9,293,164):GOTO(10,293,164):;
+ ballx:53# bally:-16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+191,400,276,162,True,10,9,3087;
+%%
+GOTO(0,276,162):GOTO(1,276,162):GOTO(2,276,162):GOTO(3,276,162):GOTO(4,276,162):GOTO(5,276,162):GOTO(6,276,162):GOTO(7,276,162):GOTO(8,276,162):SHOOT(9,0):GOTO(10,276,162):;
+ ballx:36# bally:-18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+192,400,260,160,True,10,9,3108;
+%%
+GOTO(0,260,160):GOTO(1,260,160):GOTO(2,260,160):GOTO(3,260,160):GOTO(4,260,160):SHOOT(5,0):GOTO(6,260,160):GOTO(7,260,160):GOTO(8,260,160):SHOOT(9,0):GOTO(10,260,160):;
+ ballx:20# bally:-20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+193,400,245,159,True,6,9,3114;
+%%
+GOTO(0,245,159):GOTO(1,245,159):SHOOT(2,0):SHOOT(3,0):GOTO(4,245,159):SHOOT(5,0):GOTO(6,245,159):GOTO(7,245,159):GOTO(8,245,159):GOTO(9,245,159):GOTO(10,245,159):;
+ ballx:5# bally:-21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+194,400,233,158,True,3,9,3106;
+%%
+GOTO(0,233,158):GOTO(1,233,158):SHOOT(2,0):GOTO(3,233,158):GOTO(4,233,158):GOTO(5,233,158):GOTO(6,233,158):GOTO(7,233,158):GOTO(8,233,158):GOTO(9,233,158):GOTO(10,233,158):;
+ ballx:-7# bally:-22# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+195,400,246,155,True,3,9,3113;
+%%
+GOTO(0,246,155):GOTO(1,246,155):SHOOT(2,0):SHOOT(3,0):GOTO(4,246,155):SHOOT(5,0):GOTO(6,246,155):GOTO(7,246,155):GOTO(8,246,155):GOTO(9,246,155):GOTO(10,246,155):;
+ ballx:6# bally:-25# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+196,400,261,154,True,10,9,3135;
+%%
+GOTO(0,261,154):GOTO(1,261,154):SHOOT(2,0):SHOOT(3,0):GOTO(4,261,154):SHOOT(5,0):GOTO(6,261,154):GOTO(7,261,154):SHOOT(8,0):SHOOT(9,0):GOTO(10,261,154):;
+ ballx:21# bally:-26# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+197,400,279,157,False,9,9,3174;
+%%
+GOTO(0,279,157):GOTO(1,279,157):SHOOT(2,0):GOTO(3,279,157):GOTO(4,279,157):GOTO(5,279,157):GOTO(6,279,157):GOTO(7,279,157):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:39# bally:-23# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+198,400,296,160,False,11,3,3230;
+%%
+GOTO(0,296,160):GOTO(1,296,160):GOTO(2,296,160):GOTO(3,296,160):GOTO(4,296,160):GOTO(5,296,160):GOTO(6,296,160):GOTO(7,296,160):GOTO(8,296,160):GOTO(9,296,160):SHOOT(10,0):;
+ ballx:56# bally:-20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+199,400,312,163,False,11,5,3302;
+%%
+GOTO(0,312,163):GOTO(1,312,163):GOTO(2,312,163):GOTO(3,312,163):GOTO(4,312,163):GOTO(5,312,163):GOTO(6,312,163):GOTO(7,312,163):GOTO(8,312,163):GOTO(9,312,163):SHOOT(10,0):;
+ ballx:72# bally:-17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+200,400,291,158,False,11,4,3354;
+%%
+GOTO(0,291,158):GOTO(1,291,158):SHOOT(2,0):GOTO(3,291,158):GOTO(4,291,158):GOTO(5,291,158):GOTO(6,291,158):GOTO(7,291,158):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:51# bally:-22# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+201,400,272,153,True,10,6,3386;
+%%
+GOTO(0,272,153):GOTO(1,272,153):SHOOT(2,0):SHOOT(3,0):GOTO(4,272,153):SHOOT(5,0):GOTO(6,272,153):GOTO(7,272,153):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:32# bally:-27# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+202,400,253,148,True,6,6,3400;
+%%
+GOTO(0,253,148):GOTO(1,253,148):GOTO(2,253,148):SHOOT(3,0):GOTO(4,253,148):SHOOT(5,0):GOTO(6,253,148):SHOOT(7,0):GOTO(8,253,148):GOTO(9,253,148):SHOOT(10,0):;
+ ballx:13# bally:-32# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+203,400,237,144,True,8,6,3396;
+%%
+GOTO(0,237,144):SHOOT(1,0):GOTO(2,237,144):GOTO(3,237,144):GOTO(4,237,144):GOTO(5,237,144):GOTO(6,237,144):SHOOT(7,0):GOTO(8,237,144):GOTO(9,237,144):GOTO(10,237,144):;
+ ballx:-3# bally:-36# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:7#;
+();
+204,400,220,140,True,2,6,3376;
+%%
+GOTO(0,220,140):SHOOT(1,0):GOTO(2,220,140):GOTO(3,220,140):GOTO(4,220,140):GOTO(5,220,140):GOTO(6,220,140):SHOOT(7,0):GOTO(8,220,140):GOTO(9,220,140):GOTO(10,220,140):;
+ ballx:-20# bally:-40# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+205,400,205,136,True,2,6,3341;
+%%
+GOTO(0,205,136):SHOOT(1,0):GOTO(2,205,136):GOTO(3,205,136):GOTO(4,205,136):GOTO(5,205,136):GOTO(6,205,136):GOTO(7,205,136):GOTO(8,205,136):GOTO(9,205,136):GOTO(10,205,136):;
+ ballx:-35# bally:-44# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+206,400,190,132,True,1,6,3290;
+%%
+GOTO(0,190,132):GOTO(1,190,132):GOTO(2,190,132):GOTO(3,190,132):GOTO(4,190,132):GOTO(5,190,132):GOTO(6,190,132):GOTO(7,190,132):GOTO(8,190,132):GOTO(9,190,132):GOTO(10,190,132):;
+ ballx:-50# bally:-48# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+207,400,177,129,True,1,11,3227;
+%%
+GOTO(0,177,129):GOTO(1,177,129):GOTO(2,177,129):GOTO(3,177,129):GOTO(4,177,129):GOTO(5,177,129):GOTO(6,177,129):GOTO(7,177,129):GOTO(8,177,129):GOTO(9,177,129):GOTO(10,177,129):;
+ ballx:-63# bally:-51# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+208,400,164,125,True,1,11,3150;
+%%
+GOTO(0,164,125):GOTO(1,164,125):GOTO(2,164,125):GOTO(3,164,125):GOTO(4,164,125):GOTO(5,164,125):GOTO(6,164,125):GOTO(7,164,125):GOTO(8,164,125):GOTO(9,164,125):GOTO(10,164,125):;
+ ballx:-76# bally:-55# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+209,400,152,123,True,1,11,3062;
+%%
+GOTO(0,152,123):GOTO(1,152,123):GOTO(2,152,123):GOTO(3,152,123):GOTO(4,152,123):GOTO(5,152,123):GOTO(6,152,123):GOTO(7,152,123):GOTO(8,152,123):GOTO(9,152,123):GOTO(10,152,123):;
+ ballx:-88# bally:-57# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+210,400,142,120,True,1,11,2963;
+%%
+GOTO(0,142,120):GOTO(1,142,120):GOTO(2,142,120):GOTO(3,142,120):GOTO(4,142,120):GOTO(5,142,120):GOTO(6,142,120):GOTO(7,142,120):GOTO(8,142,120):GOTO(9,142,120):GOTO(10,142,120):;
+ ballx:-98# bally:-60# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+211,400,132,117,False,1,11,2855;
+%%
+GOTO(0,132,117):GOTO(1,132,117):GOTO(2,132,117):GOTO(3,132,117):GOTO(4,132,117):GOTO(5,132,117):GOTO(6,132,117):GOTO(7,132,117):GOTO(8,132,117):GOTO(9,132,117):GOTO(10,132,117):;
+ ballx:-108# bally:-63# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+212,400,123,115,False,1,11,2738;
+%%
+GOTO(0,123,115):GOTO(1,123,115):GOTO(2,123,115):GOTO(3,123,115):GOTO(4,123,115):GOTO(5,123,115):GOTO(6,123,115):GOTO(7,123,115):GOTO(8,123,115):GOTO(9,123,115):GOTO(10,123,115):;
+ ballx:-117# bally:-65# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+213,400,116,113,False,1,11,2613;
+%%
+GOTO(0,116,113):GOTO(1,116,113):GOTO(2,116,113):GOTO(3,116,113):GOTO(4,116,113):GOTO(5,116,113):GOTO(6,116,113):GOTO(7,116,113):GOTO(8,116,113):GOTO(9,116,113):GOTO(10,116,113):;
+ ballx:-124# bally:-67# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+214,400,109,112,False,1,11,2481;
+%%
+GOTO(0,109,112):GOTO(1,109,112):GOTO(2,109,112):GOTO(3,109,112):GOTO(4,109,112):GOTO(5,109,112):GOTO(6,109,112):GOTO(7,109,112):GOTO(8,109,112):GOTO(9,109,112):GOTO(10,109,112):;
+ ballx:-131# bally:-68# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+215,400,103,110,False,1,11,2344;
+%%
+GOTO(0,103,110):GOTO(1,103,110):GOTO(2,103,110):GOTO(3,103,110):GOTO(4,103,110):GOTO(5,103,110):GOTO(6,103,110):GOTO(7,103,110):GOTO(8,103,110):GOTO(9,103,110):GOTO(10,103,110):;
+ ballx:-137# bally:-70# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+216,400,98,109,False,1,11,2201;
+%%
+GOTO(0,98,109):GOTO(1,98,109):GOTO(2,98,109):GOTO(3,98,109):GOTO(4,98,109):GOTO(5,98,109):GOTO(6,98,109):GOTO(7,98,109):GOTO(8,98,109):GOTO(9,98,109):GOTO(10,98,109):;
+ ballx:-142# bally:-71# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+217,400,94,108,False,1,11,2055;
+%%
+GOTO(0,94,108):GOTO(1,94,108):GOTO(2,94,108):GOTO(3,94,108):GOTO(4,94,108):GOTO(5,94,108):GOTO(6,94,108):GOTO(7,94,108):GOTO(8,94,108):GOTO(9,94,108):GOTO(10,94,108):;
+ ballx:-146# bally:-72# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+218,400,91,107,False,1,11,1906;
+%%
+GOTO(0,91,107):GOTO(1,91,107):GOTO(2,91,107):GOTO(3,91,107):GOTO(4,91,107):GOTO(5,91,107):GOTO(6,91,107):GOTO(7,91,107):GOTO(8,91,107):GOTO(9,91,107):GOTO(10,91,107):;
+ ballx:-149# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+219,400,89,107,False,1,11,1755;
+%%
+GOTO(0,89,107):GOTO(1,89,107):GOTO(2,89,107):GOTO(3,89,107):GOTO(4,89,107):GOTO(5,89,107):GOTO(6,89,107):GOTO(7,89,107):GOTO(8,89,107):GOTO(9,89,107):GOTO(10,89,107):;
+ ballx:-151# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+220,400,88,107,False,1,11,1603;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+221,400,88,107,False,1,11,1451;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+222,400,88,107,False,1,11,1299;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+223,400,88,107,True,1,11,1147;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+224,400,88,107,True,1,11,995;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+225,400,88,107,True,1,4,843;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+226,400,88,107,True,1,4,690;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+227,400,88,107,True,1,4,538;
+%%
+GOTO(0,88,107):GOTO(1,88,107):GOTO(2,88,107):GOTO(3,88,107):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+228,400,88,107,True,1,4,386;
+%%
+SHOOT(0,0):GOTO(1,88,107):GOTO(2,88,107):SHOOT(3,0):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+229,400,88,107,True,4,4,234;
+%%
+SHOOT(0,0):GOTO(1,88,107):GOTO(2,88,107):SHOOT(3,0):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):GOTO(8,88,107):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+230,400,88,107,True,4,4,82;
+%%
+SHOOT(0,0):GOTO(1,88,107):GOTO(2,88,107):SHOOT(3,0):GOTO(4,88,107):GOTO(5,88,107):GOTO(6,88,107):GOTO(7,88,107):SHOOT(8,0):GOTO(9,88,107):GOTO(10,88,107):;
+ ballx:-152# bally:-73# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+231,400,79,114,True,4,4,-79;
+%%
+SHOOT(0,0):GOTO(1,79,114):GOTO(2,79,114):SHOOT(3,0):GOTO(4,79,114):GOTO(5,79,114):GOTO(6,79,114):GOTO(7,79,114):SHOOT(8,0):GOTO(9,79,114):GOTO(10,79,114):;
+ ballx:-161# bally:-66# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+232,400,90,118,False,1,4,-229;
+%%
+SHOOT(0,0):GOTO(1,90,118):SHOOT(2,0):SHOOT(3,0):GOTO(4,90,118):GOTO(5,90,118):GOTO(6,90,118):GOTO(7,90,118):SHOOT(8,0):GOTO(9,90,118):GOTO(10,90,118):;
+ ballx:-150# bally:-62# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+233,400,82,103,False,1,9,-388;
+%%
+SHOOT(0,0):GOTO(1,82,103):GOTO(2,82,103):SHOOT(3,0):GOTO(4,82,103):GOTO(5,82,103):GOTO(6,82,103):GOTO(7,82,103):SHOOT(8,0):GOTO(9,82,103):GOTO(10,82,103):;
+ ballx:-158# bally:-77# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+234,400,74,89,False,1,4,-554;
+%%
+SHOOT(0,0):GOTO(1,74,89):GOTO(2,74,89):SHOOT(3,0):GOTO(4,74,89):GOTO(5,74,89):GOTO(6,74,89):GOTO(7,74,89):SHOOT(8,0):GOTO(9,74,89):GOTO(10,74,89):;
+ ballx:-166# bally:-91# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+235,400,67,75,False,1,4,-728;
+%%
+GOTO(0,67,75):GOTO(1,67,75):GOTO(2,67,75):GOTO(3,67,75):GOTO(4,67,75):GOTO(5,67,75):GOTO(6,67,75):GOTO(7,67,75):GOTO(8,67,75):GOTO(9,67,75):GOTO(10,67,75):;
+ ballx:-173# bally:-105# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+236,400,60,63,False,4,4,-908;
+%%
+GOTO(0,60,63):GOTO(1,60,63):GOTO(2,60,63):GOTO(3,60,63):GOTO(4,60,63):GOTO(5,60,63):GOTO(6,60,63):GOTO(7,60,63):GOTO(8,60,63):GOTO(9,60,63):GOTO(10,60,63):;
+ ballx:-180# bally:-117# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+237,400,54,52,False,4,4,-1095;
+%%
+GOTO(0,54,52):GOTO(1,54,52):GOTO(2,54,52):GOTO(3,54,52):GOTO(4,54,52):GOTO(5,54,52):GOTO(6,54,52):GOTO(7,54,52):GOTO(8,54,52):GOTO(9,54,52):GOTO(10,54,52):;
+ ballx:-186# bally:-128# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+238,400,48,41,False,4,4,-1287;
+%%
+GOTO(0,48,41):GOTO(1,48,41):GOTO(2,48,41):GOTO(3,48,41):GOTO(4,48,41):GOTO(5,48,41):GOTO(6,48,41):GOTO(7,48,41):GOTO(8,48,41):GOTO(9,48,41):GOTO(10,48,41):;
+ ballx:-192# bally:-139# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+239,400,43,32,False,4,4,-1485;
+%%
+GOTO(0,43,32):GOTO(1,43,32):GOTO(2,43,32):GOTO(3,43,32):GOTO(4,43,32):GOTO(5,43,32):GOTO(6,43,32):GOTO(7,43,32):GOTO(8,43,32):GOTO(9,43,32):GOTO(10,43,32):;
+ ballx:-197# bally:-148# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+240,400,38,23,False,4,4,-1687;
+%%
+GOTO(0,38,23):GOTO(1,38,23):GOTO(2,38,23):GOTO(3,38,23):GOTO(4,38,23):GOTO(5,38,23):GOTO(6,38,23):GOTO(7,38,23):GOTO(8,38,23):GOTO(9,38,23):GOTO(10,38,23):;
+ ballx:-202# bally:-157# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+241,400,34,15,False,4,4,-1894;
+%%
+GOTO(0,34,15):GOTO(1,34,15):GOTO(2,34,15):GOTO(3,34,15):GOTO(4,34,15):GOTO(5,34,15):GOTO(6,34,15):GOTO(7,34,15):GOTO(8,34,15):GOTO(9,34,15):GOTO(10,34,15):;
+ ballx:-206# bally:-165# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+242,400,30,8,False,4,4,-2105;
+%%
+GOTO(0,30,8):GOTO(1,30,8):GOTO(2,30,8):GOTO(3,30,8):GOTO(4,30,8):GOTO(5,30,8):GOTO(6,30,8):GOTO(7,30,8):GOTO(8,30,8):GOTO(9,30,8):GOTO(10,30,8):;
+ ballx:-210# bally:-172# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+243,400,26,2,False,4,4,-2319;
+%%
+GOTO(0,26,2):GOTO(1,26,2):GOTO(2,26,2):GOTO(3,26,2):GOTO(4,26,2):GOTO(5,26,2):GOTO(6,26,2):GOTO(7,26,2):GOTO(8,26,2):GOTO(9,26,2):GOTO(10,26,2):;
+ ballx:-214# bally:-178# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+244,400,24,4,False,4,4,-2536;
+%%
+GOTO(0,24,4):GOTO(1,24,4):GOTO(2,24,4):GOTO(3,24,4):GOTO(4,24,4):GOTO(5,24,4):GOTO(6,24,4):GOTO(7,24,4):GOTO(8,24,4):GOTO(9,24,4):GOTO(10,24,4):;
+ ballx:-216# bally:-176# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+245,400,21,9,False,4,4,-2755;
+%%
+GOTO(0,21,9):GOTO(1,21,9):GOTO(2,21,9):GOTO(3,21,9):GOTO(4,21,9):GOTO(5,21,9):GOTO(6,21,9):GOTO(7,21,9):GOTO(8,21,9):GOTO(9,21,9):GOTO(10,21,9):;
+ ballx:-219# bally:-171# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+246,400,19,12,False,4,4,-2976;
+%%
+GOTO(0,19,12):GOTO(1,19,12):GOTO(2,19,12):GOTO(3,19,12):GOTO(4,19,12):GOTO(5,19,12):GOTO(6,19,12):GOTO(7,19,12):GOTO(8,19,12):GOTO(9,19,12):GOTO(10,19,12):;
+ ballx:-221# bally:-168# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+247,400,18,15,False,4,4,-3199;
+%%
+GOTO(0,18,15):GOTO(1,18,15):GOTO(2,18,15):GOTO(3,18,15):GOTO(4,18,15):GOTO(5,18,15):GOTO(6,18,15):GOTO(7,18,15):GOTO(8,18,15):GOTO(9,18,15):GOTO(10,18,15):;
+ ballx:-222# bally:-165# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+248,400,17,17,False,4,4,-3423;
+%%
+GOTO(0,17,17):GOTO(1,17,17):GOTO(2,17,17):GOTO(3,17,17):GOTO(4,17,17):GOTO(5,17,17):GOTO(6,17,17):GOTO(7,17,17):GOTO(8,17,17):GOTO(9,17,17):GOTO(10,17,17):;
+ ballx:-223# bally:-163# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+249,400,16,18,False,4,4,-3647;
+%%
+GOTO(0,16,18):GOTO(1,16,18):GOTO(2,16,18):SHOOT(3,0):GOTO(4,16,18):GOTO(5,16,18):GOTO(6,16,18):GOTO(7,16,18):SHOOT(8,0):GOTO(9,16,18):GOTO(10,16,18):;
+ ballx:-224# bally:-162# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+250,400,11,28,False,4,4,-3876;
+%%
+GOTO(0,11,28):GOTO(1,11,28):GOTO(2,11,28):SHOOT(3,0):GOTO(4,11,28):GOTO(5,11,28):GOTO(6,11,28):GOTO(7,11,28):SHOOT(8,0):GOTO(9,11,28):GOTO(10,11,28):;
+ ballx:-229# bally:-152# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+251,400,10,40,False,4,9,-4106;
+%%
+GOTO(0,10,40):GOTO(1,10,40):SHOOT(2,0):SHOOT(3,0):GOTO(4,10,40):GOTO(5,10,40):GOTO(6,10,40):GOTO(7,10,40):SHOOT(8,0):GOTO(9,10,40):GOTO(10,10,40):;
+ ballx:-230# bally:-140# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+252,400,10,51,False,3,3,-4337;
+%%
+GOTO(0,10,51):GOTO(1,10,51):GOTO(2,10,51):GOTO(3,10,51):GOTO(4,10,51):GOTO(5,10,51):GOTO(6,10,51):GOTO(7,10,51):GOTO(8,10,51):GOTO(9,10,51):GOTO(10,10,51):;
+ ballx:-230# bally:-129# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+253,400,9,61,False,3,3,-4568;
+%%
+GOTO(0,9,61):GOTO(1,9,61):GOTO(2,9,61):GOTO(3,9,61):GOTO(4,9,61):GOTO(5,9,61):GOTO(6,9,61):GOTO(7,9,61):GOTO(8,9,61):GOTO(9,9,61):GOTO(10,9,61):;
+ ballx:-231# bally:-119# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+254,400,9,70,False,3,3,-4800;
+%%
+GOTO(0,9,70):GOTO(1,9,70):GOTO(2,9,70):GOTO(3,9,70):GOTO(4,9,70):GOTO(5,9,70):GOTO(6,9,70):GOTO(7,9,70):GOTO(8,9,70):GOTO(9,9,70):GOTO(10,9,70):;
+ ballx:-231# bally:-110# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+255,400,8,78,False,3,3,-5032;
+%%
+GOTO(0,8,78):GOTO(1,8,78):GOTO(2,8,78):GOTO(3,8,78):GOTO(4,8,78):GOTO(5,8,78):GOTO(6,8,78):GOTO(7,8,78):GOTO(8,8,78):GOTO(9,8,78):GOTO(10,8,78):;
+ ballx:-232# bally:-102# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+256,400,8,85,False,3,3,-5264;
+%%
+GOTO(0,8,85):GOTO(1,8,85):GOTO(2,8,85):GOTO(3,8,85):GOTO(4,8,85):GOTO(5,8,85):GOTO(6,8,85):GOTO(7,8,85):GOTO(8,8,85):GOTO(9,8,85):GOTO(10,8,85):;
+ ballx:-232# bally:-95# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+257,400,8,91,False,3,3,-5497;
+%%
+GOTO(0,8,91):GOTO(1,8,91):GOTO(2,8,91):GOTO(3,8,91):GOTO(4,8,91):GOTO(5,8,91):GOTO(6,8,91):GOTO(7,8,91):GOTO(8,8,91):GOTO(9,8,91):GOTO(10,8,91):;
+ ballx:-232# bally:-89# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+258,400,7,96,False,3,3,-5730;
+%%
+GOTO(0,7,96):GOTO(1,7,96):GOTO(2,7,96):GOTO(3,7,96):GOTO(4,7,96):GOTO(5,7,96):GOTO(6,7,96):GOTO(7,7,96):GOTO(8,7,96):GOTO(9,7,96):GOTO(10,7,96):;
+ ballx:-233# bally:-84# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+259,400,7,100,False,3,3,-5964;
+%%
+GOTO(0,7,100):GOTO(1,7,100):GOTO(2,7,100):GOTO(3,7,100):GOTO(4,7,100):GOTO(5,7,100):GOTO(6,7,100):GOTO(7,7,100):GOTO(8,7,100):GOTO(9,7,100):GOTO(10,7,100):;
+ ballx:-233# bally:-80# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+260,400,7,103,False,3,3,-6197;
+%%
+GOTO(0,7,103):GOTO(1,7,103):GOTO(2,7,103):GOTO(3,7,103):GOTO(4,7,103):GOTO(5,7,103):GOTO(6,7,103):GOTO(7,7,103):GOTO(8,7,103):GOTO(9,7,103):GOTO(10,7,103):;
+ ballx:-233# bally:-77# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+261,400,7,105,False,3,3,-6431;
+%%
+GOTO(0,7,105):GOTO(1,7,105):SHOOT(2,0):GOTO(3,7,105):GOTO(4,7,105):GOTO(5,7,105):GOTO(6,7,105):GOTO(7,7,105):GOTO(8,7,105):GOTO(9,7,105):GOTO(10,7,105):;
+ ballx:-233# bally:-75# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+262,400,7,106,False,3,3,-6665;
+%%
+GOTO(0,7,106):GOTO(1,7,106):SHOOT(2,0):SHOOT(3,0):GOTO(4,7,106):GOTO(5,7,106):GOTO(6,7,106):GOTO(7,7,106):SHOOT(8,0):GOTO(9,7,106):GOTO(10,7,106):;
+ ballx:-233# bally:-74# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+263,400,3,115,False,3,3,-6902;
+%%
+GOTO(0,3,115):GOTO(1,3,115):SHOOT(2,0):SHOOT(3,0):GOTO(4,3,115):GOTO(5,3,115):GOTO(6,3,115):GOTO(7,3,115):SHOOT(8,0):GOTO(9,3,115):GOTO(10,3,115):;
+ ballx:-237# bally:-65# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+264,400,9,126,False,3,4,-7134;
+%%
+GOTO(0,9,126):GOTO(1,9,126):SHOOT(2,0):SHOOT(3,0):GOTO(4,9,126):GOTO(5,9,126):GOTO(6,9,126):GOTO(7,9,126):SHOOT(8,0):GOTO(9,9,126):GOTO(10,9,126):;
+ ballx:-231# bally:-54# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+265,400,18,136,False,4,3,-7357;
+%%
+GOTO(0,18,136):GOTO(1,18,136):GOTO(2,18,136):GOTO(3,18,136):GOTO(4,18,136):GOTO(5,18,136):GOTO(6,18,136):GOTO(7,18,136):GOTO(8,18,136):GOTO(9,18,136):GOTO(10,18,136):;
+ ballx:-222# bally:-44# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+266,400,27,145,False,4,3,-7570;
+%%
+GOTO(0,27,145):GOTO(1,27,145):GOTO(2,27,145):GOTO(3,27,145):GOTO(4,27,145):GOTO(5,27,145):GOTO(6,27,145):GOTO(7,27,145):GOTO(8,27,145):GOTO(9,27,145):GOTO(10,27,145):;
+ ballx:-213# bally:-35# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+267,400,35,154,False,4,9,-7776;
+%%
+GOTO(0,35,154):GOTO(1,35,154):GOTO(2,35,154):GOTO(3,35,154):GOTO(4,35,154):GOTO(5,35,154):GOTO(6,35,154):GOTO(7,35,154):GOTO(8,35,154):GOTO(9,35,154):GOTO(10,35,154):;
+ ballx:-205# bally:-26# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+268,400,43,162,False,4,9,-7973;
+%%
+GOTO(0,43,162):GOTO(1,43,162):GOTO(2,43,162):GOTO(3,43,162):GOTO(4,43,162):GOTO(5,43,162):GOTO(6,43,162):GOTO(7,43,162):GOTO(8,43,162):GOTO(9,43,162):GOTO(10,43,162):;
+ ballx:-197# bally:-18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+269,400,50,169,False,4,9,-8164;
+%%
+GOTO(0,50,169):GOTO(1,50,169):GOTO(2,50,169):GOTO(3,50,169):GOTO(4,50,169):GOTO(5,50,169):GOTO(6,50,169):GOTO(7,50,169):GOTO(8,50,169):GOTO(9,50,169):GOTO(10,50,169):;
+ ballx:-190# bally:-11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+270,400,56,176,False,4,9,-8349;
+%%
+GOTO(0,56,176):GOTO(1,56,176):GOTO(2,56,176):GOTO(3,56,176):GOTO(4,56,176):GOTO(5,56,176):GOTO(6,56,176):GOTO(7,56,176):GOTO(8,56,176):GOTO(9,56,176):GOTO(10,56,176):;
+ ballx:-184# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+271,400,61,181,False,4,9,-8528;
+%%
+GOTO(0,61,181):GOTO(1,61,181):GOTO(2,61,181):GOTO(3,61,181):GOTO(4,61,181):GOTO(5,61,181):GOTO(6,61,181):GOTO(7,61,181):GOTO(8,61,181):GOTO(9,61,181):GOTO(10,61,181):;
+ ballx:-179# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+272,400,66,186,False,4,9,-8703;
+%%
+GOTO(0,66,186):GOTO(1,66,186):GOTO(2,66,186):GOTO(3,66,186):GOTO(4,66,186):GOTO(5,66,186):GOTO(6,66,186):GOTO(7,66,186):GOTO(8,66,186):GOTO(9,66,186):GOTO(10,66,186):;
+ ballx:-174# bally:6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+273,400,70,190,False,4,9,-8873;
+%%
+GOTO(0,70,190):GOTO(1,70,190):GOTO(2,70,190):GOTO(3,70,190):GOTO(4,70,190):GOTO(5,70,190):GOTO(6,70,190):GOTO(7,70,190):GOTO(8,70,190):GOTO(9,70,190):GOTO(10,70,190):;
+ ballx:-170# bally:10# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+274,400,74,194,False,4,9,-9040;
+%%
+GOTO(0,74,194):GOTO(1,74,194):GOTO(2,74,194):GOTO(3,74,194):GOTO(4,74,194):GOTO(5,74,194):GOTO(6,74,194):GOTO(7,74,194):GOTO(8,74,194):GOTO(9,74,194):GOTO(10,74,194):;
+ ballx:-166# bally:14# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+275,400,76,197,False,4,9,-9204;
+%%
+GOTO(0,76,197):GOTO(1,76,197):GOTO(2,76,197):GOTO(3,76,197):GOTO(4,76,197):GOTO(5,76,197):GOTO(6,76,197):GOTO(7,76,197):GOTO(8,76,197):GOTO(9,76,197):GOTO(10,76,197):;
+ ballx:-164# bally:17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+276,400,78,199,False,4,9,-9366;
+%%
+GOTO(0,78,199):GOTO(1,78,199):GOTO(2,78,199):GOTO(3,78,199):GOTO(4,78,199):GOTO(5,78,199):GOTO(6,78,199):GOTO(7,78,199):GOTO(8,78,199):GOTO(9,78,199):GOTO(10,78,199):;
+ ballx:-162# bally:19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+277,400,80,200,False,4,9,-9527;
+%%
+GOTO(0,80,200):GOTO(1,80,200):GOTO(2,80,200):GOTO(3,80,200):GOTO(4,80,200):GOTO(5,80,200):GOTO(6,80,200):GOTO(7,80,200):GOTO(8,80,200):GOTO(9,80,200):GOTO(10,80,200):;
+ ballx:-160# bally:20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+278,400,80,201,False,4,9,-9687;
+%%
+GOTO(0,80,201):GOTO(1,80,201):GOTO(2,80,201):GOTO(3,80,201):GOTO(4,80,201):GOTO(5,80,201):GOTO(6,80,201):GOTO(7,80,201):GOTO(8,80,201):GOTO(9,80,201):GOTO(10,80,201):;
+ ballx:-160# bally:21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+279,400,80,201,False,4,9,-9847;
+%%
+GOTO(0,80,201):GOTO(1,80,201):GOTO(2,80,201):SHOOT(3,0):GOTO(4,80,201):GOTO(5,80,201):GOTO(6,80,201):GOTO(7,80,201):SHOOT(8,0):GOTO(9,80,201):GOTO(10,80,201):;
+ ballx:-160# bally:21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+280,400,80,201,False,4,9,-10007;
+%%
+GOTO(0,80,201):GOTO(1,80,201):GOTO(2,80,201):SHOOT(3,0):GOTO(4,80,201):GOTO(5,80,201):GOTO(6,80,201):GOTO(7,80,201):SHOOT(8,0):GOTO(9,80,201):GOTO(10,80,201):;
+ ballx:-160# bally:21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+281,400,80,201,False,4,9,-10167;
+%%
+GOTO(0,80,201):GOTO(1,80,201):GOTO(2,80,201):SHOOT(3,0):GOTO(4,80,201):GOTO(5,80,201):GOTO(6,80,201):GOTO(7,80,201):SHOOT(8,0):GOTO(9,80,201):GOTO(10,80,201):;
+ ballx:-160# bally:21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+282,400,92,200,False,4,4,-10315;
+%%
+GOTO(0,92,200):GOTO(1,92,200):GOTO(2,92,200):SHOOT(3,0):GOTO(4,92,200):GOTO(5,92,200):GOTO(6,92,200):GOTO(7,92,200):SHOOT(8,0):GOTO(9,92,200):GOTO(10,92,200):;
+ ballx:-148# bally:20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+283,400,81,197,False,4,4,-10475;
+%%
+GOTO(0,81,197):GOTO(1,81,197):SHOOT(2,0):SHOOT(3,0):GOTO(4,81,197):GOTO(5,81,197):GOTO(6,81,197):GOTO(7,81,197):SHOOT(8,0):GOTO(9,81,197):GOTO(10,81,197):;
+ ballx:-159# bally:17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+284,400,69,198,True,3,4,-10646;
+%%
+GOTO(0,69,198):GOTO(1,69,198):SHOOT(2,0):SHOOT(3,0):GOTO(4,69,198):SHOOT(5,0):GOTO(6,69,198):GOTO(7,69,198):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:-171# bally:18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+285,400,54,198,False,11,6,-10833;
+%%
+GOTO(0,54,198):GOTO(1,54,198):GOTO(2,54,198):GOTO(3,54,198):GOTO(4,54,198):SHOOT(5,0):GOTO(6,54,198):GOTO(7,54,198):GOTO(8,54,198):SHOOT(9,0):SHOOT(10,0):;
+ ballx:-186# bally:18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+286,400,40,198,False,4,10,-11033;
+%%
+GOTO(0,40,198):GOTO(1,40,198):GOTO(2,40,198):GOTO(3,40,198):GOTO(4,40,198):GOTO(5,40,198):GOTO(6,40,198):GOTO(7,40,198):GOTO(8,40,198):GOTO(9,40,198):GOTO(10,40,198):;
+ ballx:-200# bally:18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+287,400,27,197,False,5,10,-11247;
+%%
+GOTO(0,27,197):GOTO(1,27,197):GOTO(2,27,197):GOTO(3,27,197):GOTO(4,27,197):GOTO(5,27,197):GOTO(6,27,197):GOTO(7,27,197):GOTO(8,27,197):GOTO(9,27,197):GOTO(10,27,197):;
+ ballx:-213# bally:17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:4#;
+();
+288,400,15,197,False,1,10,-11472;
+%%
+GOTO(0,15,197):GOTO(1,15,197):GOTO(2,15,197):GOTO(3,15,197):GOTO(4,15,197):GOTO(5,15,197):GOTO(6,15,197):GOTO(7,15,197):GOTO(8,15,197):GOTO(9,15,197):GOTO(10,15,197):;
+ ballx:-225# bally:17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+289,400,4,197,False,4,10,-11709;
+%%
+GOL (1,2,2);
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+291,400,257,180,True,11,11,-11691;
+%%
+GOTO(0,257,180):GOTO(1,257,180):GOTO(2,257,180):GOTO(3,257,180):GOTO(4,257,180):GOTO(5,257,180):GOTO(6,257,180):GOTO(7,257,180):GOTO(8,257,180):GOTO(9,257,180):SHOOT(10,0):;
+ ballx:17# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+292,400,274,180,True,11,11,-11656;
+%%
+GOTO(0,274,180):GOTO(1,274,180):GOTO(2,274,180):GOTO(3,274,180):GOTO(4,274,180):GOTO(5,274,180):GOTO(6,274,180):GOTO(7,274,180):GOTO(8,274,180):GOTO(9,274,180):GOTO(10,274,180):;
+ ballx:34# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+293,400,290,181,False,11,11,-11605;
+%%
+GOTO(0,290,181):GOTO(1,290,181):GOTO(2,290,181):GOTO(3,290,181):GOTO(4,290,181):GOTO(5,290,181):GOTO(6,290,181):GOTO(7,290,181):GOTO(8,290,181):GOTO(9,290,181):GOTO(10,290,181):;
+ ballx:50# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+294,400,305,181,False,11,11,-11539;
+%%
+GOTO(0,305,181):GOTO(1,305,181):GOTO(2,305,181):GOTO(3,305,181):GOTO(4,305,181):GOTO(5,305,181):GOTO(6,305,181):GOTO(7,305,181):GOTO(8,305,181):GOTO(9,305,181):GOTO(10,305,181):;
+ ballx:65# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+295,400,319,182,False,11,11,-11459;
+%%
+GOTO(0,319,182):GOTO(1,319,182):GOTO(2,319,182):GOTO(3,319,182):GOTO(4,319,182):GOTO(5,319,182):GOTO(6,319,182):GOTO(7,319,182):GOTO(8,319,182):GOTO(9,319,182):GOTO(10,319,182):;
+ ballx:79# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+296,400,332,182,False,11,6,-11366;
+%%
+GOTO(0,332,182):GOTO(1,332,182):GOTO(2,332,182):GOTO(3,332,182):GOTO(4,332,182):GOTO(5,332,182):GOTO(6,332,182):GOTO(7,332,182):GOTO(8,332,182):GOTO(9,332,182):GOTO(10,332,182):;
+ ballx:92# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+297,400,344,182,False,11,6,-11261;
+%%
+GOTO(0,344,182):GOTO(1,344,182):GOTO(2,344,182):GOTO(3,344,182):GOTO(4,344,182):GOTO(5,344,182):GOTO(6,344,182):GOTO(7,344,182):GOTO(8,344,182):GOTO(9,344,182):GOTO(10,344,182):;
+ ballx:104# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+298,400,355,182,False,11,6,-11145;
+%%
+GOTO(0,355,182):GOTO(1,355,182):GOTO(2,355,182):GOTO(3,355,182):GOTO(4,355,182):GOTO(5,355,182):GOTO(6,355,182):GOTO(7,355,182):GOTO(8,355,182):GOTO(9,355,182):GOTO(10,355,182):;
+ ballx:115# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+299,400,365,183,False,11,4,-11019;
+%%
+GOTO(0,365,183):GOTO(1,365,183):GOTO(2,365,183):GOTO(3,365,183):GOTO(4,365,183):GOTO(5,365,183):GOTO(6,365,183):GOTO(7,365,183):GOTO(8,365,183):GOTO(9,365,183):GOTO(10,365,183):;
+ ballx:125# bally:3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+300,400,374,183,False,11,4,-10884;
+%%
+GOTO(0,374,183):GOTO(1,374,183):GOTO(2,374,183):GOTO(3,374,183):GOTO(4,374,183):GOTO(5,374,183):GOTO(6,374,183):GOTO(7,374,183):GOTO(8,374,183):GOTO(9,374,183):GOTO(10,374,183):;
+ ballx:134# bally:3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+301,400,362,183,False,11,4,-10761;
+%%
+GOTO(0,362,183):GOTO(1,362,183):GOTO(2,362,183):GOTO(3,362,183):GOTO(4,362,183):GOTO(5,362,183):GOTO(6,362,183):GOTO(7,362,183):GOTO(8,362,183):GOTO(9,362,183):GOTO(10,362,183):;
+ ballx:122# bally:3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+302,400,344,184,False,11,6,-10656;
+%%
+GOTO(0,344,184):GOTO(1,344,184):GOTO(2,344,184):GOTO(3,344,184):GOTO(4,344,184):GOTO(5,344,184):GOTO(6,344,184):GOTO(7,344,184):GOTO(8,344,184):GOTO(9,344,184):GOTO(10,344,184):;
+ ballx:104# bally:4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+303,400,328,185,False,11,10,-10568;
+%%
+GOTO(0,328,185):GOTO(1,328,185):GOTO(2,328,185):GOTO(3,328,185):GOTO(4,328,185):GOTO(5,328,185):GOTO(6,328,185):GOTO(7,328,185):GOTO(8,328,185):GOTO(9,328,185):GOTO(10,328,185):;
+ ballx:88# bally:5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+304,400,312,186,True,11,10,-10496;
+%%
+GOTO(0,312,186):GOTO(1,312,186):GOTO(2,312,186):GOTO(3,312,186):GOTO(4,312,186):GOTO(5,312,186):GOTO(6,312,186):GOTO(7,312,186):GOTO(8,312,186):GOTO(9,312,186):SHOOT(10,0):;
+ ballx:72# bally:6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+305,400,329,183,False,11,9,-10406;
+%%
+GOTO(0,329,183):GOTO(1,329,183):GOTO(2,329,183):GOTO(3,329,183):GOTO(4,329,183):GOTO(5,329,183):GOTO(6,329,183):GOTO(7,329,183):GOTO(8,329,183):GOTO(9,329,183):SHOOT(10,0):;
+ ballx:89# bally:3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+306,400,346,181,False,11,6,-10299;
+%%
+GOTO(0,346,181):GOTO(1,346,181):GOTO(2,346,181):GOTO(3,346,181):GOTO(4,346,181):GOTO(5,346,181):GOTO(6,346,181):GOTO(7,346,181):GOTO(8,346,181):GOTO(9,346,181):GOTO(10,346,181):;
+ ballx:106# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+307,400,362,179,False,11,3,-10177;
+%%
+GOTO(0,362,179):GOTO(1,362,179):GOTO(2,362,179):GOTO(3,362,179):GOTO(4,362,179):GOTO(5,362,179):GOTO(6,362,179):GOTO(7,362,179):GOTO(8,362,179):GOTO(9,362,179):GOTO(10,362,179):;
+ ballx:122# bally:-1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+308,400,377,177,False,11,5,-10040;
+%%
+GOTO(0,377,177):GOTO(1,377,177):GOTO(2,377,177):GOTO(3,377,177):GOTO(4,377,177):GOTO(5,377,177):GOTO(6,377,177):GOTO(7,377,177):GOTO(8,377,177):GOTO(9,377,177):GOTO(10,377,177):;
+ ballx:137# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+309,400,390,174,False,11,1,-9889;
+%%
+GOTO(0,390,174):GOTO(1,390,174):GOTO(2,390,174):GOTO(3,390,174):GOTO(4,390,174):GOTO(5,390,174):GOTO(6,390,174):GOTO(7,390,174):GOTO(8,390,174):GOTO(9,390,174):GOTO(10,390,174):;
+ ballx:150# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+310,400,370,173,False,11,3,-9759;
+%%
+GOTO(0,370,173):GOTO(1,370,173):GOTO(2,370,173):GOTO(3,370,173):GOTO(4,370,173):GOTO(5,370,173):GOTO(6,370,173):GOTO(7,370,173):GOTO(8,370,173):GOTO(9,370,173):GOTO(10,370,173):;
+ ballx:130# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+311,400,350,172,False,11,9,-9649;
+%%
+GOTO(0,350,172):GOTO(1,350,172):GOTO(2,350,172):GOTO(3,350,172):GOTO(4,350,172):GOTO(5,350,172):GOTO(6,350,172):GOTO(7,350,172):GOTO(8,350,172):GOTO(9,350,172):SHOOT(10,0):;
+ ballx:110# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+312,400,331,171,True,11,10,-9558;
+%%
+GOTO(0,331,171):GOTO(1,331,171):GOTO(2,331,171):GOTO(3,331,171):GOTO(4,331,171):GOTO(5,331,171):GOTO(6,331,171):GOTO(7,331,171):GOTO(8,331,171):GOTO(9,331,171):SHOOT(10,0):;
+ ballx:91# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+313,400,313,169,True,9,10,-9485;
+%%
+GOTO(0,313,169):GOTO(1,313,169):GOTO(2,313,169):GOTO(3,313,169):GOTO(4,313,169):GOTO(5,313,169):GOTO(6,313,169):GOTO(7,313,169):SHOOT(8,0):GOTO(9,313,169):GOTO(10,313,169):;
+ ballx:73# bally:-11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+314,400,296,168,True,9,10,-9428;
+%%
+GOTO(0,296,168):GOTO(1,296,168):GOTO(2,296,168):GOTO(3,296,168):GOTO(4,296,168):GOTO(5,296,168):GOTO(6,296,168):GOTO(7,296,168):GOTO(8,296,168):GOTO(9,296,168):GOTO(10,296,168):;
+ ballx:56# bally:-12# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+315,400,280,167,True,10,11,-9388;
+%%
+GOTO(0,280,167):GOTO(1,280,167):GOTO(2,280,167):GOTO(3,280,167):GOTO(4,280,167):GOTO(5,280,167):GOTO(6,280,167):GOTO(7,280,167):GOTO(8,280,167):SHOOT(9,0):GOTO(10,280,167):;
+ ballx:40# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+316,400,265,167,True,10,11,-9363;
+%%
+GOTO(0,265,167):GOTO(1,265,167):GOTO(2,265,167):GOTO(3,265,167):GOTO(4,265,167):GOTO(5,265,167):GOTO(6,265,167):GOTO(7,265,167):GOTO(8,265,167):SHOOT(9,0):GOTO(10,265,167):;
+ ballx:25# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+317,400,283,166,True,10,9,-9320;
+%%
+GOTO(0,283,166):GOTO(1,283,166):GOTO(2,283,166):GOTO(3,283,166):GOTO(4,283,166):GOTO(5,283,166):GOTO(6,283,166):GOTO(7,283,166):SHOOT(8,0):SHOOT(9,0):GOTO(10,283,166):;
+ ballx:43# bally:-14# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+318,400,300,165,True,9,9,-9260;
+%%
+GOTO(0,300,165):GOTO(1,300,165):GOTO(2,300,165):GOTO(3,300,165):GOTO(4,300,165):GOTO(5,300,165):GOTO(6,300,165):GOTO(7,300,165):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:60# bally:-15# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+319,400,316,164,False,11,4,-9184;
+%%
+GOTO(0,316,164):GOTO(1,316,164):GOTO(2,316,164):GOTO(3,316,164):GOTO(4,316,164):GOTO(5,316,164):GOTO(6,316,164):GOTO(7,316,164):GOTO(8,316,164):GOTO(9,316,164):SHOOT(10,0):;
+ ballx:76# bally:-16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+320,400,298,165,True,10,4,-9125;
+%%
+GOTO(0,298,165):GOTO(1,298,165):GOTO(2,298,165):GOTO(3,298,165):GOTO(4,298,165):GOTO(5,298,165):GOTO(6,298,165):GOTO(7,298,165):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:58# bally:-15# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+321,400,281,166,True,10,4,-9084;
+%%
+GOTO(0,281,166):GOTO(1,281,166):GOTO(2,281,166):SHOOT(3,0):GOTO(4,281,166):SHOOT(5,0):GOTO(6,281,166):GOTO(7,281,166):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:41# bally:-14# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+322,400,265,167,True,6,4,-9059;
+%%
+GOTO(0,265,167):GOTO(1,265,167):SHOOT(2,0):SHOOT(3,0):GOTO(4,265,167):SHOOT(5,0):GOTO(6,265,167):GOTO(7,265,167):GOTO(8,265,167):GOTO(9,265,167):GOTO(10,265,167):;
+ ballx:25# bally:-13# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+323,400,283,165,False,4,4,-9016;
+%%
+GOTO(0,283,165):GOTO(1,283,165):GOTO(2,283,165):SHOOT(3,0):GOTO(4,283,165):SHOOT(5,0):GOTO(6,283,165):GOTO(7,283,165):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:43# bally:-15# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+324,400,300,164,False,10,6,-8956;
+%%
+GOTO(0,300,164):GOTO(1,300,164):GOTO(2,300,164):SHOOT(3,0):GOTO(4,300,164):SHOOT(5,0):GOTO(6,300,164):GOTO(7,300,164):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:60# bally:-16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+325,400,315,162,False,4,5,-8880;
+%%
+GOTO(0,315,162):GOTO(1,315,162):GOTO(2,315,162):SHOOT(3,0):GOTO(4,315,162):GOTO(5,315,162):GOTO(6,315,162):GOTO(7,315,162):GOTO(8,315,162):GOTO(9,315,162):GOTO(10,315,162):;
+ ballx:75# bally:-18# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+326,400,330,161,False,4,5,-8789;
+%%
+GOTO(0,330,161):GOTO(1,330,161):GOTO(2,330,161):GOTO(3,330,161):GOTO(4,330,161):GOTO(5,330,161):GOTO(6,330,161):GOTO(7,330,161):GOTO(8,330,161):GOTO(9,330,161):GOTO(10,330,161):;
+ ballx:90# bally:-19# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+327,400,309,160,True,4,6,-8719;
+%%
+GOTO(0,309,160):GOTO(1,309,160):GOTO(2,309,160):SHOOT(3,0):GOTO(4,309,160):SHOOT(5,0):GOTO(6,309,160):GOTO(7,309,160):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:69# bally:-20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+328,400,289,159,True,3,4,-8669;
+%%
+GOTO(0,289,159):GOTO(1,289,159):SHOOT(2,0):SHOOT(3,0):GOTO(4,289,159):SHOOT(5,0):GOTO(6,289,159):GOTO(7,289,159):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:49# bally:-21# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+329,400,270,158,True,3,4,-8638;
+%%
+GOTO(0,270,158):GOTO(1,270,158):SHOOT(2,0):GOTO(3,270,158):GOTO(4,270,158):GOTO(5,270,158):GOTO(6,270,158):GOTO(7,270,158):GOTO(8,270,158):GOTO(9,270,158):GOTO(10,270,158):;
+ ballx:30# bally:-22# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+330,400,253,157,True,8,4,-8625;
+%%
+GOTO(0,253,157):GOTO(1,253,157):GOTO(2,253,157):GOTO(3,253,157):GOTO(4,253,157):GOTO(5,253,157):GOTO(6,253,157):SHOOT(7,0):GOTO(8,253,157):GOTO(9,253,157):GOTO(10,253,157):;
+ ballx:13# bally:-23# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:7#;
+();
+331,400,237,156,True,2,4,-8629;
+%%
+GOTO(0,237,156):SHOOT(1,0):GOTO(2,237,156):GOTO(3,237,156):GOTO(4,237,156):GOTO(5,237,156):GOTO(6,237,156):SHOOT(7,0):GOTO(8,237,156):GOTO(9,237,156):GOTO(10,237,156):;
+ ballx:-3# bally:-24# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+332,400,221,155,True,2,11,-8649;
+%%
+GOTO(0,221,155):SHOOT(1,0):GOTO(2,221,155):GOTO(3,221,155):GOTO(4,221,155):GOTO(5,221,155):GOTO(6,221,155):GOTO(7,221,155):GOTO(8,221,155):GOTO(9,221,155):GOTO(10,221,155):;
+ ballx:-19# bally:-25# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+333,400,206,155,True,2,11,-8684;
+%%
+GOTO(0,206,155):GOTO(1,206,155):GOTO(2,206,155):GOTO(3,206,155):GOTO(4,206,155):GOTO(5,206,155):GOTO(6,206,155):GOTO(7,206,155):GOTO(8,206,155):GOTO(9,206,155):GOTO(10,206,155):;
+ ballx:-34# bally:-25# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:1#;
+();
+334,400,192,154,True,1,11,-8733;
+%%
+SHOOT(0,0):GOTO(1,192,154):GOTO(2,192,154):GOTO(3,192,154):GOTO(4,192,154):GOTO(5,192,154):GOTO(6,192,154):GOTO(7,192,154):GOTO(8,192,154):GOTO(9,192,154):GOTO(10,192,154):;
+ ballx:-48# bally:-26# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+335,400,179,153,True,1,11,-8795;
+%%
+SHOOT(0,0):GOTO(1,179,153):GOTO(2,179,153):GOTO(3,179,153):GOTO(4,179,153):GOTO(5,179,153):GOTO(6,179,153):GOTO(7,179,153):GOTO(8,179,153):GOTO(9,179,153):GOTO(10,179,153):;
+ ballx:-61# bally:-27# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+336,400,167,153,False,1,11,-8868;
+%%
+GOTO(0,167,153):GOTO(1,167,153):GOTO(2,167,153):GOTO(3,167,153):GOTO(4,167,153):GOTO(5,167,153):GOTO(6,167,153):GOTO(7,167,153):GOTO(8,167,153):GOTO(9,167,153):GOTO(10,167,153):;
+ ballx:-73# bally:-27# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+337,400,156,152,False,1,11,-8953;
+%%
+GOTO(0,156,152):GOTO(1,156,152):GOTO(2,156,152):GOTO(3,156,152):GOTO(4,156,152):GOTO(5,156,152):GOTO(6,156,152):GOTO(7,156,152):GOTO(8,156,152):GOTO(9,156,152):GOTO(10,156,152):;
+ ballx:-84# bally:-28# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+338,400,146,152,False,1,11,-9048;
+%%
+GOTO(0,146,152):GOTO(1,146,152):GOTO(2,146,152):GOTO(3,146,152):GOTO(4,146,152):GOTO(5,146,152):GOTO(6,146,152):GOTO(7,146,152):GOTO(8,146,152):GOTO(9,146,152):GOTO(10,146,152):;
+ ballx:-94# bally:-28# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+339,400,137,151,False,1,11,-9152;
+%%
+GOTO(0,137,151):GOTO(1,137,151):GOTO(2,137,151):GOTO(3,137,151):GOTO(4,137,151):GOTO(5,137,151):GOTO(6,137,151):GOTO(7,137,151):GOTO(8,137,151):GOTO(9,137,151):GOTO(10,137,151):;
+ ballx:-103# bally:-29# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+340,400,116,157,False,1,11,-9276;
+%%
+GOTO(0,116,157):GOTO(1,116,157):GOTO(2,116,157):GOTO(3,116,157):GOTO(4,116,157):GOTO(5,116,157):GOTO(6,116,157):GOTO(7,116,157):GOTO(8,116,157):GOTO(9,116,157):GOTO(10,116,157):;
+ ballx:-124# bally:-23# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+341,400,97,163,False,1,11,-9419;
+%%
+GOTO(0,97,163):GOTO(1,97,163):GOTO(2,97,163):GOTO(3,97,163):GOTO(4,97,163):GOTO(5,97,163):GOTO(6,97,163):GOTO(7,97,163):GOTO(8,97,163):GOTO(9,97,163):GOTO(10,97,163):;
+ ballx:-143# bally:-17# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+342,400,79,168,False,1,11,-9581;
+%%
+GOTO(0,79,168):GOTO(1,79,168):GOTO(2,79,168):GOTO(3,79,168):GOTO(4,79,168):GOTO(5,79,168):GOTO(6,79,168):GOTO(7,79,168):GOTO(8,79,168):GOTO(9,79,168):GOTO(10,79,168):;
+ ballx:-161# bally:-12# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+343,400,62,173,False,1,11,-9760;
+%%
+GOTO(0,62,173):GOTO(1,62,173):GOTO(2,62,173):GOTO(3,62,173):GOTO(4,62,173):GOTO(5,62,173):GOTO(6,62,173):GOTO(7,62,173):GOTO(8,62,173):GOTO(9,62,173):GOTO(10,62,173):;
+ ballx:-178# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+344,400,45,177,False,1,11,-9955;
+%%
+GOTO(0,45,177):GOTO(1,45,177):GOTO(2,45,177):GOTO(3,45,177):GOTO(4,45,177):GOTO(5,45,177):GOTO(6,45,177):GOTO(7,45,177):GOTO(8,45,177):GOTO(9,45,177):GOTO(10,45,177):;
+ ballx:-195# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+345,400,30,181,False,1,11,-10166;
+%%
+GOTO(0,30,181):GOTO(1,30,181):GOTO(2,30,181):GOTO(3,30,181):GOTO(4,30,181):GOTO(5,30,181):GOTO(6,30,181):GOTO(7,30,181):GOTO(8,30,181):GOTO(9,30,181):GOTO(10,30,181):;
+ ballx:-210# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+346,400,16,185,False,1,11,-10391;
+%%
+GOTO(0,16,185):GOTO(1,16,185):GOTO(2,16,185):GOTO(3,16,185):GOTO(4,16,185):GOTO(5,16,185):GOTO(6,16,185):GOTO(7,16,185):GOTO(8,16,185):GOTO(9,16,185):GOTO(10,16,185):;
+ ballx:-224# bally:5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+347,400,2,189,False,1,11,-10629;
+%%
+GOL (1,3,10);
+%%
+GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):SHOOT(10,0):;
+ ballx:0# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+349,400,257,180,True,11,11,-10611;
+%%
+GOTO(0,257,180):GOTO(1,257,180):GOTO(2,257,180):GOTO(3,257,180):GOTO(4,257,180):GOTO(5,257,180):GOTO(6,257,180):GOTO(7,257,180):GOTO(8,257,180):GOTO(9,257,180):SHOOT(10,0):;
+ ballx:17# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+350,400,274,179,False,11,11,-10576;
+%%
+GOTO(0,274,179):GOTO(1,274,179):GOTO(2,274,179):GOTO(3,274,179):GOTO(4,274,179):GOTO(5,274,179):GOTO(6,274,179):GOTO(7,274,179):GOTO(8,274,179):GOTO(9,274,179):GOTO(10,274,179):;
+ ballx:34# bally:-1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+351,400,290,178,False,11,11,-10525;
+%%
+GOTO(0,290,178):GOTO(1,290,178):GOTO(2,290,178):GOTO(3,290,178):GOTO(4,290,178):GOTO(5,290,178):GOTO(6,290,178):GOTO(7,290,178):GOTO(8,290,178):GOTO(9,290,178):GOTO(10,290,178):;
+ ballx:50# bally:-2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+352,400,305,177,False,11,11,-10459;
+%%
+GOTO(0,305,177):GOTO(1,305,177):GOTO(2,305,177):GOTO(3,305,177):GOTO(4,305,177):GOTO(5,305,177):GOTO(6,305,177):GOTO(7,305,177):GOTO(8,305,177):GOTO(9,305,177):GOTO(10,305,177):;
+ ballx:65# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+353,400,319,176,False,11,11,-10379;
+%%
+GOTO(0,319,176):GOTO(1,319,176):GOTO(2,319,176):GOTO(3,319,176):GOTO(4,319,176):GOTO(5,319,176):GOTO(6,319,176):GOTO(7,319,176):GOTO(8,319,176):GOTO(9,319,176):GOTO(10,319,176):;
+ ballx:79# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+354,400,332,176,False,11,6,-10286;
+%%
+GOTO(0,332,176):GOTO(1,332,176):GOTO(2,332,176):GOTO(3,332,176):GOTO(4,332,176):GOTO(5,332,176):GOTO(6,332,176):GOTO(7,332,176):GOTO(8,332,176):GOTO(9,332,176):GOTO(10,332,176):;
+ ballx:92# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+355,400,344,175,False,11,6,-10182;
+%%
+GOTO(0,344,175):GOTO(1,344,175):GOTO(2,344,175):GOTO(3,344,175):GOTO(4,344,175):GOTO(5,344,175):GOTO(6,344,175):GOTO(7,344,175):GOTO(8,344,175):GOTO(9,344,175):GOTO(10,344,175):;
+ ballx:104# bally:-5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+356,400,355,175,False,11,6,-10066;
+%%
+GOTO(0,355,175):GOTO(1,355,175):GOTO(2,355,175):GOTO(3,355,175):GOTO(4,355,175):GOTO(5,355,175):GOTO(6,355,175):GOTO(7,355,175):GOTO(8,355,175):GOTO(9,355,175):GOTO(10,355,175):;
+ ballx:115# bally:-5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+357,400,365,174,False,11,4,-9940;
+%%
+GOTO(0,365,174):GOTO(1,365,174):GOTO(2,365,174):GOTO(3,365,174):GOTO(4,365,174):GOTO(5,365,174):GOTO(6,365,174):GOTO(7,365,174):GOTO(8,365,174):GOTO(9,365,174):GOTO(10,365,174):;
+ ballx:125# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+358,400,374,174,False,11,4,-9805;
+%%
+GOTO(0,374,174):GOTO(1,374,174):GOTO(2,374,174):GOTO(3,374,174):GOTO(4,374,174):GOTO(5,374,174):GOTO(6,374,174):GOTO(7,374,174):GOTO(8,374,174):GOTO(9,374,174):GOTO(10,374,174):;
+ ballx:134# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+359,400,362,175,False,11,4,-9682;
+%%
+GOTO(0,362,175):GOTO(1,362,175):GOTO(2,362,175):GOTO(3,362,175):GOTO(4,362,175):GOTO(5,362,175):GOTO(6,362,175):GOTO(7,362,175):GOTO(8,362,175):GOTO(9,362,175):GOTO(10,362,175):;
+ ballx:122# bally:-5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+360,400,351,173,False,11,9,-9571;
+%%
+GOTO(0,351,173):GOTO(1,351,173):GOTO(2,351,173):GOTO(3,351,173):GOTO(4,351,173):GOTO(5,351,173):GOTO(6,351,173):GOTO(7,351,173):GOTO(8,351,173):GOTO(9,351,173):GOTO(10,351,173):;
+ ballx:111# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+361,400,339,172,False,11,9,-9472;
+%%
+GOTO(0,339,172):GOTO(1,339,172):GOTO(2,339,172):GOTO(3,339,172):GOTO(4,339,172):GOTO(5,339,172):GOTO(6,339,172):GOTO(7,339,172):GOTO(8,339,172):GOTO(9,339,172):GOTO(10,339,172):;
+ ballx:99# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+362,400,328,172,False,11,10,-9383;
+%%
+GOTO(0,328,172):GOTO(1,328,172):GOTO(2,328,172):GOTO(3,328,172):GOTO(4,328,172):GOTO(5,328,172):GOTO(6,328,172):GOTO(7,328,172):GOTO(8,328,172):GOTO(9,328,172):GOTO(10,328,172):;
+ ballx:88# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+363,400,318,172,True,11,10,-9305;
+%%
+GOTO(0,318,172):GOTO(1,318,172):GOTO(2,318,172):GOTO(3,318,172):GOTO(4,318,172):GOTO(5,318,172):GOTO(6,318,172):GOTO(7,318,172):GOTO(8,318,172):GOTO(9,318,172):SHOOT(10,0):;
+ ballx:78# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+364,400,336,172,False,11,4,-9209;
+%%
+GOTO(0,336,172):GOTO(1,336,172):GOTO(2,336,172):GOTO(3,336,172):GOTO(4,336,172):GOTO(5,336,172):GOTO(6,336,172):GOTO(7,336,172):GOTO(8,336,172):GOTO(9,336,172):GOTO(10,336,172):;
+ ballx:96# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+365,400,353,173,False,11,6,-9096;
+%%
+GOTO(0,353,173):GOTO(1,353,173):GOTO(2,353,173):GOTO(3,353,173):GOTO(4,353,173):GOTO(5,353,173):GOTO(6,353,173):GOTO(7,353,173):GOTO(8,353,173):GOTO(9,353,173):GOTO(10,353,173):;
+ ballx:113# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+366,400,369,173,False,11,3,-8966;
+%%
+GOTO(0,369,173):GOTO(1,369,173):GOTO(2,369,173):GOTO(3,369,173):GOTO(4,369,173):GOTO(5,369,173):GOTO(6,369,173):GOTO(7,369,173):GOTO(8,369,173):GOTO(9,369,173):GOTO(10,369,173):;
+ ballx:129# bally:-7# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+367,400,354,174,False,11,3,-8852;
+%%
+GOTO(0,354,174):GOTO(1,354,174):GOTO(2,354,174):GOTO(3,354,174):GOTO(4,354,174):GOTO(5,354,174):GOTO(6,354,174):GOTO(7,354,174):GOTO(8,354,174):GOTO(9,354,174):GOTO(10,354,174):;
+ ballx:114# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+368,400,336,177,False,11,10,-8756;
+%%
+GOTO(0,336,177):GOTO(1,336,177):GOTO(2,336,177):GOTO(3,336,177):GOTO(4,336,177):GOTO(5,336,177):GOTO(6,336,177):GOTO(7,336,177):GOTO(8,336,177):GOTO(9,336,177):SHOOT(10,0):;
+ ballx:96# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+369,400,319,180,True,11,10,-8676;
+%%
+GOTO(0,319,180):GOTO(1,319,180):GOTO(2,319,180):GOTO(3,319,180):GOTO(4,319,180):GOTO(5,319,180):GOTO(6,319,180):GOTO(7,319,180):GOTO(8,319,180):GOTO(9,319,180):SHOOT(10,0):;
+ ballx:79# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+370,400,303,182,True,9,10,-8612;
+%%
+GOTO(0,303,182):GOTO(1,303,182):GOTO(2,303,182):GOTO(3,303,182):GOTO(4,303,182):GOTO(5,303,182):GOTO(6,303,182):GOTO(7,303,182):SHOOT(8,0):GOTO(9,303,182):GOTO(10,303,182):;
+ ballx:63# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+371,400,315,185,True,9,10,-8537;
+%%
+GOTO(0,315,185):GOTO(1,315,185):GOTO(2,315,185):GOTO(3,315,185):GOTO(4,315,185):GOTO(5,315,185):GOTO(6,315,185):GOTO(7,315,185):SHOOT(8,0):GOTO(9,315,185):SHOOT(10,0):;
+ ballx:75# bally:5# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+372,400,327,182,False,11,10,-8449;
+%%
+GOTO(0,327,182):GOTO(1,327,182):GOTO(2,327,182):GOTO(3,327,182):GOTO(4,327,182):GOTO(5,327,182):GOTO(6,327,182):GOTO(7,327,182):SHOOT(8,0):GOTO(9,327,182):SHOOT(10,0):;
+ ballx:87# bally:2# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+373,400,309,180,True,9,9,-8380;
+%%
+GOTO(0,309,180):GOTO(1,309,180):GOTO(2,309,180):GOTO(3,309,180):GOTO(4,309,180):GOTO(5,309,180):GOTO(6,309,180):GOTO(7,309,180):SHOOT(8,0):GOTO(9,309,180):SHOOT(10,0):;
+ ballx:69# bally:0# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+374,400,292,177,False,9,9,-8327;
+%%
+GOTO(0,292,177):GOTO(1,292,177):GOTO(2,292,177):GOTO(3,292,177):GOTO(4,292,177):GOTO(5,292,177):GOTO(6,292,177):GOTO(7,292,177):GOTO(8,292,177):GOTO(9,292,177):GOTO(10,292,177):;
+ ballx:52# bally:-3# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:8#;
+();
+375,400,277,174,True,10,9,-8290;
+%%
+GOTO(0,277,174):GOTO(1,277,174):GOTO(2,277,174):GOTO(3,277,174):GOTO(4,277,174):GOTO(5,277,174):GOTO(6,277,174):GOTO(7,277,174):GOTO(8,277,174):SHOOT(9,0):GOTO(10,277,174):;
+ ballx:37# bally:-6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+376,400,262,172,True,6,9,-8267;
+%%
+GOTO(0,262,172):GOTO(1,262,172):GOTO(2,262,172):SHOOT(3,0):GOTO(4,262,172):SHOOT(5,0):GOTO(6,262,172):GOTO(7,262,172):GOTO(8,262,172):SHOOT(9,0):GOTO(10,262,172):;
+ ballx:22# bally:-8# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+377,400,280,171,True,10,9,-8227;
+%%
+GOTO(0,280,171):GOTO(1,280,171):GOTO(2,280,171):GOTO(3,280,171):GOTO(4,280,171):GOTO(5,280,171):GOTO(6,280,171):GOTO(7,280,171):SHOOT(8,0):SHOOT(9,0):GOTO(10,280,171):;
+ ballx:40# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+378,400,297,171,True,11,4,-8170;
+%%
+GOTO(0,297,171):GOTO(1,297,171):GOTO(2,297,171):GOTO(3,297,171):GOTO(4,297,171):GOTO(5,297,171):GOTO(6,297,171):GOTO(7,297,171):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:57# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+379,400,313,171,False,11,6,-8096;
+%%
+GOTO(0,313,171):GOTO(1,313,171):GOTO(2,313,171):GOTO(3,313,171):GOTO(4,313,171):GOTO(5,313,171):GOTO(6,313,171):GOTO(7,313,171):GOTO(8,313,171):GOTO(9,313,171):SHOOT(10,0):;
+ ballx:73# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+380,400,295,171,True,10,4,-8041;
+%%
+GOTO(0,295,171):GOTO(1,295,171):GOTO(2,295,171):SHOOT(3,0):GOTO(4,295,171):GOTO(5,295,171):GOTO(6,295,171):GOTO(7,295,171):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:55# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+381,400,278,171,False,6,3,-8003;
+%%
+GOTO(0,278,171):GOTO(1,278,171):SHOOT(2,0):SHOOT(3,0):GOTO(4,278,171):SHOOT(5,0):GOTO(6,278,171):GOTO(7,278,171):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:38# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+382,400,262,171,True,3,3,-7980;
+%%
+GOTO(0,262,171):GOTO(1,262,171):SHOOT(2,0):GOTO(3,262,171):GOTO(4,262,171):SHOOT(5,0):GOTO(6,262,171):GOTO(7,262,171):GOTO(8,262,171):GOTO(9,262,171):SHOOT(10,0):;
+ ballx:22# bally:-9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:2#;
+();
+383,400,276,176,False,11,3,-7944;
+%%
+GOTO(0,276,176):GOTO(1,276,176):SHOOT(2,0):SHOOT(3,0):GOTO(4,276,176):SHOOT(5,0):GOTO(6,276,176):GOTO(7,276,176):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:36# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+384,400,294,176,True,10,4,-7889;
+%%
+GOTO(0,294,176):GOTO(1,294,176):SHOOT(2,0):SHOOT(3,0):GOTO(4,294,176):SHOOT(5,0):GOTO(6,294,176):GOTO(7,294,176):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:54# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:9#;
+();
+385,400,311,176,False,6,5,-7817;
+%%
+GOTO(0,311,176):GOTO(1,311,176):GOTO(2,311,176):GOTO(3,311,176):GOTO(4,311,176):SHOOT(5,0):GOTO(6,311,176):GOTO(7,311,176):GOTO(8,311,176):SHOOT(9,0):GOTO(10,311,176):;
+ ballx:71# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+386,400,327,176,False,6,1,-7730;
+%%
+GOTO(0,327,176):GOTO(1,327,176):GOTO(2,327,176):GOTO(3,327,176):GOTO(4,327,176):GOTO(5,327,176):GOTO(6,327,176):GOTO(7,327,176):GOTO(8,327,176):GOTO(9,327,176):GOTO(10,327,176):;
+ ballx:87# bally:-4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+387,400,306,179,False,6,5,-7663;
+%%
+GOTO(0,306,179):GOTO(1,306,179):SHOOT(2,0):SHOOT(3,0):GOTO(4,306,179):SHOOT(5,0):GOTO(6,306,179):GOTO(7,306,179):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:66# bally:-1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+388,400,287,181,False,4,10,-7616;
+%%
+GOTO(0,287,181):GOTO(1,287,181):SHOOT(2,0):SHOOT(3,0):GOTO(4,287,181):SHOOT(5,0):GOTO(6,287,181):GOTO(7,287,181):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:47# bally:1# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:3#;
+();
+389,400,268,184,False,7,10,-7587;
+%%
+GOTO(0,268,184):GOTO(1,268,184):GOTO(2,268,184):GOTO(3,268,184):GOTO(4,268,184):GOTO(5,268,184):GOTO(6,268,184):GOTO(7,268,184):GOTO(8,268,184):GOTO(9,268,184):GOTO(10,268,184):;
+ ballx:28# bally:4# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:6#;
+();
+390,400,250,186,True,7,10,-7577;
+%%
+GOTO(0,250,186):GOTO(1,250,186):GOTO(2,250,186):GOTO(3,250,186):GOTO(4,250,186):GOTO(5,250,186):SHOOT(6,0):GOTO(7,250,186):GOTO(8,250,186):GOTO(9,250,186):GOTO(10,250,186):;
+ ballx:10# bally:6# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:6#;
+();
+391,400,234,189,True,5,10,-7583;
+%%
+GOTO(0,234,189):GOTO(1,234,189):GOTO(2,234,189):GOTO(3,234,189):GOTO(4,234,189):GOTO(5,234,189):GOTO(6,234,189):GOTO(7,234,189):GOTO(8,234,189):GOTO(9,234,189):GOTO(10,234,189):;
+ ballx:-6# bally:9# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:4#;
+();
+392,400,218,191,True,5,10,-7605;
+%%
+GOTO(0,218,191):GOTO(1,218,191):GOTO(2,218,191):GOTO(3,218,191):SHOOT(4,0):GOTO(5,218,191):GOTO(6,218,191):GOTO(7,218,191):GOTO(8,218,191):GOTO(9,218,191):GOTO(10,218,191):;
+ ballx:-22# bally:11# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:4#;
+();
+393,400,204,194,True,1,10,-7642;
+%%
+SHOOT(0,0):GOTO(1,204,194):GOTO(2,204,194):GOTO(3,204,194):GOTO(4,204,194):GOTO(5,204,194):GOTO(6,204,194):GOTO(7,204,194):GOTO(8,204,194):GOTO(9,204,194):GOTO(10,204,194):;
+ ballx:-36# bally:14# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+394,400,190,196,True,1,11,-7693;
+%%
+SHOOT(0,0):GOTO(1,190,196):GOTO(2,190,196):GOTO(3,190,196):GOTO(4,190,196):GOTO(5,190,196):GOTO(6,190,196):GOTO(7,190,196):GOTO(8,190,196):GOTO(9,190,196):GOTO(10,190,196):;
+ ballx:-50# bally:16# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:0#;
+();
+395,400,210,200,True,5,10,-7723;
+%%
+SHOOT(0,0):GOTO(1,210,200):GOTO(2,210,200):GOTO(3,210,200):SHOOT(4,0):GOTO(5,210,200):GOTO(6,210,200):GOTO(7,210,200):GOTO(8,210,200):GOTO(9,210,200):GOTO(10,210,200):;
+ ballx:-30# bally:20# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:4#;
+();
+396,400,230,203,True,7,10,-7733;
+%%
+GOTO(0,230,203):GOTO(1,230,203):GOTO(2,230,203):GOTO(3,230,203):SHOOT(4,0):GOTO(5,230,203):SHOOT(6,0):GOTO(7,230,203):GOTO(8,230,203):GOTO(9,230,203):GOTO(10,230,203):;
+ ballx:-10# bally:23# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:6#;
+();
+397,400,248,207,True,7,4,-7725;
+%%
+GOTO(0,248,207):GOTO(1,248,207):SHOOT(2,0):SHOOT(3,0):GOTO(4,248,207):GOTO(5,248,207):SHOOT(6,0):GOTO(7,248,207):SHOOT(8,0):GOTO(9,248,207):GOTO(10,248,207):;
+ ballx:8# bally:27# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:6#;
+();
+398,400,265,210,False,11,9,-7699;
+%%
+GOTO(0,265,210):GOTO(1,265,210):SHOOT(2,0):GOTO(3,265,210):GOTO(4,265,210):SHOOT(5,0):GOTO(6,265,210):GOTO(7,265,210):SHOOT(8,0):SHOOT(9,0):SHOOT(10,0):;
+ ballx:25# bally:30# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:10#;
+();
+399,400,282,213,False,6,2,-7656;
+%%
+GOTO(0,282,213):GOTO(1,282,213):GOTO(2,282,213):GOTO(3,282,213):GOTO(4,282,213):GOTO(5,282,213):GOTO(6,282,213):GOTO(7,282,213):GOTO(8,282,213):GOTO(9,282,213):GOTO(10,282,213):;
+ ballx:42# bally:33# a:[None, None, None, None, None, None, None, None, None, None, 12]# i:12# mineCloserBall:5#;
+();
+400,400,298,216,False,6,2,-7598;
+%%

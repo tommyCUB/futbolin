@@ -1,0 +1,71 @@
+/* CSS Document */
+  
+#terreno{
+   width:360px;
+   height:480px;  
+   background:url(../images/terrenoI.jpg) no-repeat;
+   position:relative;	
+   background-size: 100% 100%;
+}
+table tr td
+{
+	padding-top: 0.3rem;
+	padding-bottom: .3rem;
+	margin: .3rem;
+}
+tr
+{
+	padding-top: .1rem;
+	padding-bottom: .1rem;
+	margin: .1rem;
+}
+.nombre
+{
+  width: 100px;  
+}
+.rango
+{
+   width: 100px;    
+}
+.posi
+{
+  width: 60px;  
+}
+tr
+{
+  margin: 0px;
+  padding: 5px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.players{  
+    width:35px;
+	height:70px;
+	left:0px;
+	top:0px;
+	position:absolute;		
+	border:0px;
+	margin:0px;
+	padding:0px;
+	cursor:move;	
+}
+
+.names{
+  font-size:9px;
+  color:#FFFFFF;
+  left:0px;
+  top:0px;       
+  position:absolute;    
+}
+
+
+
+.form-control
+{		
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	
+}
+

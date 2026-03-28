@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<script src="js/codemirror.js"></script>
+<link rel="stylesheet" href="css/codemirror.css">
+<script src="js/mode/css.js"></script>
+<script src="js/addon/hint/show-hint.js"></script>
+<script src="js/addon/hint/css-hint.js"></script>
+<link rel="stylesheet" href="js/addon/hint/show-hint.css">
+<style>
+body {
+	background-color: #eee;
+}
+</style>
+</head>
+<body>
+<div id="codeeditor"></div>
+<script>
+
+var editor = CodeMirror(document.getElementById("codeeditor"), {
+	value: "#test {\n\tposition: absolute;\n\twidth: auto;\n\theight: 50px;\n}",
+	mode: "css",
+	tabSize: 5,
+	lineNumbers: true,
+	firstLineNumber: 50,
+	extraKeys: {"Ctrl-Space": "autocomplete"}
+});
+</script>
+</body>
+</html>

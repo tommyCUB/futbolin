@@ -1,0 +1,35 @@
+/* CSS Document */
+
+
+td
+{
+	width: 60px;	
+}
+
+.tdNombre
+{
+	width: 150px;
+	
+}
+
+.tdOrden
+{
+	background-color: lightblue;
+	
+}
+
+.trMio
+{
+	background-color: lightcyan;
+}
+
+.menuRanking * :not(.btn)
+{
+	margin:0px;
+	padding: 0px;	
+}
+
+.btn-sm
+{
+	padding: 10px;
+}

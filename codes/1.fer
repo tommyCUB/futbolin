@@ -1,0 +1,20 @@
+for (i=0;i<11;i++)
+{
+  if(distance(minex(i),miney(i),ballx,bally)<=15){
+       shoot(i,0);
+    break;
+  }
+  else
+     goto(i,ballx,bally);  
+}
+
+a[4]=12;
+b[0]=0;
+cc=0;
+
+foreach(a as imo)
+{
+	cc+=1;	
+}
+
+

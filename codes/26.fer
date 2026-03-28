@@ -1,0 +1,14 @@
+for(i=1;i<12;i++)
+{ 
+  if(distance(mine(i,x),mine(i,y),ball(x),ball(y))<=25)
+       shoot(i,0); 
+  else
+     goto(i,ball(x),ball(y)); 
+}
+
+memory[0]= time();
+
+if(time()<1000)
+  memory[3]=128;
+else
+  memory[4]=15;

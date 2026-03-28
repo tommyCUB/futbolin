@@ -1,0 +1,83 @@
+/* CSS Document */
+
+#divTerreno{
+  position:relative;
+  width:630px;
+  height:472px;  
+  background:url(../images/terreno.jpg) no-repeat;
+  background-size:100% 100%;
+  margin: 0px;
+  float: left;
+  padding: 0px;
+}
+
+.txtGoles
+{
+	
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.leftOne
+{
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
+
+#ball{
+  left:0px;
+  top:0px;
+  background:url(../images/ball.gif) no-repeat;
+  background-size:100% 100%;
+  width:10px;
+  height:10px;  
+  position:absolute;
+  z-index: 10000;
+}
+
+ a
+{
+	color: darkslategray;
+}
+.info
+{
+	padding: 0px;
+	
+}
+.player
+{
+   position:absolute;
+   width:18px;
+   height:45px;
+   left:0px;
+   top:0px;	   
+}
+
+.row
+{
+	padding: 0px;
+	
+}
+#golTeam1, #golTeam2
+{
+	font-size: 15px;	
+	color: beige;	
+}
+
+.col-lg-4,.col-md-4,.col-sm-4
+{
+	padding: 1px;
+	
+}
+
+.btn{
+ padding-left: 0.4rem;
+ padding-right: 0.4rem;	
+ margin-right: 0.3rem;
+ padding-top: 0.1rem; 
+ padding-bottom: 0.1rem; 
+	margin-top: 0.1rem;
+	margin-bottom: 0.1rem;
+}

@@ -1,0 +1,12 @@
+/* CSS Document */
+
+
+.rotar1 
+    { 
+	 /* idéntico a rotateZ(45deg); */
+  transform: rotate(-15deg);
+   
+       
+    } 
+
+ 

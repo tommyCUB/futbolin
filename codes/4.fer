@@ -1,0 +1,18 @@
+a= myNearestAtBall();
+b= myNextPlayer();
+
+if(a!=b)
+{
+  if(distance(mine(a,x),mine(a,y),ball(),ball(y))<=15)
+     hit(a,ball()+10,ball(y)+10);
+  else
+    goto(a,ball(),ball(y));
+}
+else
+	pass(a,b);
+
+ for(i=0;i<11;i++)
+     {
+       if(distance(mine(i,x),mine(i,y),ball(),ball(y))<=15)
+          shoot(i,2);
+     }

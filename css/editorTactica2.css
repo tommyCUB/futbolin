@@ -1,0 +1,140 @@
+/* CSS Document */
+  
+#terreno{
+   width:277px;
+   height:369px;  
+   background:url(../images/terrenoI.jpg) no-repeat;
+   position:relative;	
+   background-size: 100% 100%;
+}
+table tr td
+{
+	padding-top: 0.3rem;
+	padding-bottom: .3rem;
+	margin: .3rem;
+}
+tr
+{
+	padding-top: .1rem;
+	padding-bottom: .1rem;
+	margin: .1rem;
+}
+.nombre
+{
+  width: 100px;  
+}
+.rango
+{
+   width: 100px;    
+}
+.posi
+{
+  width: 60px;  
+}
+tr
+{
+  margin: 0px;
+  padding: 5px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.players{  
+    width:20px;
+	height:40px;
+	left:0px;
+	top:0px;
+	position:absolute;		
+	border:0px;
+	margin:0px;
+	padding:0px;
+	 	
+}
+.numeros
+{
+	font-size: 12px;
+	
+}
+.names{
+  font-size:7px;
+  color:#2E2E2E;
+  left:0px;
+  top:0px;       
+  position:absolute;    
+}
+
+#p1{
+  background:url(../images/tshirt/redblue1.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p2{
+ background:url(../images/tshirt/redblue2.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p3{
+ background:url(../images/tshirt/redblue3.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p4{
+  background:url(../images/tshirt/redblue4.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p5{
+  background:url(../images/tshirt/redblue5.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p6{
+  background:url(../images/tshirt/redblue6.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p7{
+ background:url(../images/tshirt/redblue7.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p8{
+  background:url(../images/tshirt/redblue8.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p9{
+  background:url(../images/tshirt/redblue9.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p10{
+  background:url(../images/tshirt/redblue10.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+#p11{
+  background:url(../images/tshirt/redblue11.png);
+  background-size: 100% 100%;
+  left:auto;
+  top:auto;	
+}
+
+.form-control
+{		
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	
+}
+

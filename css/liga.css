@@ -1,0 +1,49 @@
+/* CSS Document */
+
+
+.orga .celdaSelected
+{
+	border:1px solid #F0690E;	
+}
+
+
+.orga .celdaDer
+{
+	border-right: 1px solid #8C2F04;	
+}
+.orga td{
+	
+	text-align: left;
+	width: auto;
+	
+}
+
+.orga tr{
+	border: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.orga
+{
+	height: 250px;
+	
+}
+.orga .celdaVacia
+{
+	
+}
+
+.orga a
+{
+	font-size: 10px;	
+}
+
+
+.partidoJ:hover {
+background-color: bisque;
+ 
+}
+
+
+

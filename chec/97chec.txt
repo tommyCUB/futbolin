@@ -1,0 +1,20 @@
+for(i=1;i<12;i++)
+{
+  if(distance(mine(i,x),mine(i,y),ball(x),ball(y))<=25)
+       shoot(i,0); 
+  else
+     goto(i,ball(x),ball(y));
+}
+
+push(a,5678);
+push(a,234);
+push(a,12445);
+push(a,234);
+push(a,345);
+push(a,2345644);
+push(a,45);
+push(a,2657534);
+push(a,685);
+x= rand();
+ab= force();
+w=len();

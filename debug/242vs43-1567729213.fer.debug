@@ -1,0 +1,1332 @@
+GOTO(0,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+0,400,240,180,False,10,10,0;
+%%
+GOTO(2,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+1,400,240,180,False,10,10,0;
+%%
+GOTO(0,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+2,400,240,180,False,10,10,0;
+%%
+GOTO(7,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+3,400,240,180,False,10,10,0;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+4,400,240,180,False,10,10,0;
+%%
+GOTO(0,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+5,400,240,180,False,10,10,0;
+%%
+GOTO(5,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+6,400,240,180,False,10,10,0;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+7,400,240,180,False,10,10,0;
+%%
+GOTO(1,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+8,400,240,180,False,10,10,0;
+%%
+GOTO(3,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+9,400,240,180,False,10,10,0;
+%%
+GOTO(1,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+10,400,240,180,False,10,10,0;
+%%
+GOTO(5,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+11,400,240,180,False,10,10,0;
+%%
+GOTO(9,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+12,400,240,180,False,10,10,0;
+%%
+GOTO(8,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+13,400,240,180,False,10,10,0;
+%%
+GOTO(9,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+14,400,240,180,False,10,10,0;
+%%
+GOTO(1,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+15,400,240,180,False,10,10,0;
+%%
+GOTO(2,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+16,400,240,180,False,8,10,0;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+17,400,240,180,False,8,8,0;
+%%
+GOTO(1,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):SHOOT(8,0):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+18,400,240,180,False,8,8,0;
+%%
+GOTO(9,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):SHOOT(8,0):SHOOT(9,0):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+19,400,229,177,True,9,8,-11;
+%%
+GOTO(6,229,177):GOTO(0,229,177):GOTO(1,229,177):GOTO(2,229,177):GOTO(3,229,177):GOTO(4,229,177):GOTO(5,229,177):GOTO(6,229,177):GOTO(7,229,177):SHOOT(8,0):SHOOT(9,0):;
+ ballx:-11# bally:-3# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+20,400,246,180,False,8,8,-5;
+%%
+GOTO(6,246,180):GOTO(0,246,180):GOTO(1,246,180):GOTO(2,246,180):GOTO(3,246,180):GOTO(4,246,180):GOTO(5,246,180):GOTO(6,246,180):GOTO(7,246,180):SHOOT(8,0):SHOOT(9,0):;
+ ballx:6# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+21,400,263,182,False,8,5,17;
+%%
+GOTO(4,263,182):GOTO(0,263,182):GOTO(1,263,182):GOTO(2,263,182):GOTO(3,263,182):GOTO(4,263,182):GOTO(5,263,182):GOTO(6,263,182):GOTO(7,263,182):SHOOT(8,0):GOTO(9,263,182):;
+ ballx:23# bally:2# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+22,400,278,184,False,10,5,56;
+%%
+GOTO(3,278,184):GOTO(0,278,184):GOTO(1,278,184):GOTO(2,278,184):GOTO(3,278,184):GOTO(4,278,184):GOTO(5,278,184):GOTO(6,278,184):GOTO(7,278,184):GOTO(8,278,184):GOTO(9,278,184):;
+ ballx:38# bally:4# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+23,400,260,187,False,8,5,77;
+%%
+GOTO(10,260,187):GOTO(0,260,187):GOTO(1,260,187):GOTO(2,260,187):GOTO(3,260,187):GOTO(4,260,187):GOTO(5,260,187):GOTO(6,260,187):GOTO(7,260,187):SHOOT(8,0):SHOOT(9,0):;
+ ballx:20# bally:7# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+24,400,244,189,False,9,9,81;
+%%
+GOTO(3,244,189):GOTO(0,244,189):GOTO(1,244,189):GOTO(2,244,189):GOTO(3,244,189):GOTO(4,244,189):GOTO(5,244,189):GOTO(6,244,189):GOTO(7,244,189):SHOOT(8,0):SHOOT(9,0):;
+ ballx:4# bally:9# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+25,400,229,191,True,3,9,69;
+%%
+GOTO(0,229,191):GOTO(0,229,191):GOTO(1,229,191):GOTO(2,229,191):SHOOT(3,0):GOTO(4,229,191):SHOOT(5,0):GOTO(6,229,191):GOTO(7,229,191):GOTO(8,229,191):GOTO(9,229,191):;
+ ballx:-11# bally:11# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+26,400,214,193,True,3,10,43;
+%%
+GOTO(8,214,193):GOTO(0,214,193):GOTO(1,214,193):GOTO(2,214,193):SHOOT(3,0):GOTO(4,214,193):SHOOT(5,0):GOTO(6,214,193):GOTO(7,214,193):GOTO(8,214,193):GOTO(9,214,193):;
+ ballx:-26# bally:13# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+27,400,226,190,True,3,9,28;
+%%
+GOTO(3,226,190):GOTO(0,226,190):GOTO(1,226,190):GOTO(2,226,190):SHOOT(3,0):GOTO(4,226,190):SHOOT(5,0):GOTO(6,226,190):GOTO(7,226,190):SHOOT(8,0):SHOOT(9,0):;
+ ballx:-14# bally:10# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+28,400,243,190,False,8,8,31;
+%%
+GOTO(1,243,190):GOTO(0,243,190):GOTO(1,243,190):GOTO(2,243,190):SHOOT(3,0):GOTO(4,243,190):SHOOT(5,0):GOTO(6,243,190):GOTO(7,243,190):SHOOT(8,0):SHOOT(9,0):;
+ ballx:3# bally:10# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+29,400,260,191,False,9,2,51;
+%%
+GOTO(4,260,191):GOTO(0,260,191):GOTO(1,260,191):GOTO(2,260,191):GOTO(3,260,191):GOTO(4,260,191):GOTO(5,260,191):GOTO(6,260,191):GOTO(7,260,191):GOTO(8,260,191):SHOOT(9,0):;
+ ballx:20# bally:11# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+30,400,275,192,False,10,2,87;
+%%
+SHOOT(10,0):GOTO(0,275,192):GOTO(1,275,192):GOTO(2,275,192):GOTO(3,275,192):GOTO(4,275,192):GOTO(5,275,192):GOTO(6,275,192):GOTO(7,275,192):GOTO(8,275,192):GOTO(9,275,192):;
+ ballx:35# bally:12# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+31,400,261,195,False,8,2,108;
+%%
+GOTO(6,261,195):GOTO(0,261,195):GOTO(1,261,195):GOTO(2,261,195):SHOOT(3,0):GOTO(4,261,195):SHOOT(5,0):GOTO(6,261,195):GOTO(7,261,195):SHOOT(8,0):GOTO(9,261,195):;
+ ballx:21# bally:15# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+32,400,246,194,True,3,3,115;
+%%
+GOTO(10,246,194):GOTO(0,246,194):GOTO(1,246,194):GOTO(2,246,194):SHOOT(3,0):GOTO(4,246,194):SHOOT(5,0):GOTO(6,246,194):GOTO(7,246,194):SHOOT(8,0):SHOOT(9,0):;
+ ballx:6# bally:14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+33,400,230,199,True,2,5,104;
+%%
+GOTO(5,230,199):GOTO(0,230,199):GOTO(1,230,199):SHOOT(2,0):GOTO(3,230,199):GOTO(4,230,199):GOTO(5,230,199):GOTO(6,230,199):GOTO(7,230,199):GOTO(8,230,199):SHOOT(9,0):;
+ ballx:-10# bally:19# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+34,400,213,203,True,2,3,76;
+%%
+GOTO(9,213,203):GOTO(0,213,203):GOTO(1,213,203):SHOOT(2,0):GOTO(3,213,203):GOTO(4,213,203):GOTO(5,213,203):GOTO(6,213,203):GOTO(7,213,203):GOTO(8,213,203):GOTO(9,213,203):;
+ ballx:-27# bally:23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+35,400,198,207,True,4,3,34;
+%%
+GOTO(5,198,207):GOTO(0,198,207):GOTO(1,198,207):GOTO(2,198,207):GOTO(3,198,207):GOTO(4,198,207):GOTO(5,198,207):GOTO(6,198,207):GOTO(7,198,207):GOTO(8,198,207):GOTO(9,198,207):;
+ ballx:-42# bally:27# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:4#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+36,400,183,211,True,4,3,-23;
+%%
+GOTO(2,183,211):GOTO(0,183,211):GOTO(1,183,211):GOTO(2,183,211):GOTO(3,183,211):SHOOT(4,0):GOTO(5,183,211):GOTO(6,183,211):GOTO(7,183,211):GOTO(8,183,211):GOTO(9,183,211):;
+ ballx:-57# bally:31# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:4#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+37,400,204,208,True,2,3,-59;
+%%
+GOTO(0,204,208):GOTO(0,204,208):GOTO(1,204,208):SHOOT(2,0):GOTO(3,204,208):GOTO(4,204,208):GOTO(5,204,208):GOTO(6,204,208):GOTO(7,204,208):GOTO(8,204,208):GOTO(9,204,208):;
+ ballx:-36# bally:28# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+38,400,224,205,False,3,3,-76;
+%%
+GOTO(4,224,205):GOTO(0,224,205):GOTO(1,224,205):SHOOT(2,0):SHOOT(3,0):GOTO(4,224,205):SHOOT(5,0):GOTO(6,224,205):GOTO(7,224,205):SHOOT(8,0):SHOOT(9,0):;
+ ballx:-16# bally:25# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+39,400,242,203,False,9,5,-74;
+%%
+GOTO(9,242,203):GOTO(0,242,203):GOTO(1,242,203):GOTO(2,242,203):GOTO(3,242,203):GOTO(4,242,203):SHOOT(5,0):GOTO(6,242,203):GOTO(7,242,203):SHOOT(8,0):SHOOT(9,0):;
+ ballx:2# bally:23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+40,400,259,200,False,9,7,-54;
+%%
+GOTO(6,259,200):GOTO(0,259,200):GOTO(1,259,200):GOTO(2,259,200):GOTO(3,259,200):GOTO(4,259,200):GOTO(5,259,200):GOTO(6,259,200):GOTO(7,259,200):GOTO(8,259,200):GOTO(9,259,200):;
+ ballx:19# bally:20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+41,400,276,198,False,9,4,-17;
+%%
+GOTO(4,276,198):GOTO(0,276,198):GOTO(1,276,198):GOTO(2,276,198):GOTO(3,276,198):GOTO(4,276,198):GOTO(5,276,198):GOTO(6,276,198):GOTO(7,276,198):GOTO(8,276,198):GOTO(9,276,198):;
+ ballx:36# bally:18# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+42,400,292,196,False,10,0,34;
+%%
+GOTO(6,292,196):GOTO(0,292,196):GOTO(1,292,196):GOTO(2,292,196):GOTO(3,292,196):GOTO(4,292,196):GOTO(5,292,196):GOTO(6,292,196):GOTO(7,292,196):GOTO(8,292,196):GOTO(9,292,196):;
+ ballx:52# bally:16# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+43,400,271,192,False,9,4,66;
+%%
+GOTO(9,271,192):GOTO(0,271,192):GOTO(1,271,192):GOTO(2,271,192):GOTO(3,271,192):GOTO(4,271,192):GOTO(5,271,192):GOTO(6,271,192):GOTO(7,271,192):GOTO(8,271,192):GOTO(9,271,192):;
+ ballx:31# bally:12# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+44,400,252,189,True,9,5,78;
+%%
+GOTO(1,252,189):GOTO(0,252,189):GOTO(1,252,189):SHOOT(2,0):SHOOT(3,0):GOTO(4,252,189):SHOOT(5,0):GOTO(6,252,189):GOTO(7,252,189):SHOOT(8,0):SHOOT(9,0):;
+ ballx:12# bally:9# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+45,400,234,186,True,7,9,72;
+%%
+GOTO(3,234,186):GOTO(0,234,186):GOTO(1,234,186):SHOOT(2,0):SHOOT(3,0):GOTO(4,234,186):SHOOT(5,0):GOTO(6,234,186):SHOOT(7,0):SHOOT(8,0):GOTO(9,234,186):;
+ ballx:-6# bally:6# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+46,400,216,183,True,4,9,47;
+%%
+GOTO(8,216,183):SHOOT(0,0):GOTO(1,216,183):GOTO(2,216,183):GOTO(3,216,183):SHOOT(4,0):GOTO(5,216,183):GOTO(6,216,183):SHOOT(7,0):GOTO(8,216,183):GOTO(9,216,183):;
+ ballx:-24# bally:3# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:4#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+47,400,199,181,True,0,9,6;
+%%
+GOTO(9,199,181):SHOOT(0,0):SHOOT(1,0):GOTO(2,199,181):GOTO(3,199,181):SHOOT(4,0):GOTO(5,199,181):GOTO(6,199,181):GOTO(7,199,181):GOTO(8,199,181):GOTO(9,199,181):;
+ ballx:-41# bally:1# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:0#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+48,400,184,179,True,1,10,-50;
+%%
+GOTO(5,184,179):SHOOT(0,0):SHOOT(1,0):GOTO(2,184,179):GOTO(3,184,179):GOTO(4,184,179):GOTO(5,184,179):GOTO(6,184,179):GOTO(7,184,179):GOTO(8,184,179):GOTO(9,184,179):;
+ ballx:-56# bally:-1# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+49,400,169,177,True,1,10,-122;
+%%
+GOTO(7,169,177):GOTO(0,169,177):GOTO(1,169,177):GOTO(2,169,177):GOTO(3,169,177):GOTO(4,169,177):GOTO(5,169,177):GOTO(6,169,177):GOTO(7,169,177):GOTO(8,169,177):GOTO(9,169,177):;
+ ballx:-71# bally:-3# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+50,400,155,174,False,1,10,-207;
+%%
+GOTO(0,155,174):GOTO(0,155,174):GOTO(1,155,174):GOTO(2,155,174):GOTO(3,155,174):GOTO(4,155,174):GOTO(5,155,174):GOTO(6,155,174):GOTO(7,155,174):GOTO(8,155,174):GOTO(9,155,174):;
+ ballx:-85# bally:-6# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+51,400,142,172,False,1,10,-306;
+%%
+GOTO(8,142,172):GOTO(0,142,172):GOTO(1,142,172):GOTO(2,142,172):GOTO(3,142,172):GOTO(4,142,172):GOTO(5,142,172):GOTO(6,142,172):GOTO(7,142,172):GOTO(8,142,172):GOTO(9,142,172):;
+ ballx:-98# bally:-8# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+52,400,130,170,False,1,10,-416;
+%%
+GOTO(5,130,170):GOTO(0,130,170):GOTO(1,130,170):GOTO(2,130,170):GOTO(3,130,170):GOTO(4,130,170):GOTO(5,130,170):GOTO(6,130,170):GOTO(7,130,170):GOTO(8,130,170):GOTO(9,130,170):;
+ ballx:-110# bally:-10# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+53,400,119,169,False,1,10,-537;
+%%
+GOTO(0,119,169):GOTO(0,119,169):GOTO(1,119,169):GOTO(2,119,169):GOTO(3,119,169):GOTO(4,119,169):GOTO(5,119,169):GOTO(6,119,169):GOTO(7,119,169):GOTO(8,119,169):GOTO(9,119,169):;
+ ballx:-121# bally:-11# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+54,400,110,167,False,1,10,-668;
+%%
+GOTO(1,110,167):GOTO(0,110,167):GOTO(1,110,167):GOTO(2,110,167):GOTO(3,110,167):GOTO(4,110,167):GOTO(5,110,167):GOTO(6,110,167):GOTO(7,110,167):GOTO(8,110,167):GOTO(9,110,167):;
+ ballx:-130# bally:-13# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+55,400,101,165,False,1,10,-808;
+%%
+GOTO(3,101,165):GOTO(0,101,165):GOTO(1,101,165):GOTO(2,101,165):GOTO(3,101,165):GOTO(4,101,165):GOTO(5,101,165):GOTO(6,101,165):GOTO(7,101,165):GOTO(8,101,165):GOTO(9,101,165):;
+ ballx:-139# bally:-15# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+56,400,93,164,False,1,10,-956;
+%%
+GOTO(3,93,164):GOTO(0,93,164):GOTO(1,93,164):GOTO(2,93,164):GOTO(3,93,164):GOTO(4,93,164):GOTO(5,93,164):GOTO(6,93,164):GOTO(7,93,164):GOTO(8,93,164):GOTO(9,93,164):;
+ ballx:-147# bally:-16# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+57,400,86,163,False,1,10,-1111;
+%%
+GOTO(9,86,163):GOTO(0,86,163):GOTO(1,86,163):GOTO(2,86,163):GOTO(3,86,163):GOTO(4,86,163):GOTO(5,86,163):GOTO(6,86,163):GOTO(7,86,163):GOTO(8,86,163):GOTO(9,86,163):;
+ ballx:-154# bally:-17# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+58,400,80,162,False,1,10,-1271;
+%%
+GOTO(9,80,162):GOTO(0,80,162):GOTO(1,80,162):GOTO(2,80,162):GOTO(3,80,162):GOTO(4,80,162):GOTO(5,80,162):GOTO(6,80,162):GOTO(7,80,162):GOTO(8,80,162):GOTO(9,80,162):;
+ ballx:-160# bally:-18# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+59,400,75,161,False,1,10,-1437;
+%%
+GOTO(1,75,161):GOTO(0,75,161):GOTO(1,75,161):GOTO(2,75,161):GOTO(3,75,161):GOTO(4,75,161):GOTO(5,75,161):GOTO(6,75,161):GOTO(7,75,161):GOTO(8,75,161):GOTO(9,75,161):;
+ ballx:-165# bally:-19# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+60,400,71,161,False,1,10,-1606;
+%%
+GOTO(8,71,161):GOTO(0,71,161):GOTO(1,71,161):GOTO(2,71,161):GOTO(3,71,161):GOTO(4,71,161):GOTO(5,71,161):GOTO(6,71,161):GOTO(7,71,161):GOTO(8,71,161):GOTO(9,71,161):;
+ ballx:-169# bally:-19# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+61,400,68,160,False,3,10,-1779;
+%%
+GOTO(10,68,160):GOTO(0,68,160):GOTO(1,68,160):GOTO(2,68,160):GOTO(3,68,160):GOTO(4,68,160):GOTO(5,68,160):GOTO(6,68,160):GOTO(7,68,160):GOTO(8,68,160):GOTO(9,68,160):;
+ ballx:-172# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+62,400,66,160,False,3,10,-1953;
+%%
+GOTO(3,66,160):GOTO(0,66,160):GOTO(1,66,160):GOTO(2,66,160):GOTO(3,66,160):GOTO(4,66,160):GOTO(5,66,160):GOTO(6,66,160):GOTO(7,66,160):GOTO(8,66,160):GOTO(9,66,160):;
+ ballx:-174# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+63,400,65,160,False,3,10,-2128;
+%%
+GOTO(8,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+64,400,65,160,False,3,10,-2304;
+%%
+GOTO(1,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+65,400,65,160,False,3,10,-2479;
+%%
+GOTO(8,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+66,400,65,160,False,3,10,-2655;
+%%
+GOTO(9,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+67,400,65,160,True,3,10,-2830;
+%%
+GOTO(4,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+68,400,65,160,True,3,8,-3005;
+%%
+GOTO(7,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+69,400,65,160,True,3,8,-3181;
+%%
+GOTO(8,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):GOTO(3,65,160):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+70,400,65,160,True,3,8,-3356;
+%%
+GOTO(5,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):SHOOT(3,0):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):GOTO(8,65,160):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+71,400,65,160,True,3,8,-3532;
+%%
+GOTO(6,65,160):GOTO(0,65,160):GOTO(1,65,160):GOTO(2,65,160):SHOOT(3,0):GOTO(4,65,160):GOTO(5,65,160):GOTO(6,65,160):GOTO(7,65,160):SHOOT(8,0):GOTO(9,65,160):;
+ ballx:-175# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+72,400,77,163,False,8,8,-3696;
+%%
+GOTO(6,77,163):GOTO(0,77,163):GOTO(1,77,163):SHOOT(2,0):SHOOT(3,0):GOTO(4,77,163):GOTO(5,77,163):GOTO(6,77,163):GOTO(7,77,163):SHOOT(8,0):GOTO(9,77,163):;
+ ballx:-163# bally:-17# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+73,400,88,166,True,2,2,-3848;
+%%
+GOTO(10,88,166):SHOOT(0,0):SHOOT(1,0):SHOOT(2,0):SHOOT(3,0):GOTO(4,88,166):GOTO(5,88,166):SHOOT(6,0):GOTO(7,88,166):SHOOT(8,0):GOTO(9,88,166):;
+ ballx:-152# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+74,400,109,166,True,0,9,-3979;
+%%
+GOTO(3,109,166):SHOOT(0,0):SHOOT(1,0):SHOOT(2,0):GOTO(3,109,166):SHOOT(4,0):SHOOT(5,0):SHOOT(6,0):SHOOT(7,0):GOTO(8,109,166):SHOOT(9,0):;
+ ballx:-131# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:0#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+75,400,129,166,True,7,7,-4090;
+%%
+GOTO(0,129,166):GOTO(0,129,166):GOTO(1,129,166):GOTO(2,129,166):GOTO(3,129,166):SHOOT(4,0):SHOOT(5,0):GOTO(6,129,166):SHOOT(7,0):GOTO(8,129,166):SHOOT(9,0):;
+ ballx:-111# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+76,400,148,166,False,7,7,-4182;
+%%
+GOTO(4,148,166):GOTO(0,148,166):GOTO(1,148,166):GOTO(2,148,166):GOTO(3,148,166):GOTO(4,148,166):GOTO(5,148,166):GOTO(6,148,166):GOTO(7,148,166):GOTO(8,148,166):GOTO(9,148,166):;
+ ballx:-92# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+77,400,166,166,False,7,6,-4256;
+%%
+GOTO(4,166,166):GOTO(0,166,166):GOTO(1,166,166):GOTO(2,166,166):GOTO(3,166,166):GOTO(4,166,166):GOTO(5,166,166):GOTO(6,166,166):GOTO(7,166,166):GOTO(8,166,166):GOTO(9,166,166):;
+ ballx:-74# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+78,400,183,166,False,7,6,-4314;
+%%
+GOTO(2,183,166):GOTO(0,183,166):GOTO(1,183,166):GOTO(2,183,166):GOTO(3,183,166):GOTO(4,183,166):GOTO(5,183,166):GOTO(6,183,166):GOTO(7,183,166):GOTO(8,183,166):GOTO(9,183,166):;
+ ballx:-57# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+79,400,199,166,False,7,4,-4355;
+%%
+GOTO(5,199,166):GOTO(0,199,166):GOTO(1,199,166):GOTO(2,199,166):GOTO(3,199,166):GOTO(4,199,166):GOTO(5,199,166):GOTO(6,199,166):GOTO(7,199,166):GOTO(8,199,166):GOTO(9,199,166):;
+ ballx:-41# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+80,400,214,166,False,7,4,-4381;
+%%
+GOTO(1,214,166):GOTO(0,214,166):GOTO(1,214,166):GOTO(2,214,166):GOTO(3,214,166):GOTO(4,214,166):GOTO(5,214,166):GOTO(6,214,166):GOTO(7,214,166):GOTO(8,214,166):GOTO(9,214,166):;
+ ballx:-26# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+81,400,228,166,False,7,4,-4393;
+%%
+GOTO(4,228,166):GOTO(0,228,166):GOTO(1,228,166):GOTO(2,228,166):GOTO(3,228,166):GOTO(4,228,166):GOTO(5,228,166):GOTO(6,228,166):GOTO(7,228,166):GOTO(8,228,166):GOTO(9,228,166):;
+ ballx:-12# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+82,400,240,166,False,7,4,-4392;
+%%
+GOTO(10,240,166):GOTO(0,240,166):GOTO(1,240,166):GOTO(2,240,166):GOTO(3,240,166):GOTO(4,240,166):GOTO(5,240,166):GOTO(6,240,166):GOTO(7,240,166):GOTO(8,240,166):GOTO(9,240,166):;
+ ballx:0# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+83,400,252,166,False,7,4,-4379;
+%%
+GOTO(2,252,166):GOTO(0,252,166):GOTO(1,252,166):GOTO(2,252,166):GOTO(3,252,166):GOTO(4,252,166):GOTO(5,252,166):GOTO(6,252,166):GOTO(7,252,166):GOTO(8,252,166):GOTO(9,252,166):;
+ ballx:12# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+84,400,263,166,False,7,4,-4355;
+%%
+GOTO(0,263,166):GOTO(0,263,166):GOTO(1,263,166):GOTO(2,263,166):GOTO(3,263,166):GOTO(4,263,166):GOTO(5,263,166):GOTO(6,263,166):GOTO(7,263,166):GOTO(8,263,166):GOTO(9,263,166):;
+ ballx:23# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+85,400,273,166,False,10,4,-4322;
+%%
+GOTO(7,273,166):GOTO(0,273,166):GOTO(1,273,166):GOTO(2,273,166):GOTO(3,273,166):GOTO(4,273,166):GOTO(5,273,166):GOTO(6,273,166):GOTO(7,273,166):GOTO(8,273,166):GOTO(9,273,166):;
+ ballx:33# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+86,400,282,166,False,10,4,-4279;
+%%
+GOTO(3,282,166):GOTO(0,282,166):GOTO(1,282,166):GOTO(2,282,166):GOTO(3,282,166):GOTO(4,282,166):GOTO(5,282,166):GOTO(6,282,166):GOTO(7,282,166):GOTO(8,282,166):GOTO(9,282,166):;
+ ballx:42# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+87,400,290,166,False,10,4,-4228;
+%%
+GOTO(0,290,166):GOTO(0,290,166):GOTO(1,290,166):GOTO(2,290,166):GOTO(3,290,166):GOTO(4,290,166):GOTO(5,290,166):GOTO(6,290,166):GOTO(7,290,166):GOTO(8,290,166):GOTO(9,290,166):;
+ ballx:50# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+88,400,297,166,True,10,4,-4170;
+%%
+GOTO(7,297,166):GOTO(0,297,166):GOTO(1,297,166):GOTO(2,297,166):GOTO(3,297,166):GOTO(4,297,166):GOTO(5,297,166):GOTO(6,297,166):GOTO(7,297,166):GOTO(8,297,166):GOTO(9,297,166):;
+ ballx:57# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+89,400,303,166,True,10,4,-4106;
+%%
+GOTO(4,303,166):GOTO(0,303,166):GOTO(1,303,166):GOTO(2,303,166):GOTO(3,303,166):GOTO(4,303,166):GOTO(5,303,166):GOTO(6,303,166):GOTO(7,303,166):GOTO(8,303,166):GOTO(9,303,166):;
+ ballx:63# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+90,400,308,166,True,10,4,-4037;
+%%
+GOTO(0,308,166):GOTO(0,308,166):GOTO(1,308,166):GOTO(2,308,166):GOTO(3,308,166):GOTO(4,308,166):GOTO(5,308,166):GOTO(6,308,166):GOTO(7,308,166):GOTO(8,308,166):GOTO(9,308,166):;
+ ballx:68# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+91,400,312,166,True,10,4,-3965;
+%%
+GOTO(3,312,166):GOTO(0,312,166):GOTO(1,312,166):GOTO(2,312,166):GOTO(3,312,166):GOTO(4,312,166):GOTO(5,312,166):GOTO(6,312,166):GOTO(7,312,166):GOTO(8,312,166):GOTO(9,312,166):;
+ ballx:72# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+92,400,315,166,True,10,4,-3889;
+%%
+GOTO(4,315,166):GOTO(0,315,166):GOTO(1,315,166):GOTO(2,315,166):GOTO(3,315,166):GOTO(4,315,166):GOTO(5,315,166):GOTO(6,315,166):GOTO(7,315,166):GOTO(8,315,166):GOTO(9,315,166):;
+ ballx:75# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+93,400,317,166,True,10,4,-3811;
+%%
+GOTO(4,317,166):GOTO(0,317,166):GOTO(1,317,166):GOTO(2,317,166):GOTO(3,317,166):GOTO(4,317,166):GOTO(5,317,166):GOTO(6,317,166):GOTO(7,317,166):GOTO(8,317,166):GOTO(9,317,166):;
+ ballx:77# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+94,400,318,166,True,10,4,-3732;
+%%
+GOTO(10,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+95,400,318,166,True,10,4,-3653;
+%%
+GOTO(7,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+96,400,318,166,True,10,4,-3574;
+%%
+GOTO(8,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+97,400,318,166,True,10,4,-3495;
+%%
+GOTO(2,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+98,400,318,166,True,10,4,-3417;
+%%
+GOTO(5,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+99,400,318,166,True,10,4,-3338;
+%%
+GOTO(1,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+100,400,318,166,False,10,3,-3259;
+%%
+GOTO(8,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+101,400,318,166,False,3,3,-3180;
+%%
+GOTO(1,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+102,400,318,166,False,3,3,-3101;
+%%
+GOTO(7,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+103,400,318,166,False,3,3,-3022;
+%%
+GOTO(7,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+104,400,318,166,False,3,3,-2943;
+%%
+GOTO(4,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+105,400,318,166,False,3,3,-2865;
+%%
+GOTO(2,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+106,400,318,166,False,3,3,-2786;
+%%
+GOTO(2,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):GOTO(3,318,166):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):GOTO(8,318,166):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+107,400,318,166,False,3,3,-2707;
+%%
+GOTO(1,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):SHOOT(3,0):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):SHOOT(8,0):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+108,400,318,166,False,3,3,-2628;
+%%
+GOTO(2,318,166):GOTO(0,318,166):GOTO(1,318,166):GOTO(2,318,166):SHOOT(3,0):GOTO(4,318,166):GOTO(5,318,166):GOTO(6,318,166):GOTO(7,318,166):SHOOT(8,0):GOTO(9,318,166):;
+ ballx:78# bally:-14# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+109,400,307,164,False,3,8,-2561;
+%%
+GOTO(6,307,164):GOTO(0,307,164):GOTO(1,307,164):SHOOT(2,0):SHOOT(3,0):GOTO(4,307,164):GOTO(5,307,164):GOTO(6,307,164):GOTO(7,307,164):SHOOT(8,0):GOTO(9,307,164):;
+ ballx:67# bally:-16# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+110,400,295,163,False,2,2,-2506;
+%%
+GOTO(9,295,163):GOTO(0,295,163):GOTO(1,295,163):SHOOT(2,0):SHOOT(3,0):GOTO(4,295,163):SHOOT(5,0):GOTO(6,295,163):GOTO(7,295,163):SHOOT(8,0):SHOOT(9,0):;
+ ballx:55# bally:-17# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+111,400,274,160,False,9,9,-2472;
+%%
+GOTO(3,274,160):GOTO(0,274,160):GOTO(1,274,160):GOTO(2,274,160):GOTO(3,274,160):GOTO(4,274,160):SHOOT(5,0):GOTO(6,274,160):SHOOT(7,0):GOTO(8,274,160):SHOOT(9,0):;
+ ballx:34# bally:-20# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+112,400,254,157,True,4,7,-2457;
+%%
+GOTO(1,254,157):SHOOT(0,0):SHOOT(1,0):GOTO(2,254,157):GOTO(3,254,157):SHOOT(4,0):GOTO(5,254,157):SHOOT(6,0):SHOOT(7,0):GOTO(8,254,157):GOTO(9,254,157):;
+ ballx:14# bally:-23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:4#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+113,400,236,154,True,1,7,-2461;
+%%
+GOTO(4,236,154):SHOOT(0,0):SHOOT(1,0):GOTO(2,236,154):GOTO(3,236,154):SHOOT(4,0):GOTO(5,236,154):SHOOT(6,0):GOTO(7,236,154):GOTO(8,236,154):GOTO(9,236,154):;
+ ballx:-4# bally:-26# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+114,400,219,151,True,1,7,-2483;
+%%
+GOTO(3,219,151):GOTO(0,219,151):GOTO(1,219,151):GOTO(2,219,151):GOTO(3,219,151):GOTO(4,219,151):GOTO(5,219,151):GOTO(6,219,151):GOTO(7,219,151):GOTO(8,219,151):GOTO(9,219,151):;
+ ballx:-21# bally:-29# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+115,400,202,148,True,1,7,-2522;
+%%
+GOTO(1,202,148):GOTO(0,202,148):GOTO(1,202,148):GOTO(2,202,148):GOTO(3,202,148):GOTO(4,202,148):GOTO(5,202,148):GOTO(6,202,148):GOTO(7,202,148):GOTO(8,202,148):GOTO(9,202,148):;
+ ballx:-38# bally:-32# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+116,400,186,146,True,1,7,-2576;
+%%
+GOTO(0,186,146):GOTO(0,186,146):GOTO(1,186,146):GOTO(2,186,146):GOTO(3,186,146):GOTO(4,186,146):GOTO(5,186,146):GOTO(6,186,146):GOTO(7,186,146):GOTO(8,186,146):GOTO(9,186,146):;
+ ballx:-54# bally:-34# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+117,400,171,143,False,1,10,-2646;
+%%
+GOTO(5,171,143):GOTO(0,171,143):GOTO(1,171,143):GOTO(2,171,143):GOTO(3,171,143):GOTO(4,171,143):GOTO(5,171,143):GOTO(6,171,143):GOTO(7,171,143):GOTO(8,171,143):GOTO(9,171,143):;
+ ballx:-69# bally:-37# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+118,400,157,141,False,1,10,-2729;
+%%
+GOTO(4,157,141):GOTO(0,157,141):GOTO(1,157,141):GOTO(2,157,141):GOTO(3,157,141):GOTO(4,157,141):GOTO(5,157,141):GOTO(6,157,141):GOTO(7,157,141):GOTO(8,157,141):GOTO(9,157,141):;
+ ballx:-83# bally:-39# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+119,400,144,139,False,1,10,-2825;
+%%
+GOTO(2,144,139):GOTO(0,144,139):GOTO(1,144,139):GOTO(2,144,139):GOTO(3,144,139):GOTO(4,144,139):GOTO(5,144,139):GOTO(6,144,139):GOTO(7,144,139):GOTO(8,144,139):GOTO(9,144,139):;
+ ballx:-96# bally:-41# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+120,400,133,137,False,1,10,-2933;
+%%
+GOTO(9,133,137):GOTO(0,133,137):GOTO(1,133,137):GOTO(2,133,137):GOTO(3,133,137):GOTO(4,133,137):GOTO(5,133,137):GOTO(6,133,137):GOTO(7,133,137):GOTO(8,133,137):GOTO(9,133,137):;
+ ballx:-107# bally:-43# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+121,400,122,136,False,1,10,-3052;
+%%
+GOTO(0,122,136):GOTO(0,122,136):GOTO(1,122,136):GOTO(2,122,136):GOTO(3,122,136):GOTO(4,122,136):GOTO(5,122,136):GOTO(6,122,136):GOTO(7,122,136):GOTO(8,122,136):GOTO(9,122,136):;
+ ballx:-118# bally:-44# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+122,400,112,134,False,1,10,-3180;
+%%
+GOTO(5,112,134):GOTO(0,112,134):GOTO(1,112,134):GOTO(2,112,134):GOTO(3,112,134):GOTO(4,112,134):GOTO(5,112,134):GOTO(6,112,134):GOTO(7,112,134):GOTO(8,112,134):GOTO(9,112,134):;
+ ballx:-128# bally:-46# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+123,400,103,133,False,1,10,-3318;
+%%
+GOTO(6,103,133):GOTO(0,103,133):GOTO(1,103,133):GOTO(2,103,133):GOTO(3,103,133):GOTO(4,103,133):GOTO(5,103,133):GOTO(6,103,133):GOTO(7,103,133):GOTO(8,103,133):GOTO(9,103,133):;
+ ballx:-137# bally:-47# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+124,400,95,131,False,1,10,-3463;
+%%
+GOTO(5,95,131):GOTO(0,95,131):GOTO(1,95,131):GOTO(2,95,131):GOTO(3,95,131):GOTO(4,95,131):GOTO(5,95,131):GOTO(6,95,131):GOTO(7,95,131):GOTO(8,95,131):GOTO(9,95,131):;
+ ballx:-145# bally:-49# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+125,400,88,130,False,1,10,-3616;
+%%
+GOTO(3,88,130):GOTO(0,88,130):GOTO(1,88,130):GOTO(2,88,130):GOTO(3,88,130):GOTO(4,88,130):GOTO(5,88,130):GOTO(6,88,130):GOTO(7,88,130):GOTO(8,88,130):GOTO(9,88,130):;
+ ballx:-152# bally:-50# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+126,400,82,129,False,1,10,-3774;
+%%
+GOTO(10,82,129):GOTO(0,82,129):GOTO(1,82,129):GOTO(2,82,129):GOTO(3,82,129):GOTO(4,82,129):GOTO(5,82,129):GOTO(6,82,129):GOTO(7,82,129):GOTO(8,82,129):GOTO(9,82,129):;
+ ballx:-158# bally:-51# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+127,400,77,129,False,1,10,-3937;
+%%
+GOTO(7,77,129):GOTO(0,77,129):GOTO(1,77,129):GOTO(2,77,129):GOTO(3,77,129):GOTO(4,77,129):GOTO(5,77,129):GOTO(6,77,129):GOTO(7,77,129):GOTO(8,77,129):GOTO(9,77,129):;
+ ballx:-163# bally:-51# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+128,400,73,128,False,1,10,-4104;
+%%
+GOTO(6,73,128):GOTO(0,73,128):GOTO(1,73,128):GOTO(2,73,128):GOTO(3,73,128):GOTO(4,73,128):GOTO(5,73,128):GOTO(6,73,128):GOTO(7,73,128):GOTO(8,73,128):GOTO(9,73,128):;
+ ballx:-167# bally:-52# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+129,400,70,128,False,1,10,-4275;
+%%
+GOTO(8,70,128):GOTO(0,70,128):GOTO(1,70,128):GOTO(2,70,128):GOTO(3,70,128):GOTO(4,70,128):GOTO(5,70,128):GOTO(6,70,128):GOTO(7,70,128):GOTO(8,70,128):GOTO(9,70,128):;
+ ballx:-170# bally:-52# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+130,400,68,127,False,1,10,-4447;
+%%
+GOTO(3,68,127):GOTO(0,68,127):GOTO(1,68,127):GOTO(2,68,127):GOTO(3,68,127):GOTO(4,68,127):GOTO(5,68,127):GOTO(6,68,127):GOTO(7,68,127):GOTO(8,68,127):GOTO(9,68,127):;
+ ballx:-172# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+131,400,67,127,False,3,10,-4620;
+%%
+GOTO(6,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+132,400,67,127,False,3,10,-4793;
+%%
+GOTO(2,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+133,400,67,127,False,3,10,-4966;
+%%
+GOTO(5,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+134,400,67,127,False,3,10,-5139;
+%%
+GOTO(10,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+135,400,67,127,False,3,10,-5312;
+%%
+GOTO(2,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+136,400,67,127,False,3,10,-5485;
+%%
+GOTO(10,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+137,400,67,127,False,3,10,-5658;
+%%
+GOTO(3,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+138,400,67,127,False,3,10,-5832;
+%%
+GOTO(0,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+139,400,67,127,False,3,10,-6005;
+%%
+GOTO(9,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+140,400,67,127,False,3,10,-6178;
+%%
+GOTO(3,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+141,400,67,127,False,3,3,-6351;
+%%
+GOTO(4,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+142,400,67,127,False,3,3,-6524;
+%%
+GOTO(3,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+143,400,67,127,False,3,3,-6697;
+%%
+GOTO(3,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):GOTO(3,67,127):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):GOTO(8,67,127):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+144,400,67,127,False,3,3,-6870;
+%%
+GOTO(8,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):SHOOT(3,0):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):SHOOT(8,0):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+145,400,67,127,False,3,3,-7043;
+%%
+GOTO(1,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):SHOOT(3,0):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):SHOOT(8,0):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+146,400,67,127,False,3,3,-7216;
+%%
+GOTO(5,67,127):GOTO(0,67,127):GOTO(1,67,127):GOTO(2,67,127):SHOOT(3,0):GOTO(4,67,127):GOTO(5,67,127):GOTO(6,67,127):GOTO(7,67,127):SHOOT(8,0):GOTO(9,67,127):;
+ ballx:-173# bally:-53# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+147,400,58,134,False,3,3,-7399;
+%%
+GOTO(2,58,134):GOTO(0,58,134):GOTO(1,58,134):GOTO(2,58,134):SHOOT(3,0):GOTO(4,58,134):GOTO(5,58,134):GOTO(6,58,134):GOTO(7,58,134):SHOOT(8,0):GOTO(9,58,134):;
+ ballx:-182# bally:-46# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+148,400,46,137,False,3,3,-7593;
+%%
+GOTO(8,46,137):GOTO(0,46,137):GOTO(1,46,137):GOTO(2,46,137):SHOOT(3,0):GOTO(4,46,137):GOTO(5,46,137):GOTO(6,46,137):GOTO(7,46,137):SHOOT(8,0):GOTO(9,46,137):;
+ ballx:-194# bally:-43# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+149,400,35,139,False,8,3,-7799;
+%%
+GOTO(2,35,139):GOTO(0,35,139):GOTO(1,35,139):GOTO(2,35,139):GOTO(3,35,139):GOTO(4,35,139):GOTO(5,35,139):GOTO(6,35,139):GOTO(7,35,139):GOTO(8,35,139):GOTO(9,35,139):;
+ ballx:-205# bally:-41# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+150,400,25,140,True,8,3,-8014;
+%%
+GOTO(2,25,140):GOTO(0,25,140):GOTO(1,25,140):GOTO(2,25,140):GOTO(3,25,140):GOTO(4,25,140):GOTO(5,25,140):GOTO(6,25,140):GOTO(7,25,140):GOTO(8,25,140):GOTO(9,25,140):;
+ ballx:-215# bally:-40# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+151,400,17,142,True,8,3,-8237;
+%%
+GOTO(4,17,142):GOTO(0,17,142):GOTO(1,17,142):GOTO(2,17,142):GOTO(3,17,142):GOTO(4,17,142):GOTO(5,17,142):GOTO(6,17,142):GOTO(7,17,142):GOTO(8,17,142):GOTO(9,17,142):;
+ ballx:-223# bally:-38# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+152,400,9,144,True,8,3,-8469;
+%%
+GOTO(9,9,144):GOTO(0,9,144):GOTO(1,9,144):GOTO(2,9,144):GOTO(3,9,144):GOTO(4,9,144):GOTO(5,9,144):GOTO(6,9,144):GOTO(7,9,144):GOTO(8,9,144):GOTO(9,9,144):;
+ ballx:-231# bally:-36# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+153,400,2,145,True,8,3,-8708;
+%%
+GOTO(0,2,145):GOTO(0,2,145):GOTO(1,2,145):GOTO(2,2,145):GOTO(3,2,145):GOTO(4,2,145):GOTO(5,2,145):GOTO(6,2,145):GOTO(7,2,145):GOTO(8,2,145):GOTO(9,2,145):;
+ ballx:-238# bally:-35# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+154,400,5,146,True,8,3,-8943;
+%%
+GOTO(0,5,146):GOTO(0,5,146):GOTO(1,5,146):GOTO(2,5,146):GOTO(3,5,146):GOTO(4,5,146):GOTO(5,5,146):GOTO(6,5,146):GOTO(7,5,146):SHOOT(8,0):GOTO(9,5,146):;
+ ballx:-235# bally:-34# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+155,400,10,147,True,8,3,-9174;
+%%
+GOTO(0,10,147):GOTO(0,10,147):GOTO(1,10,147):GOTO(2,10,147):SHOOT(3,0):GOTO(4,10,147):GOTO(5,10,147):GOTO(6,10,147):GOTO(7,10,147):SHOOT(8,0):GOTO(9,10,147):;
+ ballx:-230# bally:-33# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+156,400,22,150,False,3,3,-9393;
+%%
+GOTO(0,22,150):GOTO(0,22,150):GOTO(1,22,150):SHOOT(2,0):SHOOT(3,0):GOTO(4,22,150):GOTO(5,22,150):GOTO(6,22,150):GOTO(7,22,150):SHOOT(8,0):GOTO(9,22,150):;
+ ballx:-218# bally:-30# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+157,400,11,156,False,8,3,-9622;
+%%
+GOTO(4,11,156):GOTO(0,11,156):GOTO(1,11,156):SHOOT(2,0):SHOOT(3,0):GOTO(4,11,156):GOTO(5,11,156):GOTO(6,11,156):GOTO(7,11,156):SHOOT(8,0):GOTO(9,11,156):;
+ ballx:-229# bally:-24# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+158,400,1,162,False,3,3,-9862;
+%%
+GOL (0,1);
+%%
+SHOOT(7,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+160,400,240,180,True,10,10,-9862;
+%%
+SHOOT(0,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+161,400,240,180,True,10,10,-9862;
+%%
+SHOOT(8,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+162,400,240,180,True,10,10,-9862;
+%%
+SHOOT(0,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+163,400,240,180,True,10,10,-9862;
+%%
+SHOOT(10,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+164,400,240,180,True,10,10,-9862;
+%%
+SHOOT(7,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+165,400,240,180,True,10,10,-9862;
+%%
+SHOOT(7,0):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 4 ) : Number of player must be integer between 1 and 11 ..',);
+166,400,240,180,True,10,10,-9862;
+%%
+GOTO(8,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+167,400,240,180,True,10,10,-9862;
+%%
+GOTO(0,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+168,400,240,180,True,10,10,-9862;
+%%
+GOTO(8,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+169,400,240,180,False,10,10,-9862;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+170,400,240,180,False,10,10,-9862;
+%%
+GOTO(3,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+171,400,240,180,False,10,10,-9862;
+%%
+GOTO(10,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+172,400,240,180,False,10,10,-9862;
+%%
+GOTO(2,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+173,400,240,180,False,9,10,-9862;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+174,400,240,180,False,9,10,-9862;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+175,400,240,180,False,8,10,-9862;
+%%
+GOTO(3,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+176,400,240,180,False,8,8,-9862;
+%%
+GOTO(2,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+177,400,240,180,False,8,8,-9862;
+%%
+GOTO(0,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):SHOOT(8,0):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+178,400,240,180,False,8,8,-9862;
+%%
+GOTO(1,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):SHOOT(8,0):SHOOT(9,0):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+179,400,229,181,True,8,8,-9874;
+%%
+GOTO(0,229,181):GOTO(0,229,181):GOTO(1,229,181):GOTO(2,229,181):GOTO(3,229,181):GOTO(4,229,181):GOTO(5,229,181):GOTO(6,229,181):GOTO(7,229,181):SHOOT(8,0):SHOOT(9,0):;
+ ballx:-11# bally:1# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+180,400,245,177,False,8,8,-9868;
+%%
+GOTO(2,245,177):GOTO(0,245,177):GOTO(1,245,177):GOTO(2,245,177):GOTO(3,245,177):GOTO(4,245,177):GOTO(5,245,177):GOTO(6,245,177):GOTO(7,245,177):SHOOT(8,0):SHOOT(9,0):;
+ ballx:5# bally:-3# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+181,400,261,172,False,8,8,-9847;
+%%
+GOTO(10,261,172):GOTO(0,261,172):GOTO(1,261,172):GOTO(2,261,172):GOTO(3,261,172):GOTO(4,261,172):GOTO(5,261,172):GOTO(6,261,172):GOTO(7,261,172):SHOOT(8,0):GOTO(9,261,172):;
+ ballx:21# bally:-8# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+182,400,276,167,False,9,3,-9810;
+%%
+GOTO(3,276,167):GOTO(0,276,167):GOTO(1,276,167):GOTO(2,276,167):GOTO(3,276,167):GOTO(4,276,167):GOTO(5,276,167):GOTO(6,276,167):GOTO(7,276,167):GOTO(8,276,167):GOTO(9,276,167):;
+ ballx:36# bally:-13# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+183,400,291,163,False,10,3,-9759;
+%%
+GOTO(8,291,163):GOTO(0,291,163):GOTO(1,291,163):GOTO(2,291,163):GOTO(3,291,163):GOTO(4,291,163):GOTO(5,291,163):GOTO(6,291,163):GOTO(7,291,163):GOTO(8,291,163):GOTO(9,291,163):;
+ ballx:51# bally:-17# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+184,400,304,159,False,10,3,-9694;
+%%
+GOTO(1,304,159):GOTO(0,304,159):GOTO(1,304,159):GOTO(2,304,159):GOTO(3,304,159):GOTO(4,304,159):GOTO(5,304,159):GOTO(6,304,159):GOTO(7,304,159):GOTO(8,304,159):GOTO(9,304,159):;
+ ballx:64# bally:-21# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+185,400,317,155,False,10,2,-9617;
+%%
+GOTO(7,317,155):GOTO(0,317,155):GOTO(1,317,155):GOTO(2,317,155):GOTO(3,317,155):GOTO(4,317,155):GOTO(5,317,155):GOTO(6,317,155):GOTO(7,317,155):GOTO(8,317,155):GOTO(9,317,155):;
+ ballx:77# bally:-25# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+186,400,328,152,False,10,4,-9528;
+%%
+GOTO(10,328,152):GOTO(0,328,152):GOTO(1,328,152):GOTO(2,328,152):GOTO(3,328,152):GOTO(4,328,152):GOTO(5,328,152):GOTO(6,328,152):GOTO(7,328,152):GOTO(8,328,152):GOTO(9,328,152):;
+ ballx:88# bally:-28# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+187,400,339,149,False,10,4,-9429;
+%%
+GOTO(6,339,149):GOTO(0,339,149):GOTO(1,339,149):GOTO(2,339,149):GOTO(3,339,149):GOTO(4,339,149):GOTO(5,339,149):GOTO(6,339,149):GOTO(7,339,149):GOTO(8,339,149):GOTO(9,339,149):;
+ ballx:99# bally:-31# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+188,400,318,150,False,8,4,-9351;
+%%
+GOTO(5,318,150):GOTO(0,318,150):GOTO(1,318,150):GOTO(2,318,150):GOTO(3,318,150):GOTO(4,318,150):GOTO(5,318,150):GOTO(6,318,150):GOTO(7,318,150):GOTO(8,318,150):GOTO(9,318,150):;
+ ballx:78# bally:-30# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+189,400,298,152,False,8,3,-9293;
+%%
+GOTO(4,298,152):GOTO(0,298,152):GOTO(1,298,152):GOTO(2,298,152):GOTO(3,298,152):GOTO(4,298,152):GOTO(5,298,152):GOTO(6,298,152):GOTO(7,298,152):SHOOT(8,0):GOTO(9,298,152):;
+ ballx:58# bally:-28# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+190,400,279,153,True,9,8,-9253;
+%%
+GOTO(2,279,153):GOTO(0,279,153):GOTO(1,279,153):GOTO(2,279,153):GOTO(3,279,153):GOTO(4,279,153):GOTO(5,279,153):GOTO(6,279,153):GOTO(7,279,153):SHOOT(8,0):SHOOT(9,0):;
+ ballx:39# bally:-27# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+191,400,261,155,True,5,9,-9232;
+%%
+GOTO(9,261,155):GOTO(0,261,155):GOTO(1,261,155):GOTO(2,261,155):SHOOT(3,0):GOTO(4,261,155):SHOOT(5,0):GOTO(6,261,155):GOTO(7,261,155):GOTO(8,261,155):SHOOT(9,0):;
+ ballx:21# bally:-25# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:5#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+192,400,244,156,True,5,8,-9228;
+%%
+GOTO(3,244,156):GOTO(0,244,156):GOTO(1,244,156):SHOOT(2,0):SHOOT(3,0):GOTO(4,244,156):SHOOT(5,0):GOTO(6,244,156):GOTO(7,244,156):GOTO(8,244,156):GOTO(9,244,156):;
+ ballx:4# bally:-24# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:5#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+193,400,229,157,True,2,10,-9239;
+%%
+GOTO(10,229,157):GOTO(0,229,157):GOTO(1,229,157):SHOOT(2,0):SHOOT(3,0):GOTO(4,229,157):GOTO(5,229,157):GOTO(6,229,157):GOTO(7,229,157):GOTO(8,229,157):GOTO(9,229,157):;
+ ballx:-11# bally:-23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+194,400,243,161,True,3,8,-9236;
+%%
+GOTO(7,243,161):GOTO(0,243,161):GOTO(1,243,161):SHOOT(2,0):SHOOT(3,0):GOTO(4,243,161):SHOOT(5,0):GOTO(6,243,161):GOTO(7,243,161):GOTO(8,243,161):GOTO(9,243,161):;
+ ballx:3# bally:-19# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+195,400,260,159,False,9,8,-9215;
+%%
+GOTO(4,260,159):GOTO(0,260,159):GOTO(1,260,159):SHOOT(2,0):SHOOT(3,0):GOTO(4,260,159):SHOOT(5,0):GOTO(6,260,159):GOTO(7,260,159):SHOOT(8,0):SHOOT(9,0):;
+ ballx:20# bally:-21# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+196,400,277,157,False,8,5,-9177;
+%%
+GOTO(4,277,157):GOTO(0,277,157):GOTO(1,277,157):GOTO(2,277,157):GOTO(3,277,157):GOTO(4,277,157):GOTO(5,277,157):GOTO(6,277,157):GOTO(7,277,157):SHOOT(8,0):SHOOT(9,0):;
+ ballx:37# bally:-23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+197,400,293,155,False,8,4,-9124;
+%%
+GOTO(4,293,155):GOTO(0,293,155):GOTO(1,293,155):GOTO(2,293,155):GOTO(3,293,155):GOTO(4,293,155):GOTO(5,293,155):GOTO(6,293,155):GOTO(7,293,155):GOTO(8,293,155):GOTO(9,293,155):;
+ ballx:53# bally:-25# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+198,400,272,153,False,8,3,-9091;
+%%
+GOTO(1,272,153):GOTO(0,272,153):GOTO(1,272,153):SHOOT(2,0):SHOOT(3,0):GOTO(4,272,153):SHOOT(5,0):GOTO(6,272,153):GOTO(7,272,153):SHOOT(8,0):SHOOT(9,0):;
+ ballx:32# bally:-27# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+199,400,252,151,True,5,2,-9078;
+%%
+GOTO(3,252,151):GOTO(0,252,151):GOTO(1,252,151):SHOOT(2,0):SHOOT(3,0):GOTO(4,252,151):SHOOT(5,0):GOTO(6,252,151):SHOOT(7,0):SHOOT(8,0):SHOOT(9,0):;
+ ballx:12# bally:-29# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:5#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+200,400,235,148,True,7,2,-9084;
+%%
+GOTO(3,235,148):GOTO(0,235,148):GOTO(1,235,148):GOTO(2,235,148):SHOOT(3,0):GOTO(4,235,148):GOTO(5,235,148):GOTO(6,235,148):SHOOT(7,0):GOTO(8,235,148):GOTO(9,235,148):;
+ ballx:-5# bally:-32# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+201,400,217,146,True,7,2,-9108;
+%%
+GOTO(7,217,146):GOTO(0,217,146):GOTO(1,217,146):GOTO(2,217,146):GOTO(3,217,146):GOTO(4,217,146):GOTO(5,217,146):GOTO(6,217,146):GOTO(7,217,146):GOTO(8,217,146):GOTO(9,217,146):;
+ ballx:-23# bally:-34# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+202,400,200,144,True,1,10,-9148;
+%%
+GOTO(2,200,144):GOTO(0,200,144):SHOOT(1,0):GOTO(2,200,144):GOTO(3,200,144):GOTO(4,200,144):GOTO(5,200,144):GOTO(6,200,144):GOTO(7,200,144):GOTO(8,200,144):GOTO(9,200,144):;
+ ballx:-40# bally:-36# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+203,400,184,143,True,1,10,-9205;
+%%
+GOTO(4,184,143):SHOOT(0,0):SHOOT(1,0):GOTO(2,184,143):GOTO(3,184,143):GOTO(4,184,143):GOTO(5,184,143):GOTO(6,184,143):GOTO(7,184,143):GOTO(8,184,143):GOTO(9,184,143):;
+ ballx:-56# bally:-37# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+204,400,205,144,True,1,2,-9240;
+%%
+GOTO(0,205,144):GOTO(0,205,144):SHOOT(1,0):GOTO(2,205,144):GOTO(3,205,144):GOTO(4,205,144):GOTO(5,205,144):GOTO(6,205,144):GOTO(7,205,144):GOTO(8,205,144):GOTO(9,205,144):;
+ ballx:-35# bally:-36# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:1#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+205,400,225,145,True,3,2,-9256;
+%%
+GOTO(5,225,145):GOTO(0,225,145):GOTO(1,225,145):SHOOT(2,0):SHOOT(3,0):GOTO(4,225,145):SHOOT(5,0):GOTO(6,225,145):SHOOT(7,0):SHOOT(8,0):SHOOT(9,0):;
+ ballx:-15# bally:-35# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+206,400,243,147,False,9,8,-9253;
+%%
+GOTO(6,243,147):GOTO(0,243,147):GOTO(1,243,147):SHOOT(2,0):GOTO(3,243,147):GOTO(4,243,147):SHOOT(5,0):GOTO(6,243,147):SHOOT(7,0):SHOOT(8,0):SHOOT(9,0):;
+ ballx:3# bally:-33# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+207,400,261,148,False,9,4,-9231;
+%%
+GOTO(1,261,148):GOTO(0,261,148):GOTO(1,261,148):GOTO(2,261,148):GOTO(3,261,148):GOTO(4,261,148):GOTO(5,261,148):GOTO(6,261,148):GOTO(7,261,148):GOTO(8,261,148):GOTO(9,261,148):;
+ ballx:21# bally:-32# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+208,400,278,149,False,9,0,-9193;
+%%
+GOTO(3,278,149):GOTO(0,278,149):GOTO(1,278,149):GOTO(2,278,149):GOTO(3,278,149):GOTO(4,278,149):GOTO(5,278,149):GOTO(6,278,149):GOTO(7,278,149):GOTO(8,278,149):GOTO(9,278,149):;
+ ballx:38# bally:-31# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+209,400,294,150,False,9,0,-9139;
+%%
+GOTO(6,294,150):GOTO(0,294,150):GOTO(1,294,150):GOTO(2,294,150):GOTO(3,294,150):GOTO(4,294,150):GOTO(5,294,150):GOTO(6,294,150):GOTO(7,294,150):GOTO(8,294,150):GOTO(9,294,150):;
+ ballx:54# bally:-30# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:9#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+210,400,309,151,False,8,1,-9070;
+%%
+GOTO(3,309,151):GOTO(0,309,151):GOTO(1,309,151):GOTO(2,309,151):GOTO(3,309,151):GOTO(4,309,151):GOTO(5,309,151):GOTO(6,309,151):GOTO(7,309,151):GOTO(8,309,151):GOTO(9,309,151):;
+ ballx:69# bally:-29# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+211,400,323,152,False,8,1,-8987;
+%%
+GOTO(4,323,152):GOTO(0,323,152):GOTO(1,323,152):GOTO(2,323,152):GOTO(3,323,152):GOTO(4,323,152):GOTO(5,323,152):GOTO(6,323,152):GOTO(7,323,152):GOTO(8,323,152):GOTO(9,323,152):;
+ ballx:83# bally:-28# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+212,400,336,153,False,10,1,-8891;
+%%
+GOTO(6,336,153):GOTO(0,336,153):GOTO(1,336,153):GOTO(2,336,153):GOTO(3,336,153):GOTO(4,336,153):GOTO(5,336,153):GOTO(6,336,153):GOTO(7,336,153):GOTO(8,336,153):GOTO(9,336,153):;
+ ballx:96# bally:-27# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+213,400,348,154,False,10,1,-8782;
+%%
+GOTO(6,348,154):GOTO(0,348,154):GOTO(1,348,154):GOTO(2,348,154):GOTO(3,348,154):GOTO(4,348,154):GOTO(5,348,154):GOTO(6,348,154):GOTO(7,348,154):GOTO(8,348,154):GOTO(9,348,154):;
+ ballx:108# bally:-26# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+214,400,359,154,False,10,1,-8663;
+%%
+GOTO(1,359,154):GOTO(0,359,154):GOTO(1,359,154):GOTO(2,359,154):GOTO(3,359,154):GOTO(4,359,154):GOTO(5,359,154):GOTO(6,359,154):GOTO(7,359,154):GOTO(8,359,154):GOTO(9,359,154):;
+ ballx:119# bally:-26# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+215,400,369,155,True,10,1,-8534;
+%%
+GOTO(6,369,155):GOTO(0,369,155):GOTO(1,369,155):GOTO(2,369,155):GOTO(3,369,155):GOTO(4,369,155):GOTO(5,369,155):GOTO(6,369,155):GOTO(7,369,155):GOTO(8,369,155):GOTO(9,369,155):;
+ ballx:129# bally:-25# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+216,400,378,156,True,10,1,-8396;
+%%
+GOTO(9,378,156):GOTO(0,378,156):GOTO(1,378,156):GOTO(2,378,156):GOTO(3,378,156):GOTO(4,378,156):GOTO(5,378,156):GOTO(6,378,156):GOTO(7,378,156):GOTO(8,378,156):GOTO(9,378,156):;
+ ballx:138# bally:-24# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+217,400,385,156,True,10,1,-8250;
+%%
+GOTO(1,385,156):GOTO(0,385,156):GOTO(1,385,156):GOTO(2,385,156):GOTO(3,385,156):GOTO(4,385,156):GOTO(5,385,156):GOTO(6,385,156):GOTO(7,385,156):GOTO(8,385,156):GOTO(9,385,156):;
+ ballx:145# bally:-24# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+218,400,392,157,True,10,1,-8097;
+%%
+GOTO(10,392,157):GOTO(0,392,157):GOTO(1,392,157):GOTO(2,392,157):GOTO(3,392,157):GOTO(4,392,157):GOTO(5,392,157):GOTO(6,392,157):GOTO(7,392,157):GOTO(8,392,157):GOTO(9,392,157):;
+ ballx:152# bally:-23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+219,400,398,157,True,10,1,-7938;
+%%
+GOTO(1,398,157):GOTO(0,398,157):GOTO(1,398,157):GOTO(2,398,157):GOTO(3,398,157):GOTO(4,398,157):GOTO(5,398,157):GOTO(6,398,157):GOTO(7,398,157):GOTO(8,398,157):GOTO(9,398,157):;
+ ballx:158# bally:-23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+220,400,403,157,True,10,1,-7774;
+%%
+GOTO(5,403,157):GOTO(0,403,157):GOTO(1,403,157):GOTO(2,403,157):GOTO(3,403,157):GOTO(4,403,157):GOTO(5,403,157):GOTO(6,403,157):GOTO(7,403,157):GOTO(8,403,157):GOTO(9,403,157):;
+ ballx:163# bally:-23# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+221,400,407,158,True,10,1,-7607;
+%%
+GOTO(1,407,158):GOTO(0,407,158):GOTO(1,407,158):GOTO(2,407,158):GOTO(3,407,158):GOTO(4,407,158):GOTO(5,407,158):GOTO(6,407,158):GOTO(7,407,158):GOTO(8,407,158):GOTO(9,407,158):;
+ ballx:167# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+222,400,410,158,True,10,1,-7436;
+%%
+GOTO(0,410,158):GOTO(0,410,158):GOTO(1,410,158):GOTO(2,410,158):GOTO(3,410,158):GOTO(4,410,158):GOTO(5,410,158):GOTO(6,410,158):GOTO(7,410,158):GOTO(8,410,158):GOTO(9,410,158):;
+ ballx:170# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+223,400,412,158,True,10,8,-7263;
+%%
+GOTO(9,412,158):GOTO(0,412,158):GOTO(1,412,158):GOTO(2,412,158):GOTO(3,412,158):GOTO(4,412,158):GOTO(5,412,158):GOTO(6,412,158):GOTO(7,412,158):GOTO(8,412,158):GOTO(9,412,158):;
+ ballx:172# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+224,400,413,158,False,8,8,-7089;
+%%
+GOTO(8,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):GOTO(8,413,158):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+225,400,413,158,False,8,8,-6915;
+%%
+GOTO(5,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):GOTO(8,413,158):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+226,400,413,158,False,8,8,-6741;
+%%
+GOTO(8,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):GOTO(8,413,158):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+227,400,413,158,False,8,8,-6567;
+%%
+GOTO(0,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):GOTO(8,413,158):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+228,400,413,158,False,8,8,-6393;
+%%
+GOTO(10,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):GOTO(8,413,158):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+229,400,413,158,False,8,8,-6219;
+%%
+GOTO(4,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):GOTO(8,413,158):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+230,400,413,158,False,8,8,-6045;
+%%
+GOTO(3,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):GOTO(3,413,158):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):SHOOT(8,0):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+231,400,413,158,False,8,8,-5871;
+%%
+GOTO(3,413,158):GOTO(0,413,158):GOTO(1,413,158):GOTO(2,413,158):SHOOT(3,0):GOTO(4,413,158):GOTO(5,413,158):GOTO(6,413,158):GOTO(7,413,158):SHOOT(8,0):GOTO(9,413,158):;
+ ballx:173# bally:-22# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+232,400,402,156,True,8,3,-5709;
+%%
+GOTO(0,402,156):GOTO(0,402,156):GOTO(1,402,156):SHOOT(2,0):SHOOT(3,0):GOTO(4,402,156):GOTO(5,402,156):GOTO(6,402,156):GOTO(7,402,156):SHOOT(8,0):GOTO(9,402,156):;
+ ballx:162# bally:-24# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+233,400,413,159,False,8,8,-5535;
+%%
+GOTO(3,413,159):GOTO(0,413,159):GOTO(1,413,159):GOTO(2,413,159):SHOOT(3,0):GOTO(4,413,159):GOTO(5,413,159):GOTO(6,413,159):GOTO(7,413,159):SHOOT(8,0):GOTO(9,413,159):;
+ ballx:173# bally:-21# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+234,400,401,159,True,2,3,-5374;
+%%
+GOTO(10,401,159):GOTO(0,401,159):GOTO(1,401,159):SHOOT(2,0):SHOOT(3,0):GOTO(4,401,159):GOTO(5,401,159):GOTO(6,401,159):GOTO(7,401,159):SHOOT(8,0):GOTO(9,401,159):;
+ ballx:161# bally:-21# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+235,400,389,161,False,2,1,-5224;
+%%
+GOTO(1,389,161):GOTO(0,389,161):GOTO(1,389,161):SHOOT(2,0):SHOOT(3,0):GOTO(4,389,161):SHOOT(5,0):GOTO(6,389,161):GOTO(7,389,161):SHOOT(8,0):SHOOT(9,0):;
+ ballx:149# bally:-19# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+236,400,372,164,False,5,7,-5092;
+%%
+GOTO(6,372,164):GOTO(0,372,164):GOTO(1,372,164):GOTO(2,372,164):GOTO(3,372,164):GOTO(4,372,164):SHOOT(5,0):GOTO(6,372,164):GOTO(7,372,164):GOTO(8,372,164):SHOOT(9,0):;
+ ballx:132# bally:-16# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:5#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+237,400,355,167,True,7,7,-4977;
+%%
+GOTO(8,355,167):GOTO(0,355,167):GOTO(1,355,167):GOTO(2,355,167):GOTO(3,355,167):GOTO(4,355,167):GOTO(5,355,167):GOTO(6,355,167):SHOOT(7,0):GOTO(8,355,167):GOTO(9,355,167):;
+ ballx:115# bally:-13# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+238,400,339,169,True,7,9,-4877;
+%%
+GOTO(0,339,169):SHOOT(0,0):SHOOT(1,0):GOTO(2,339,169):GOTO(3,339,169):SHOOT(4,0):GOTO(5,339,169):GOTO(6,339,169):SHOOT(7,0):GOTO(8,339,169):GOTO(9,339,169):;
+ ballx:99# bally:-11# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:7#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+239,400,360,171,False,5,2,-4757;
+%%
+GOTO(0,360,171):GOTO(0,360,171):GOTO(1,360,171):GOTO(2,360,171):GOTO(3,360,171):GOTO(4,360,171):SHOOT(5,0):GOTO(6,360,171):SHOOT(7,0):GOTO(8,360,171):SHOOT(9,0):;
+ ballx:120# bally:-9# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:5#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+240,400,380,172,True,2,3,-4616;
+%%
+GOTO(1,380,172):GOTO(0,380,172):GOTO(1,380,172):SHOOT(2,0):SHOOT(3,0):GOTO(4,380,172):SHOOT(5,0):GOTO(6,380,172):GOTO(7,380,172):SHOOT(8,0):SHOOT(9,0):;
+ ballx:140# bally:-8# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+241,400,399,174,False,3,1,-4457;
+%%
+GOTO(5,399,174):GOTO(0,399,174):GOTO(1,399,174):GOTO(2,399,174):SHOOT(3,0):GOTO(4,399,174):GOTO(5,399,174):GOTO(6,399,174):GOTO(7,399,174):SHOOT(8,0):GOTO(9,399,174):;
+ ballx:159# bally:-6# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:3#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+242,400,417,175,True,2,5,-4280;
+%%
+GOTO(4,417,175):GOTO(0,417,175):GOTO(1,417,175):GOTO(2,417,175):GOTO(3,417,175):GOTO(4,417,175):GOTO(5,417,175):GOTO(6,417,175):GOTO(7,417,175):GOTO(8,417,175):GOTO(9,417,175):;
+ ballx:177# bally:-5# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+243,400,434,176,True,2,5,-4085;
+%%
+GOTO(10,434,176):GOTO(0,434,176):GOTO(1,434,176):GOTO(2,434,176):GOTO(3,434,176):GOTO(4,434,176):GOTO(5,434,176):GOTO(6,434,176):GOTO(7,434,176):GOTO(8,434,176):GOTO(9,434,176):;
+ ballx:194# bally:-4# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+244,400,450,177,True,2,5,-3875;
+%%
+GOTO(9,450,177):GOTO(0,450,177):GOTO(1,450,177):GOTO(2,450,177):GOTO(3,450,177):GOTO(4,450,177):GOTO(5,450,177):GOTO(6,450,177):GOTO(7,450,177):GOTO(8,450,177):GOTO(9,450,177):;
+ ballx:210# bally:-3# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+245,400,465,178,True,2,5,-3650;
+%%
+GOTO(3,465,178):GOTO(0,465,178):GOTO(1,465,178):GOTO(2,465,178):GOTO(3,465,178):GOTO(4,465,178):GOTO(5,465,178):GOTO(6,465,178):GOTO(7,465,178):GOTO(8,465,178):GOTO(9,465,178):;
+ ballx:225# bally:-2# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+246,400,479,179,True,2,3,-3411;
+%%
+GOTO(9,479,179):GOTO(0,479,179):GOTO(1,479,179):GOTO(2,479,179):GOTO(3,479,179):GOTO(4,479,179):GOTO(5,479,179):GOTO(6,479,179):GOTO(7,479,179):GOTO(8,479,179):GOTO(9,479,179):;
+ ballx:239# bally:-1# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:2#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+247,400,240,180,False,10,10,-3411;
+%%
+GOTO(2,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+248,400,240,180,False,10,10,-3411;
+%%
+GOTO(10,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+249,400,240,180,False,10,10,-3411;
+%%
+GOTO(10,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+250,400,240,180,False,10,10,-3411;
+%%
+GOTO(1,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+251,400,240,180,False,10,10,-3411;
+%%
+GOTO(9,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+252,400,240,180,False,10,10,-3411;
+%%
+GOTO(8,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+253,400,240,180,False,10,10,-3411;
+%%
+GOTO(7,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+254,400,240,180,False,10,10,-3411;
+%%
+GOTO(7,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+255,400,240,180,False,10,10,-3411;
+%%
+GOTO(9,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+256,400,240,180,False,10,10,-3411;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+257,400,240,180,True,10,10,-3411;
+%%
+GOTO(6,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+258,400,240,180,True,10,10,-3411;
+%%
+GOTO(0,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+259,400,240,180,True,10,10,-3411;
+%%
+GOTO(9,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+260,400,240,180,True,10,9,-3411;
+%%
+GOTO(4,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+261,400,240,180,True,10,9,-3411;
+%%
+GOTO(7,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+262,400,240,180,True,10,9,-3411;
+%%
+GOTO(5,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+263,400,240,180,True,10,8,-3411;
+%%
+GOTO(2,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:10#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+264,400,240,180,False,8,8,-3411;
+%%
+GOTO(8,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):GOTO(8,240,180):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+265,400,240,180,False,8,8,-3411;
+%%
+GOTO(5,240,180):GOTO(0,240,180):GOTO(1,240,180):GOTO(2,240,180):GOTO(3,240,180):GOTO(4,240,180):GOTO(5,240,180):GOTO(6,240,180):GOTO(7,240,180):SHOOT(8,0):GOTO(9,240,180):;
+ ballx:0# bally:0# (('ID', 'a', 10), ('INT', '234', 10)):[None]# i:11# mineCloserBall:8#;
+('Error Line ( 6 ) : Number of player must be integer between 1 and 11 ..',);
+266,400,240,180,False,8,8,-3411;
+%%

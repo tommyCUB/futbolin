@@ -1,0 +1,30 @@
+/* CSS Document */
+
+.row{
+    margin-top:40px;
+    padding: 0 10px;
+}
+
+.clickable{
+    cursor: pointer;   
+}
+
+.panel-heading span {
+	margin-top: -20px;
+	font-size: 15px;
+}
+
+.input-group{
+	padding: 0rem;
+	padding-bottom: 0px;
+}
+.input-group-text
+{
+	text-align: right;
+	padding: 0.2rem;
+	
+}
+.row{
+	margin:0.1rem;
+	
+}

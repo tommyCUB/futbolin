@@ -1,0 +1,97 @@
+cerca= myCloserToPoint(ballx,bally);  
+
+fun portero(num)
+{
+	dball= distance(minex(num),miney(num),ballx,bally);
+    dPorteria= distance(minex(num),miney(num),-210,0); 	
+    
+    if(canHitBall(num)){    
+          if(bally>0)                 
+     	  	 hit(num,50,-180); 
+           else      
+           	hit(num,50,180);           
+        }
+    else
+    {
+   		 if(dball<40 && dPorteria<100)
+      		goto(num,ballx,bally);
+        else
+        {
+           yo=bally;
+           if(yo<-40)
+           		yo=-40;
+            if(yo>40)
+              yo=40;
+		   goto(num,-210,yo);
+        }
+    }
+ }
+ 
+ fun delantero(num)
+ {
+      disti=distance(ballx,bally,initialX,initicalY);
+      
+      if(canHitBall(num))
+        shoot(num,2);
+      else
+      {
+         if(cerca==num)
+         {
+           goto(num,ballx,bally);
+         }
+         else
+         {
+             cose= (bally - initicalY)/disti; 
+             seno= (ballx - initicalY)/dist;
+             x= cose*disti/2;
+             y= sen*disti/2;
+         		goto(num,x,y);
+         }         
+      }
+        
+ }
+ 
+ fun recuperador(num)
+ {
+     if(canHitBall(num))
+     {
+      pass(num,myNext);
+     }     
+     else
+     {
+         goto(num,ballx,bally);
+     }
+ }
+ 
+ fun defensa(num)
+ {
+  		dPos= distance(ballx,bally,initialX(num),initialY(num));
+        
+        if(canHitBall(num)){    
+        	shoot(num,1);
+        }
+        else{        
+          if(cerca==num || dPos<100)
+              goto(num,ballx,bally);
+          else
+          	 goto(num,initialX(num),initialY(num));
+        }        
+ }
+ 
+portero(1);
+
+defensa(2);
+defensa(3);
+defensa(4);
+defensa(5);
+
+recuperador(6);
+recuperador(7);
+recuperador(8);
+
+defensa(9);
+defensa(10);
+defensa(11);
+
+
+
